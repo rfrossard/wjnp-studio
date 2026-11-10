@@ -1,0 +1,12 @@
+{
+  "name": "audio",
+  "version": "0.3.0",
+  "description": "Voices (narrator and the tone-based cast), background music menu, pronunciation respellings for AI and tech terms, and the mix targets for narration, music and the master limiter.",
+  "files": [
+    "voices.json",
+    "pronunciation.json",
+    "mix.json",
+    "music.json"
+  ],
+  "protected": false
+}

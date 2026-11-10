@@ -1,0 +1,7 @@
+{
+  "name": "orchestration",
+  "version": "0.1.0",
+  "description": "Model routing: which tier and model runs each task kind, the verifier and critic models (still to be configured from another model family), the escalation order, and the weekly paid-generation budget in USD.",
+  "files": ["routing.json"],
+  "protected": false
+}

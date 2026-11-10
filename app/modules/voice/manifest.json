@@ -1,0 +1,7 @@
+{
+  "name": "voice",
+  "version": "0.1.0",
+  "description": "How the script is written: the storytelling rules (voice-spec.md), the skeletons that set beat timing for a five-minute episode, banned filler phrases and regex patterns, and the owner's own exemplar texts.",
+  "files": ["voice-spec.md", "skeletons.json", "banned-phrases.json", "exemplars/README.md"],
+  "protected": false
+}

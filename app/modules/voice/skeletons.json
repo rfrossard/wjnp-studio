@@ -1,0 +1,80 @@
+[
+  {
+    "id": "five-beat-default",
+    "name": "Five-beat default",
+    "beats": [
+      {
+        "id": "hook",
+        "purpose": "Open on one concrete, visible fact from this week. No preamble.",
+        "targetSeconds": 30,
+        "templates": ["title_hook", "statement"]
+      },
+      {
+        "id": "tension",
+        "purpose": "Set two pieces of evidence against each other: what the study says, what the product ships.",
+        "targetSeconds": 60,
+        "templates": ["statement", "comparison"]
+      },
+      {
+        "id": "evidence",
+        "purpose": "Show the verified number, quote or clip that carries the tension. One idea per scene.",
+        "targetSeconds": 90,
+        "templates": ["stat", "quote_card", "clip", "timeline"]
+      },
+      {
+        "id": "practitioner_view",
+        "purpose": "The owner's view from years of practice, labelled My take. What changes for the people affected.",
+        "targetSeconds": 75,
+        "templates": ["personal_take", "bullets"]
+      },
+      {
+        "id": "question",
+        "purpose": "Close with one open question to the audience.",
+        "targetSeconds": 45,
+        "templates": ["end_card", "personal_take"]
+      }
+    ]
+  },
+  {
+    "id": "counterpoint",
+    "name": "Counterpoint",
+    "beats": [
+      {
+        "id": "hook",
+        "purpose": "Open on the popular claim, stated fairly and in one sentence.",
+        "targetSeconds": 30,
+        "templates": ["title_hook", "statement"]
+      },
+      {
+        "id": "claim",
+        "purpose": "Say what the claim gets right, with the source that supports it.",
+        "targetSeconds": 45,
+        "templates": ["statement", "stat"]
+      },
+      {
+        "id": "counterevidence",
+        "purpose": "Bring the evidence that complicates the claim. Quote or number, verified.",
+        "targetSeconds": 75,
+        "templates": ["stat", "quote_card", "clip"]
+      },
+      {
+        "id": "tension",
+        "purpose": "Lay the two readings side by side and leave the gap visible.",
+        "targetSeconds": 60,
+        "templates": ["comparison", "bullets"]
+      },
+      {
+        "id": "practitioner_view",
+        "purpose": "The owner's view, labelled My take. Say what he would check first in practice.",
+        "targetSeconds": 60,
+        "templates": ["personal_take"]
+      },
+      {
+        "id": "question",
+        "purpose": "Close with one open question to the audience.",
+        "targetSeconds": 30,
+        "templates": ["end_card"]
+      }
+    ]
+  }
+]

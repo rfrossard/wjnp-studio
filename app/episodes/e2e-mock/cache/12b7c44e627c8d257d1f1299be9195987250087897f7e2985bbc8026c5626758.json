@@ -1,0 +1,137 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 10400,
+  "words": [
+    {
+      "w": "And",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "people",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "are",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "using",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "it",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "more",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "freely",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "than",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "you",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "might",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "expect.",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "In",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "one",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "field",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "study,",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "more",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "than",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "a",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "third",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "of",
+      "startMs": 7600,
+      "endMs": 8000
+    },
+    {
+      "w": "participants",
+      "startMs": 8000,
+      "endMs": 8400
+    },
+    {
+      "w": "never",
+      "startMs": 8400,
+      "endMs": 8800
+    },
+    {
+      "w": "looked",
+      "startMs": 8800,
+      "endMs": 9200
+    },
+    {
+      "w": "at",
+      "startMs": 9200,
+      "endMs": 9600
+    },
+    {
+      "w": "the",
+      "startMs": 9600,
+      "endMs": 10000
+    },
+    {
+      "w": "cart.",
+      "startMs": 10000,
+      "endMs": 10400
+    }
+  ],
+  "file": "12b7c44e627c8d257d1f1299be9195987250087897f7e2985bbc8026c5626758.wav"
+}

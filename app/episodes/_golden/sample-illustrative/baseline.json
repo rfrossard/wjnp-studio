@@ -1,0 +1,39 @@
+{
+  "episodeId": "sample-illustrative",
+  "createdAt": "2026-11-10T03:23:58.432Z",
+  "gatePass": false,
+  "durations": {
+    "masterSeconds": 85.6,
+    "cutSeconds": 40.67
+  },
+  "findings": [
+    {
+      "rule": "factuality.message_unsupported",
+      "severity": "warning"
+    },
+    {
+      "rule": "design.accent_not_picked",
+      "severity": "warning"
+    },
+    {
+      "rule": "timing.master_duration",
+      "severity": "error"
+    },
+    {
+      "rule": "timing.cut_duration",
+      "severity": "error"
+    }
+  ],
+  "moduleVersions": {
+    "radar": "0.1.0",
+    "factuality": "0.1.0",
+    "voice": "0.1.0",
+    "compliance": "0.1.0",
+    "templates": "0.1.0",
+    "design": "0.1.0",
+    "audio": "0.1.0",
+    "gate": "0.1.0",
+    "publish": "0.1.0",
+    "orchestration": "0.1.0"
+  }
+}

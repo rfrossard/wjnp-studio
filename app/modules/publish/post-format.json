@@ -1,0 +1,6 @@
+{
+  "hookLines": 2,
+  "maxHashtags": 3,
+  "disclaimer": "Views are my own.",
+  "firstCommentTemplate": "Sources:\n{{sources}}\n\nDesktop version: {{desktopUrl}}"
+}

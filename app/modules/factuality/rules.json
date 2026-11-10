@@ -1,0 +1,10 @@
+{
+  "minIndependentSources": 2,
+  "requirePrimarySource": true,
+  "validityDays": {
+    "fact": 90,
+    "number": 60,
+    "quote": 365,
+    "interpretation": 30
+  }
+}

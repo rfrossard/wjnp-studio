@@ -1,0 +1,81 @@
+{
+  "entities": [
+    { "name": "Itaú", "aliases": ["Itau", "Banco Itaú", "Banco Itau"], "category": "employer" },
+    { "name": "Itaú Unibanco", "aliases": ["Itau Unibanco"], "category": "employer" },
+    { "name": "ICTi", "aliases": ["Instituto de Ciência e Tecnologia Itaú", "Instituto de Ciencia e Tecnologia Itau"], "category": "employer" },
+    { "name": "Hub Internacional", "aliases": ["Hub Internacional do Itaú", "Hub Internacional do Itau", "International Hub"], "category": "employer" },
+
+    { "name": "JPMorgan Chase", "aliases": ["JPMorgan", "J.P. Morgan", "Chase"], "category": "bank" },
+    { "name": "Bank of America", "aliases": ["BofA", "Bank of America Merrill Lynch"], "category": "bank" },
+    { "name": "Citigroup", "aliases": ["Citi", "Citibank"], "category": "bank" },
+    { "name": "Wells Fargo", "aliases": ["Wells Fargo & Company"], "category": "bank" },
+    { "name": "Goldman Sachs", "aliases": ["Goldman"], "category": "bank" },
+    { "name": "Morgan Stanley", "aliases": [], "category": "bank" },
+    { "name": "HSBC", "aliases": ["HSBC Holdings"], "category": "bank" },
+    { "name": "Barclays", "aliases": ["Barclays PLC"], "category": "bank" },
+    { "name": "BNP Paribas", "aliases": ["BNP"], "category": "bank" },
+    { "name": "Santander", "aliases": ["Banco Santander"], "category": "bank" },
+    { "name": "UBS", "aliases": ["UBS Group"], "category": "bank" },
+    { "name": "Deutsche Bank", "aliases": ["Deutsche"], "category": "bank" },
+    { "name": "Bradesco", "aliases": ["Banco Bradesco"], "category": "bank" },
+    { "name": "Banco do Brasil", "aliases": ["Banco do Brasil S.A."], "category": "bank" },
+    { "name": "Nubank", "aliases": ["Nu Holdings", "Nu Bank"], "category": "bank" },
+
+    { "name": "Banco Central do Brasil", "aliases": ["Banco Central", "BCB", "Central Bank of Brazil"], "category": "regulator" },
+    { "name": "CVM", "aliases": ["Comissão de Valores Mobiliários", "Comissao de Valores Mobiliarios"], "category": "regulator" },
+    { "name": "SEC", "aliases": ["Securities and Exchange Commission"], "category": "regulator" },
+    { "name": "Federal Reserve", "aliases": ["Federal Reserve System", "US Federal Reserve"], "category": "regulator" },
+    { "name": "ECB", "aliases": ["European Central Bank"], "category": "regulator" },
+    { "name": "Bank of England", "aliases": ["BoE"], "category": "regulator" }
+  ],
+  "patterns": [
+    {
+      "id": "forecast_price_level",
+      "regex": "\\b(will|expected to|set to|going to) (reach|hit|surpass|grow to) (US)?\\$\\s?[\\d.,]+",
+      "message": "Market forecast with a dollar level. Remove the forecast; describe the evidence instead.",
+      "severity": "error"
+    },
+    {
+      "id": "price_target",
+      "regex": "\\b(price target|target price)\\b",
+      "message": "Price target language is investment advice. Remove it.",
+      "severity": "error"
+    },
+    {
+      "id": "trade_call",
+      "regex": "\\b(buy|sell|short) (the|this|that|these) (stock|shares|bonds?|coins?|tokens?)\\b",
+      "message": "Trade call on a security. Remove it.",
+      "severity": "error"
+    },
+    {
+      "id": "investment_advice",
+      "regex": "\\b(you should|you must|go ahead and|now is the time to) (buy|sell|invest|short)\\b",
+      "message": "Direct investment advice. Remove it.",
+      "severity": "error"
+    },
+    {
+      "id": "employer_voice_role",
+      "regex": "\\bas an? (executive|officer|director|vice president|vp|svp|head) (at|of|for)\\b",
+      "message": "Speaks in an employer role. Rewrite in the personal voice, without titles or employers.",
+      "severity": "error"
+    },
+    {
+      "id": "employer_voice_bank",
+      "regex": "\\b(at|inside|within) my (bank|employer|company|firm)\\b",
+      "message": "Employer voice. Rewrite without referring to the owner's workplace.",
+      "severity": "error"
+    },
+    {
+      "id": "employer_voice_our",
+      "regex": "\\bour (customers|clients|bank|users|shoppers)\\b",
+      "message": "Speaks as the employer (\"our customers\"). Use the audience's or the market's words instead.",
+      "severity": "error"
+    },
+    {
+      "id": "verdict_on_entity",
+      "regex": "\\b(is|are|was|were) (a |an )?(scam|fraud|ponzi|doomed|worthless|a joke)\\b",
+      "message": "Verdict about a company or product. State the evidence and let the audience judge.",
+      "severity": "error"
+    }
+  ]
+}

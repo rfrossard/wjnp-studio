@@ -1,0 +1,1543 @@
+{
+  "schemaVersion": 1,
+  "id": "e2e-mock",
+  "title": "[Illustrative] mock end-to-end",
+  "weekOf": "2026-11-09",
+  "state": "validated",
+  "brief": {
+    "theme": "Agents that can transact on a person's behalf",
+    "thesis": "The interesting question is no longer whether an agent can buy something, but who it answers to when it does.",
+    "messages": [
+      {
+        "id": "m1",
+        "text": "Agent checkout moved from demo to product this year.",
+        "claimIds": [
+          "c-launch",
+          "c-share"
+        ]
+      },
+      {
+        "id": "m2",
+        "text": "Trust, not capability, is now the bottleneck.",
+        "claimIds": [
+          "c-quote"
+        ]
+      },
+      {
+        "id": "m3",
+        "text": "Delegation needs limits a person can read.",
+        "claimIds": []
+      }
+    ],
+    "angle": "A practitioner's view: what changes for the customer, not for the vendor.",
+    "avoid": [
+      "naming banks",
+      "market forecasts"
+    ],
+    "tone": "analytical",
+    "closingQuestion": "What would you let software buy for you without asking first?"
+  },
+  "sources": [
+    {
+      "id": "s-paper",
+      "url": "https://example.org/s-paper",
+      "title": "[ILLUSTRATIVE FIXTURE] A field study of delegated purchasing",
+      "publisher": "Example University",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "paper"
+    },
+    {
+      "id": "s-docs",
+      "url": "https://example.org/s-docs",
+      "title": "[ILLUSTRATIVE FIXTURE] Agent checkout: product documentation",
+      "publisher": "Example Labs",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "official_doc"
+    },
+    {
+      "id": "s-press",
+      "url": "https://example.org/s-press",
+      "title": "[ILLUSTRATIVE FIXTURE] Shoppers hand the cart to software",
+      "publisher": "Example Times",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "tier1",
+      "kind": "press"
+    },
+    {
+      "id": "s-talk",
+      "url": "https://example.org/s-talk",
+      "title": "[ILLUSTRATIVE FIXTURE] Keynote: delegation and its limits",
+      "publisher": "Example Conference",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "video"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c-launch",
+      "text": "Example Labs shipped agent checkout as a generally available product.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "sourceId": "s-docs",
+          "quote": "Agent checkout is generally available."
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "The feature left preview this month."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-share",
+      "text": "In the study, 38% of participants let the agent complete a purchase without review.",
+      "kind": "number",
+      "value": {
+        "display": "38%",
+        "number": 38,
+        "unit": "%"
+      },
+      "evidence": [
+        {
+          "sourceId": "s-paper",
+          "quote": "38% completed the purchase without reviewing the cart.",
+          "locator": "Table 2"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "More than a third skipped the review step."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-quote",
+      "text": "Dr. Example Person said that delegation without legible limits is abdication.",
+      "kind": "quote",
+      "speaker": "Dr. Example Person",
+      "evidence": [
+        {
+          "sourceId": "s-talk",
+          "quote": "Delegation without legible limits is just abdication.",
+          "locator": "12:40"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "She called limitless delegation 'abdication'."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 0,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "title_hook",
+        "kicker": "What's just now possible?",
+        "headline": "Your software just learned to shop."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "This week, software stopped asking for your card and started using it. Here is what is actually new, and what is not.",
+        "audio": {
+          "textSha256": "63b60350169c99f45180f02e223c9072eb478f437c830d60f86df0a76f9bfdc8",
+          "path": "episodes/e2e-mock/cache/63b60350169c99f45180f02e223c9072eb478f437c830d60f86df0a76f9bfdc8.wav",
+          "durationMs": 8800,
+          "words": [
+            {
+              "w": "This",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "week,",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "software",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "stopped",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "asking",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "for",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "your",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "card",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "and",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "started",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "using",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "it.",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "Here",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "is",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "what",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "is",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "actually",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "new,",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "and",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "what",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "is",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "not.",
+              "startMs": 8400,
+              "endMs": 8800
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s02",
+      "order": 1,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "statement",
+        "headline": "From demo to product",
+        "body": "Agent checkout is now generally available, not a preview."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "For two years this was a demo. This month it shipped as a real product, with real money moving.",
+        "audio": {
+          "textSha256": "a32e636e4bf48aff32b7c14a695289c9ff781406be15a1f4583ff033f6d60b6a",
+          "path": "episodes/e2e-mock/cache/a32e636e4bf48aff32b7c14a695289c9ff781406be15a1f4583ff033f6d60b6a.wav",
+          "durationMs": 7600,
+          "words": [
+            {
+              "w": "For",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "two",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "years",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "this",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "was",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "a",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "demo.",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "This",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "month",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "it",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "shipped",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "as",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "a",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "real",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "product,",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "with",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "real",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "money",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "moving.",
+              "startMs": 7200,
+              "endMs": 7600
+            }
+          ]
+        }
+      },
+      "claimIds": [
+        "c-launch"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m1",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 248,
+      "state": "draft"
+    },
+    {
+      "id": "s03",
+      "order": 2,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "stat",
+        "claimId": "c-share",
+        "label": "let the agent buy without reviewing the cart",
+        "context": "Illustrative field study, 2026"
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "And people are using it more freely than you might expect. In one field study, more than a third of participants never looked at the cart.",
+        "audio": {
+          "textSha256": "12b7c44e627c8d257d1f1299be9195987250087897f7e2985bbc8026c5626758",
+          "path": "episodes/e2e-mock/cache/12b7c44e627c8d257d1f1299be9195987250087897f7e2985bbc8026c5626758.wav",
+          "durationMs": 10400,
+          "words": [
+            {
+              "w": "And",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "people",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "are",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "using",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "it",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "more",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "freely",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "than",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "you",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "might",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "expect.",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "In",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "one",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "field",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "study,",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "more",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "than",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "a",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "third",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "of",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "participants",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "never",
+              "startMs": 8400,
+              "endMs": 8800
+            },
+            {
+              "w": "looked",
+              "startMs": 8800,
+              "endMs": 9200
+            },
+            {
+              "w": "at",
+              "startMs": 9200,
+              "endMs": 9600
+            },
+            {
+              "w": "the",
+              "startMs": 9600,
+              "endMs": 10000
+            },
+            {
+              "w": "cart.",
+              "startMs": 10000,
+              "endMs": 10400
+            }
+          ]
+        }
+      },
+      "claimIds": [
+        "c-share"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m1",
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 332,
+      "state": "draft"
+    },
+    {
+      "id": "s04",
+      "order": 3,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "comparison",
+        "headline": "What changed",
+        "left": {
+          "title": "Before",
+          "items": [
+            "Agent recommends",
+            "You click buy",
+            "You own the mistake"
+          ]
+        },
+        "right": {
+          "title": "Now",
+          "items": [
+            "Agent decides",
+            "Agent pays",
+            "Who owns the mistake?"
+          ]
+        }
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "Before, the agent recommended and you clicked. Now the agent decides and pays. The open question is who owns the mistake.",
+        "audio": {
+          "textSha256": "fa73e3d9957970ddb95c67783847bb3b237fbfab37cfcbbe524086b90a2d064b",
+          "path": "episodes/e2e-mock/cache/fa73e3d9957970ddb95c67783847bb3b237fbfab37cfcbbe524086b90a2d064b.wav",
+          "durationMs": 8400,
+          "words": [
+            {
+              "w": "Before,",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "the",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "agent",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "recommended",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "and",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "you",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "clicked.",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "Now",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "the",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "agent",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "decides",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "and",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "pays.",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "The",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "open",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "question",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "is",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "who",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "owns",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "the",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "mistake.",
+              "startMs": 8000,
+              "endMs": 8400
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m2",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 272,
+      "state": "draft"
+    },
+    {
+      "id": "s05",
+      "order": 4,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "quote_card",
+        "claimId": "c-quote",
+        "quote": "Delegation without legible limits is just abdication.",
+        "attribution": "Dr. Example Person",
+        "sourceLabel": "Example Conference keynote"
+      },
+      "narration": {
+        "voiceId": "voice-river",
+        "text": "One researcher put it sharply on stage this week. Delegation without limits you can read is not delegation at all.",
+        "audio": {
+          "textSha256": "c88ab7ac65219ea824c59e6f03d6c511fe02fe8f4a072c57830ff955d06f4f80",
+          "path": "episodes/e2e-mock/cache/c88ab7ac65219ea824c59e6f03d6c511fe02fe8f4a072c57830ff955d06f4f80.wav",
+          "durationMs": 8000,
+          "words": [
+            {
+              "w": "One",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "researcher",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "put",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "it",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "sharply",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "on",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "stage",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "this",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "week.",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "Delegation",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "without",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "limits",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "you",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "can",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "read",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "is",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "not",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "delegation",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "at",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "all.",
+              "startMs": 7600,
+              "endMs": 8000
+            }
+          ]
+        }
+      },
+      "claimIds": [
+        "c-quote"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m2",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 260,
+      "state": "draft"
+    },
+    {
+      "id": "s06",
+      "order": 5,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "timeline",
+        "headline": "How a delegated purchase runs",
+        "steps": [
+          {
+            "label": "Intent",
+            "text": "You state a goal and a budget"
+          },
+          {
+            "label": "Search",
+            "text": "The agent compares options"
+          },
+          {
+            "label": "Mandate",
+            "text": "It checks the limits you set"
+          },
+          {
+            "label": "Pay",
+            "text": "It completes the purchase"
+          }
+        ]
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "Here is the flow. You state a goal and a budget. The agent searches, checks the limits you set, and then pays.",
+        "audio": {
+          "textSha256": "8dc369a27ecc2f34c2949182ec17e882d6b524bdc8db3e6eb9e9986a98c3d9dd",
+          "path": "episodes/e2e-mock/cache/8dc369a27ecc2f34c2949182ec17e882d6b524bdc8db3e6eb9e9986a98c3d9dd.wav",
+          "durationMs": 8800,
+          "words": [
+            {
+              "w": "Here",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "is",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "the",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "flow.",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "You",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "state",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "a",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "goal",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "and",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "a",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "budget.",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "The",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "agent",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "searches,",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "checks",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "the",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "limits",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "you",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "set,",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "and",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "then",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "pays.",
+              "startMs": 8400,
+              "endMs": 8800
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s07",
+      "order": 6,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "bullets",
+        "headline": "Limits a person can read",
+        "bullets": [
+          "A ceiling per purchase",
+          "A list of allowed merchants",
+          "A receipt in plain language"
+        ]
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "So what do readable limits look like? A ceiling per purchase, a list of allowed merchants, and a receipt in plain language.",
+        "audio": {
+          "textSha256": "cee850fb530875d0e19bf601f2d67a918bfb2fa588e0e9884248e1739abad1ae",
+          "path": "episodes/e2e-mock/cache/cee850fb530875d0e19bf601f2d67a918bfb2fa588e0e9884248e1739abad1ae.wav",
+          "durationMs": 8800,
+          "words": [
+            {
+              "w": "So",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "what",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "do",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "readable",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "limits",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "look",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "like?",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "A",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "ceiling",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "per",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "purchase,",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "a",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "list",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "of",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "allowed",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "merchants,",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "and",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "a",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "receipt",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "in",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "plain",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "language.",
+              "startMs": 8400,
+              "endMs": 8800
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s08",
+      "order": 7,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "personal_take",
+        "headline": "Capability is solved. Accountability is not.",
+        "body": "I would start with the receipt, not the agent."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "My take. The capability is here. The accountability is not. If I were building this, I would start with the receipt, not the agent.",
+        "audio": {
+          "textSha256": "3af913080761cc4ef4738d458516c5dcbf1a52f01b94447310b90f94b67e0550",
+          "path": "episodes/e2e-mock/cache/3af913080761cc4ef4738d458516c5dcbf1a52f01b94447310b90f94b67e0550.wav",
+          "durationMs": 9600,
+          "words": [
+            {
+              "w": "My",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "take.",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "The",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "capability",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "is",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "here.",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "The",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "accountability",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "is",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "not.",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "If",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "I",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "were",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "building",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "this,",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "I",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "would",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "start",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "with",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "the",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "receipt,",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "not",
+              "startMs": 8400,
+              "endMs": 8800
+            },
+            {
+              "w": "the",
+              "startMs": 8800,
+              "endMs": 9200
+            },
+            {
+              "w": "agent.",
+              "startMs": 9200,
+              "endMs": 9600
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": true,
+      "inCut": true,
+      "durationFrames": 308,
+      "state": "draft"
+    },
+    {
+      "id": "s09",
+      "order": 8,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "end_card",
+        "question": "What would you let software buy for you without asking first?"
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "So here is my question for you. What would you let software buy for you without asking first? Tell me in the comments.",
+        "audio": {
+          "textSha256": "235d862e52582618038a84301590c41825642ed349f1ee0174977175e3379032",
+          "path": "episodes/e2e-mock/cache/235d862e52582618038a84301590c41825642ed349f1ee0174977175e3379032.wav",
+          "durationMs": 9200,
+          "words": [
+            {
+              "w": "So",
+              "startMs": 0,
+              "endMs": 400
+            },
+            {
+              "w": "here",
+              "startMs": 400,
+              "endMs": 800
+            },
+            {
+              "w": "is",
+              "startMs": 800,
+              "endMs": 1200
+            },
+            {
+              "w": "my",
+              "startMs": 1200,
+              "endMs": 1600
+            },
+            {
+              "w": "question",
+              "startMs": 1600,
+              "endMs": 2000
+            },
+            {
+              "w": "for",
+              "startMs": 2000,
+              "endMs": 2400
+            },
+            {
+              "w": "you.",
+              "startMs": 2400,
+              "endMs": 2800
+            },
+            {
+              "w": "What",
+              "startMs": 2800,
+              "endMs": 3200
+            },
+            {
+              "w": "would",
+              "startMs": 3200,
+              "endMs": 3600
+            },
+            {
+              "w": "you",
+              "startMs": 3600,
+              "endMs": 4000
+            },
+            {
+              "w": "let",
+              "startMs": 4000,
+              "endMs": 4400
+            },
+            {
+              "w": "software",
+              "startMs": 4400,
+              "endMs": 4800
+            },
+            {
+              "w": "buy",
+              "startMs": 4800,
+              "endMs": 5200
+            },
+            {
+              "w": "for",
+              "startMs": 5200,
+              "endMs": 5600
+            },
+            {
+              "w": "you",
+              "startMs": 5600,
+              "endMs": 6000
+            },
+            {
+              "w": "without",
+              "startMs": 6000,
+              "endMs": 6400
+            },
+            {
+              "w": "asking",
+              "startMs": 6400,
+              "endMs": 6800
+            },
+            {
+              "w": "first?",
+              "startMs": 6800,
+              "endMs": 7200
+            },
+            {
+              "w": "Tell",
+              "startMs": 7200,
+              "endMs": 7600
+            },
+            {
+              "w": "me",
+              "startMs": 7600,
+              "endMs": 8000
+            },
+            {
+              "w": "in",
+              "startMs": 8000,
+              "endMs": 8400
+            },
+            {
+              "w": "the",
+              "startMs": 8400,
+              "endMs": 8800
+            },
+            {
+              "w": "comments.",
+              "startMs": 8800,
+              "endMs": 9200
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 296,
+      "state": "draft"
+    }
+  ],
+  "design": {
+    "profile": "personal",
+    "accent": {
+      "name": "teal",
+      "hex": "#1F7A8C"
+    },
+    "styles": [
+      "editorial_data"
+    ]
+  },
+  "audio": {
+    "narratorVoiceId": "voice-roberto",
+    "castVoiceIds": [
+      "voice-river"
+    ],
+    "musicAssetIds": []
+  },
+  "clipDecisions": [],
+  "post": {
+    "text": "Your software just learned to shop.\nThe question is who it answers to.\n\n[Illustrative fixture post]",
+    "hashtags": [
+      "#AI",
+      "#Agents"
+    ],
+    "firstComment": "Sources: see CREDITS.",
+    "disclaimer": "Views are my own."
+  },
+  "costs": [
+    {
+      "taskId": "narrate-s01",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.591Z"
+    },
+    {
+      "taskId": "narrate-s02",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.592Z"
+    },
+    {
+      "taskId": "narrate-s03",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.592Z"
+    },
+    {
+      "taskId": "narrate-s04",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.593Z"
+    },
+    {
+      "taskId": "narrate-s05",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.593Z"
+    },
+    {
+      "taskId": "narrate-s06",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.593Z"
+    },
+    {
+      "taskId": "narrate-s07",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.594Z"
+    },
+    {
+      "taskId": "narrate-s08",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.594Z"
+    },
+    {
+      "taskId": "narrate-s09",
+      "provider": "elevenlabs",
+      "usd": 0,
+      "at": "2026-11-10T04:13:47.594Z"
+    }
+  ],
+  "moduleVersions": {},
+  "approvals": {
+    "brief": "2026-11-10T04:15:04.661Z",
+    "script": "2026-11-10T04:15:04.857Z"
+  }
+}

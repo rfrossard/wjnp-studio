@@ -1,0 +1,7 @@
+{
+  "name": "styles",
+  "version": "0.1.0",
+  "description": "The style library: 36 visual styles (28 from the motion-director kit 2, 8 native to this renderer) with what each needs, what it is for, its transitions and its required traits. planStyles() in packages/core picks a coherent set per episode from it.",
+  "files": ["catalog.json"],
+  "protected": false
+}

@@ -1,0 +1,60 @@
+{
+  "episodeId": "preset-stage",
+  "createdAt": "2026-11-10T05:26:03.868Z",
+  "gatePass": false,
+  "durations": {
+    "masterSeconds": 9.47,
+    "cutSeconds": 9.47
+  },
+  "findings": [
+    {
+      "rule": "structure.last_end_card",
+      "severity": "error",
+      "sceneId": "s01"
+    },
+    {
+      "rule": "structure.message_unserved",
+      "severity": "error"
+    },
+    {
+      "rule": "structure.message_unserved",
+      "severity": "error"
+    },
+    {
+      "rule": "structure.message_unserved",
+      "severity": "error"
+    },
+    {
+      "rule": "factuality.message_unsupported",
+      "severity": "warning"
+    },
+    {
+      "rule": "design.accent_not_picked",
+      "severity": "warning"
+    },
+    {
+      "rule": "timing.master_duration",
+      "severity": "error"
+    },
+    {
+      "rule": "timing.cut_duration",
+      "severity": "error"
+    },
+    {
+      "rule": "timing.cut_end_card",
+      "severity": "error"
+    }
+  ],
+  "moduleVersions": {
+    "radar": "0.1.0",
+    "factuality": "0.1.0",
+    "voice": "0.1.0",
+    "compliance": "0.1.0",
+    "templates": "0.1.0",
+    "design": "0.1.0",
+    "audio": "0.2.0",
+    "gate": "0.2.0",
+    "publish": "0.1.0",
+    "orchestration": "0.1.0"
+  }
+}

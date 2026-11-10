@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "preset-code",
+  "title": "[Illustrative] When software starts to shop",
+  "weekOf": "2026-11-09",
+  "state": "draft",
+  "brief": {
+    "theme": "Agents that can transact on a person's behalf",
+    "thesis": "The interesting question is no longer whether an agent can buy something, but who it answers to when it does.",
+    "messages": [
+      {
+        "id": "m1",
+        "text": "Agent checkout moved from demo to product this year.",
+        "claimIds": [
+          "c-launch",
+          "c-share"
+        ]
+      },
+      {
+        "id": "m2",
+        "text": "Trust, not capability, is now the bottleneck.",
+        "claimIds": [
+          "c-quote"
+        ]
+      },
+      {
+        "id": "m3",
+        "text": "Delegation needs limits a person can read.",
+        "claimIds": []
+      }
+    ],
+    "angle": "A practitioner's view: what changes for the customer, not for the vendor.",
+    "avoid": [
+      "naming banks",
+      "market forecasts"
+    ],
+    "tone": "analytical",
+    "closingQuestion": "What would you let software buy for you without asking first?"
+  },
+  "sources": [
+    {
+      "id": "s-paper",
+      "url": "https://example.org/s-paper",
+      "title": "[ILLUSTRATIVE FIXTURE] A field study of delegated purchasing",
+      "publisher": "Example University",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "paper"
+    },
+    {
+      "id": "s-docs",
+      "url": "https://example.org/s-docs",
+      "title": "[ILLUSTRATIVE FIXTURE] Agent checkout: product documentation",
+      "publisher": "Example Labs",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "official_doc"
+    },
+    {
+      "id": "s-press",
+      "url": "https://example.org/s-press",
+      "title": "[ILLUSTRATIVE FIXTURE] Shoppers hand the cart to software",
+      "publisher": "Example Times",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "tier1",
+      "kind": "press"
+    },
+    {
+      "id": "s-talk",
+      "url": "https://example.org/s-talk",
+      "title": "[ILLUSTRATIVE FIXTURE] Keynote: delegation and its limits",
+      "publisher": "Example Conference",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "video"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c-launch",
+      "text": "Example Labs shipped agent checkout as a generally available product.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "sourceId": "s-docs",
+          "quote": "Agent checkout is generally available."
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "The feature left preview this month."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-share",
+      "text": "In the study, 38% of participants let the agent complete a purchase without review.",
+      "kind": "number",
+      "value": {
+        "display": "38%",
+        "number": 38,
+        "unit": "%"
+      },
+      "evidence": [
+        {
+          "sourceId": "s-paper",
+          "quote": "38% completed the purchase without reviewing the cart.",
+          "locator": "Table 2"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "More than a third skipped the review step."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-quote",
+      "text": "Dr. Example Person said that delegation without legible limits is abdication.",
+      "kind": "quote",
+      "speaker": "Dr. Example Person",
+      "evidence": [
+        {
+          "sourceId": "s-talk",
+          "quote": "Delegation without legible limits is just abdication.",
+          "locator": "12:40"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "She called limitless delegation 'abdication'."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 0,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "title_hook",
+        "kicker": "What's just now possible?",
+        "headline": "Your software just learned to shop."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "This week, software stopped asking for your card and started using it. Here is what is actually new, and what is not."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 284,
+      "state": "draft"
+    }
+  ],
+  "design": {
+    "profile": "personal",
+    "accent": {
+      "name": "teal",
+      "hex": "#1F7A8C"
+    },
+    "styles": [
+      "editorial_data"
+    ],
+    "preset": "code",
+    "narratorTone": "analytical",
+    "narratorName": "Roberto Frossard",
+    "overrides": {}
+  },
+  "audio": {
+    "narratorVoiceId": "voice-roberto",
+    "castVoiceIds": [
+      "voice-river"
+    ],
+    "musicAssetIds": []
+  },
+  "clipDecisions": [],
+  "post": {
+    "text": "Your software just learned to shop.\nThe question is who it answers to.\n\n[Illustrative fixture post]",
+    "hashtags": [
+      "#AI",
+      "#Agents"
+    ],
+    "firstComment": "Sources: see CREDITS.",
+    "disclaimer": "Views are my own."
+  },
+  "costs": [],
+  "moduleVersions": {},
+  "approvals": {}
+}

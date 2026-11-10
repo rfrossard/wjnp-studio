@@ -1,0 +1,125 @@
+{
+  "criteria": [
+    {
+      "id": "legibility",
+      "description": "Every on-screen word can be read at phone size on a single pass, at 22 px or larger, with enough contrast against its background."
+    },
+    {
+      "id": "composition",
+      "description": "The frame uses the full 4:5 safe area for the master and the 16:9 safe area for the desktop cut. Nothing important sits in the platform overlay zones."
+    },
+    {
+      "id": "hierarchy",
+      "description": "One headline or number leads the frame. Secondary text is visibly smaller and quieter, and the eye reaches the point in under two seconds."
+    },
+    {
+      "id": "motion",
+      "description": "Motion supports the point: entrances and exits use the named easings from the design tokens, and nothing moves for decoration alone."
+    },
+    {
+      "id": "fidelity_to_script",
+      "description": "What is on screen matches what is said in the narration at that moment, and every figure shown is the one the verified claim holds."
+    },
+    {
+      "id": "brand_consistency",
+      "description": "The frame uses the personal-brand palette, the chosen accent, and the approved type stacks. No employer marks, no orange, no purple."
+    }
+  ],
+  "hardRules": [
+    {
+      "id": "people_never_drawn_from_scratch",
+      "description": "No person is drawn, painted or generated from scratch for a scene. People appear only as licensed photographs or licensed clips."
+    },
+    {
+      "id": "full_composition",
+      "description": "Each frame is a complete composition, not a few small elements on empty ground. At the scene's climax its elements fill at least 60 percent of the frame. No cropped headline, no half-visible text block, no element cut by the frame edge."
+    },
+    {
+      "id": "style_recipe_followed",
+      "description": "The scene follows the recipe of its declared style (editorial_data, precise_stroke, flat_science, calm_demo, screencast_zoom or archival_bw) and uses no more than the episode's allowed styles."
+    },
+    {
+      "id": "minimum_legibility",
+      "description": "No text smaller than 22 px on the 1920 by 1080 desktop cut, and no smaller than 30 px on the 1080 by 1920 master, where the frame is read at phone size. Source and credit lines are at least 18 px. No text sits closer than 60 px to any frame edge, and none is cropped, or overlaps the caption band or the source chip."
+    },
+    {
+      "id": "typeset_maths",
+      "description": "Every number on screen is typeset from the verified claim's value field, never retyped or estimated by a model."
+    },
+    {
+      "id": "glyph_coverage",
+      "description": "Every glyph used in a scene exists in the chosen font stack. Missing glyphs fail the scene rather than falling back silently."
+    },
+    {
+      "id": "zoom_limits",
+      "description": "Screencast zooms stay within the zoom range set for the screencast_zoom style and never hide the element the narration names."
+    },
+    {
+      "id": "clip_duration_limits",
+      "description": "A single clip lasts at most 15 seconds, and clips together make up at most 10 percent of the episode."
+    },
+    {
+      "id": "transitions",
+      "description": "A scene change is an object, not a cut in the dark. The transition kind comes from the preset set (cut, dissolve, slide, zoom, wipe) and both sides carry content: the incoming scene's first frame is already drawn, never empty, black or frame-only. No frame is blank for longer than 10 frames outside an intended hold. A hard cut is allowed, at most twice a minute."
+    },
+    {
+      "id": "passage_both_sides",
+      "description": "Both sides of every transition are checked on the rendered MP4, not in the editor. The frame before and the frame after each join must each show drawn content."
+    },
+    {
+      "id": "visible_motion",
+      "description": "In an eight-frame strip taken across a scene, something changes visibly, unless the scene is an intended hold of one second or less with a stated reason."
+    },
+    {
+      "id": "audio_measured",
+      "description": "Audio is measured, never judged by ear by a model. Integrated loudness between -16 and -19 LUFS, loudness range at most 6 LU, true peak at most -0.8 dBFS, and no scene more than 4 LU from the episode mean. Music sits at least 12 dB under narration."
+    }
+  ],
+  "process": {
+    "summary": "Reference -> start from a passing scene -> at least two critique rounds with every criterion >= 4 -> hard rules -> audit of the rendered MP4.",
+    "steps": [
+      {
+        "id": "reference",
+        "description": "Before building a scene, collect the traits its style must show. The style's entry in modules/templates/catalog.json is the starting list."
+      },
+      {
+        "id": "start_from_passing",
+        "description": "Never start a scene from zero. Copy the most recent scene of the same template that passed the gate, then change content. Adapting a passing scene reopens the gate: structure stays, text and data change, both critique rounds run again."
+      },
+      {
+        "id": "critique_rounds",
+        "description": "At least two rounds, even when the first one passes. Each round lists defects before scores. A 5 requires an empty defect list."
+      },
+      {
+        "id": "hard_rules",
+        "description": "Every hard rule below is checked. One failure fails the scene regardless of scores."
+      },
+      {
+        "id": "render_audit",
+        "description": "After the MP4 exists, audit the pixels: a still per scene, both sides of every transition, and an eight-frame motion strip per scene. Score those, not the episode JSON."
+      }
+    ],
+    "neverSilent": "If a scene ships below the bar because of time, say which scene and why. Never deliver quietly."
+  },
+  "scoring": {
+    "scale": "1 to 5 on every criterion",
+    "minScore": 4,
+    "minRounds": 2,
+    "defectsBeforeScores": true,
+    "minDefectsListed": 3,
+    "fiveRequiresNoDefects": true,
+    "reviewer": "The critic model must be from a different family than the author model. It receives the scene and the required traits, never the author's reasoning or score.",
+    "selfScoringWarning": "Authors score themselves generously. Scenes accepted at 3.5-4 have read 2-3 on a second look against the reference."
+  },
+  "audit": {
+    "appliesTo": "the exported MP4, before delivery",
+    "artefacts": [
+      "one still per scene",
+      "the frames before and after every transition",
+      "an eight-frame motion strip per scene"
+    ],
+    "scored": "Scenes take the six criteria; transitions take one score each.",
+    "failAction": "A scene below 4 goes back through the critique rounds, is re-rendered, and is audited again.",
+    "delivery": "Ship the sheets and the scores with the episode, and say out loud which scores were lowest."
+  }
+}

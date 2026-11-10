@@ -1,0 +1,7 @@
+{
+  "name": "factuality",
+  "version": "0.1.0",
+  "description": "Rules a claim must meet before a scene may cite it: minimum independent sources, a primary source, and how long a verdict stays valid by claim kind.",
+  "files": ["rules.json"],
+  "protected": true
+}

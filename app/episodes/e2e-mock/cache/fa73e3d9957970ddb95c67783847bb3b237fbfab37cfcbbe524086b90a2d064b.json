@@ -1,0 +1,112 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 8400,
+  "words": [
+    {
+      "w": "Before,",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "the",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "agent",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "recommended",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "and",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "you",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "clicked.",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "Now",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "the",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "agent",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "decides",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "and",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "pays.",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "The",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "open",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "question",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "is",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "who",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "owns",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "the",
+      "startMs": 7600,
+      "endMs": 8000
+    },
+    {
+      "w": "mistake.",
+      "startMs": 8000,
+      "endMs": 8400
+    }
+  ],
+  "file": "fa73e3d9957970ddb95c67783847bb3b237fbfab37cfcbbe524086b90a2d064b.wav"
+}

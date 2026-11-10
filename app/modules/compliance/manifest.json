@@ -1,0 +1,7 @@
+{
+  "name": "compliance",
+  "version": "0.1.0",
+  "description": "Hard lint for every script and post: blocked employer, bank and regulator names, market forecasts and investment advice, employer voice, and verdicts on companies. Protected: changes only by explicit owner instruction, never from a metrics-derived proposal.",
+  "files": ["blocklist.json"],
+  "protected": true
+}

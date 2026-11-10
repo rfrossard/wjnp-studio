@@ -1,0 +1,9 @@
+{
+  "name": "gate",
+  "version": "0.2.0",
+  "description": "Quality gate for every scene: the order of work (reference, start from a passing scene, two critique rounds, hard rules, audit of the rendered MP4), six scored criteria and twelve hard rules.",
+  "files": [
+    "criteria.json"
+  ],
+  "protected": false
+}

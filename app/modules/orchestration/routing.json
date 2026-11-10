@@ -1,0 +1,48 @@
+{
+  "tiers": {
+    "frontier": {
+      "model": "claude-fable-5-2"
+    },
+    "mid": {
+      "model": "claude-sonnet-5-5"
+    },
+    "small": {
+      "model": "claude-haiku-5-5"
+    }
+  },
+  "verifier": {
+    "provider": "openai-compatible",
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKeyEnv": "DEEPSEEK_API_KEY",
+    "model": "deepseek-reasoner",
+    "note": "DeepSeek R1 \u2014 different family from Claude, used as independent fact verifier."
+  },
+  "critic": {
+    "provider": "openai-compatible",
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKeyEnv": "DEEPSEEK_API_KEY",
+    "model": "deepseek-chat",
+    "note": "DeepSeek V3 \u2014 different family from Claude, used as scene critic."
+  },
+  "tasks": {
+    "brainstorm": "frontier",
+    "plan": "frontier",
+    "extract_claims": "mid",
+    "verify_claims": "mid",
+    "write_script": "mid",
+    "fill_scene": "small",
+    "critique_scene": "mid",
+    "write_post": "small",
+    "narrate": "code",
+    "render": "code",
+    "mix": "code",
+    "audit": "code",
+    "lint": "code"
+  },
+  "escalation": [
+    "small",
+    "mid",
+    "frontier"
+  ],
+  "weeklyBudgetUsd": 15
+}

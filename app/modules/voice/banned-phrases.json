@@ -1,0 +1,51 @@
+{
+  "phrases": [
+    "game-changer",
+    "game changer",
+    "in today's fast-paced world",
+    "in today's fast paced world",
+    "revolutionize",
+    "revolutionise",
+    "revolutionary",
+    "it's important to note",
+    "it is important to note",
+    "in the ever-evolving landscape",
+    "in the ever evolving landscape",
+    "dive into",
+    "deep dive",
+    "unlock the power",
+    "unleash",
+    "cutting-edge",
+    "groundbreaking",
+    "buckle up",
+    "the future is here",
+    "paradigm shift",
+    "next level",
+    "at the end of the day",
+    "without further ado",
+    "let's delve",
+    "synergy"
+  ],
+  "patterns": [
+    {
+      "id": "hype_changes_everything",
+      "regex": "\\bchanges? everything\\b",
+      "message": "Hype. Name the concrete change in one sentence instead."
+    },
+    {
+      "id": "empty_superlative",
+      "regex": "\\b(the most|the biggest|the best|the greatest) (important|exciting|amazing|incredible) (thing|development|moment|news)\\b",
+      "message": "Empty superlative. Say what happened and why it matters."
+    },
+    {
+      "id": "exclamation_stack",
+      "regex": "!{2,}|\\?{2,}",
+      "message": "Stacked punctuation. Keep the delivery flat and let the words carry the emphasis."
+    },
+    {
+      "id": "long_spoken_sentence",
+      "regex": "(?:[\\w'’-]+\\s+){25,}[\\w'’-]+[.!?]",
+      "message": "Sentence longer than about 25 words. Split it: short sentences are written for the ear."
+    }
+  ]
+}

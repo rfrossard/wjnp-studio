@@ -1,0 +1,10 @@
+[
+  { "term": "arXiv", "say": "archive" },
+  { "term": "LLM", "say": "L L M" },
+  { "term": "GPT", "say": "G P T" },
+  { "term": "SQL", "say": "sequel" },
+  { "term": "API", "say": "A P I" },
+  { "term": "GPU", "say": "G P U" },
+  { "term": "JSON", "say": "jay-son" },
+  { "term": "SaaS", "say": "sass" }
+]

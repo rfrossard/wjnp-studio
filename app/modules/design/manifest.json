@@ -1,0 +1,7 @@
+{
+  "name": "design",
+  "version": "0.1.0",
+  "description": "Personal-brand design tokens: neutrals, navy base, the eight accent colours an episode can pick from by hash, type stacks and scale, motion easings and durations, and spacing.",
+  "files": ["tokens.json"],
+  "protected": false
+}

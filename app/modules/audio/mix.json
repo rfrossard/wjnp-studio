@@ -1,0 +1,14 @@
+{
+  "narrationLufs": -16,
+  "integratedLufsRange": [
+    -19,
+    -16
+  ],
+  "loudnessRangeMaxLu": 6,
+  "truePeakMaxDbfs": -0.8,
+  "perSceneToleranceLu": 4,
+  "musicUnderNarrationMinDb": 12,
+  "musicDuckDb": -18,
+  "masterLimiterDb": -1,
+  "note": "Confirmed against motion-director references/contracts.md sections 6 and 6b and references/quality.md section 7 on 2026-11-09. A model cannot hear: every value here is measured, and 3 to 5 timestamps are handed to the owner to listen to."
+}

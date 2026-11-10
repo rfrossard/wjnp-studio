@@ -1,0 +1,62 @@
+[
+  {
+    "id": "title_hook",
+    "styles": ["editorial_data", "flat_science", "precise_stroke"],
+    "useFor": ["Opening hook in the first five seconds", "Series kicker with a single headline"],
+    "avoidFor": ["Middle of the episode", "Anything that needs more than one headline"]
+  },
+  {
+    "id": "statement",
+    "styles": ["editorial_data", "precise_stroke", "calm_demo"],
+    "useFor": ["One idea with an optional supporting line", "Turning a tension into a plain sentence"],
+    "avoidFor": ["Lists of three or more items", "Figures (use stat instead)"]
+  },
+  {
+    "id": "stat",
+    "styles": ["editorial_data", "flat_science"],
+    "useFor": ["One verified number from a claim of kind number"],
+    "avoidFor": ["Estimates or rounded figures not held by a claim", "Scenes without a verified number claim"]
+  },
+  {
+    "id": "comparison",
+    "styles": ["editorial_data", "precise_stroke"],
+    "useFor": ["Before and after, or what the evidence says against what the product does", "Two lists of up to four items each"],
+    "avoidFor": ["Verdicts about a company", "Comparisons with no shared criteria"]
+  },
+  {
+    "id": "bullets",
+    "styles": ["precise_stroke", "calm_demo"],
+    "useFor": ["Two to four plain conditions or requirements", "Readable limits or checklists"],
+    "avoidFor": ["Long sentences (over 80 characters per bullet)", "Sequences where order matters (use timeline)"]
+  },
+  {
+    "id": "timeline",
+    "styles": ["precise_stroke", "flat_science"],
+    "useFor": ["Ordered steps of a process, two to five", "How a flow runs from start to end"],
+    "avoidFor": ["Unordered lists", "Dates that are not in a verified source"]
+  },
+  {
+    "id": "quote_card",
+    "styles": ["editorial_data", "archival_bw"],
+    "useFor": ["A verified quote from a named speaker, up to 220 characters"],
+    "avoidFor": ["Paraphrase presented as a quote", "Quotes without a verified claim of kind quote"]
+  },
+  {
+    "id": "clip",
+    "styles": ["screencast_zoom", "archival_bw"],
+    "useFor": ["A short licensed excerpt that the narration points at, 15 seconds at most"],
+    "avoidFor": ["Standard-licence clips without the owner's decision (short quote, quote card or both)", "Licence kind unknown"]
+  },
+  {
+    "id": "personal_take",
+    "styles": ["editorial_data", "calm_demo"],
+    "useFor": ["The owner's opinion, always labelled My take", "The practitioner view after the evidence"],
+    "avoidFor": ["Anything stated as fact", "Opinion that has no evidence scene before it"]
+  },
+  {
+    "id": "end_card",
+    "styles": ["editorial_data", "calm_demo", "flat_science"],
+    "useFor": ["The closing question to the audience", "Desktop and profile pointers on the final frame"],
+    "avoidFor": ["Mid-episode content", "More than one question"]
+  }
+]

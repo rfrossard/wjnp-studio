@@ -1,0 +1,102 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 7600,
+  "words": [
+    {
+      "w": "For",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "two",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "years",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "this",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "was",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "a",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "demo.",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "This",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "month",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "it",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "shipped",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "as",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "a",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "real",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "product,",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "with",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "real",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "money",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "moving.",
+      "startMs": 7200,
+      "endMs": 7600
+    }
+  ],
+  "file": "a32e636e4bf48aff32b7c14a695289c9ff781406be15a1f4583ff033f6d60b6a.wav"
+}

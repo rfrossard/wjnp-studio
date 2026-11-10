@@ -1,0 +1,24 @@
+{
+  "publishers": [
+    { "name": "OpenAI", "domain": "openai.com", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Anthropic", "domain": "anthropic.com", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Google DeepMind", "domain": "deepmind.google", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Meta AI", "domain": "ai.meta.com", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Mistral AI", "domain": "mistral.ai", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Microsoft Research", "domain": "research.microsoft.com", "tier": "primary", "kind": "lab_blog" },
+    { "name": "Hugging Face", "domain": "huggingface.co", "tier": "primary", "kind": "lab_docs" },
+    { "name": "arXiv", "domain": "arxiv.org", "tier": "primary", "kind": "preprint_server" },
+    { "name": "Stanford HAI", "domain": "hai.stanford.edu", "tier": "primary", "kind": "university" },
+    { "name": "MIT CSAIL", "domain": "csail.mit.edu", "tier": "primary", "kind": "university" },
+    { "name": "Nature", "domain": "nature.com", "tier": "tier1", "kind": "science_press" },
+    { "name": "Science", "domain": "science.org", "tier": "tier1", "kind": "science_press" },
+    { "name": "IEEE Spectrum", "domain": "spectrum.ieee.org", "tier": "tier1", "kind": "science_press" },
+    { "name": "MIT Technology Review", "domain": "technologyreview.com", "tier": "tier1", "kind": "tech_press" },
+    { "name": "Ars Technica", "domain": "arstechnica.com", "tier": "tier1", "kind": "tech_press" },
+    { "name": "The Verge", "domain": "theverge.com", "tier": "tier1", "kind": "tech_press" },
+    { "name": "Simon Willison's Weblog", "domain": "simonwillison.net", "tier": "tier2", "kind": "trade_blog" },
+    { "name": "Latent Space", "domain": "latent.space", "tier": "tier2", "kind": "trade_blog" },
+    { "name": "Stratechery", "domain": "stratechery.com", "tier": "tier2", "kind": "trade_blog" }
+  ],
+  "feeds": []
+}

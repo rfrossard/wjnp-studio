@@ -1,0 +1,117 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 8800,
+  "words": [
+    {
+      "w": "So",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "what",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "do",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "readable",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "limits",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "look",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "like?",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "A",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "ceiling",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "per",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "purchase,",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "a",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "list",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "of",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "allowed",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "merchants,",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "and",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "a",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "receipt",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "in",
+      "startMs": 7600,
+      "endMs": 8000
+    },
+    {
+      "w": "plain",
+      "startMs": 8000,
+      "endMs": 8400
+    },
+    {
+      "w": "language.",
+      "startMs": 8400,
+      "endMs": 8800
+    }
+  ],
+  "file": "cee850fb530875d0e19bf601f2d67a918bfb2fa588e0e9884248e1739abad1ae.wav"
+}

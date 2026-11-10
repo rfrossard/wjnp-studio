@@ -1,0 +1,7 @@
+{
+  "name": "publish",
+  "version": "0.1.0",
+  "description": "Shape of the LinkedIn post: hook lines, hashtag limit, the disclaimer, and the first-comment template that carries sources and the desktop link. Protected: changes only by explicit owner instruction.",
+  "files": ["post-format.json"],
+  "protected": true
+}

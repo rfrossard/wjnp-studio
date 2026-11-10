@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-illustrative",
+  "title": "[Illustrative] When software starts to shop",
+  "weekOf": "2026-11-09",
+  "state": "draft",
+  "brief": {
+    "theme": "Agents that can transact on a person's behalf",
+    "thesis": "The interesting question is no longer whether an agent can buy something, but who it answers to when it does.",
+    "messages": [
+      {
+        "id": "m1",
+        "text": "Agent checkout moved from demo to product this year.",
+        "claimIds": [
+          "c-launch",
+          "c-share"
+        ]
+      },
+      {
+        "id": "m2",
+        "text": "Trust, not capability, is now the bottleneck.",
+        "claimIds": [
+          "c-quote"
+        ]
+      },
+      {
+        "id": "m3",
+        "text": "Delegation needs limits a person can read.",
+        "claimIds": []
+      }
+    ],
+    "angle": "A practitioner's view: what changes for the customer, not for the vendor.",
+    "avoid": [
+      "naming banks",
+      "market forecasts"
+    ],
+    "tone": "analytical",
+    "closingQuestion": "What would you let software buy for you without asking first?"
+  },
+  "sources": [
+    {
+      "id": "s-paper",
+      "url": "https://example.org/s-paper",
+      "title": "[ILLUSTRATIVE FIXTURE] A field study of delegated purchasing",
+      "publisher": "Example University",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "paper"
+    },
+    {
+      "id": "s-docs",
+      "url": "https://example.org/s-docs",
+      "title": "[ILLUSTRATIVE FIXTURE] Agent checkout: product documentation",
+      "publisher": "Example Labs",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "official_doc"
+    },
+    {
+      "id": "s-press",
+      "url": "https://example.org/s-press",
+      "title": "[ILLUSTRATIVE FIXTURE] Shoppers hand the cart to software",
+      "publisher": "Example Times",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "tier1",
+      "kind": "press"
+    },
+    {
+      "id": "s-talk",
+      "url": "https://example.org/s-talk",
+      "title": "[ILLUSTRATIVE FIXTURE] Keynote: delegation and its limits",
+      "publisher": "Example Conference",
+      "publishedAt": "2026-11-05",
+      "capturedAt": "2026-11-09T12:00:00+00:00",
+      "tier": "primary",
+      "kind": "video"
+    }
+  ],
+  "claims": [
+    {
+      "id": "c-launch",
+      "text": "Example Labs shipped agent checkout as a generally available product.",
+      "kind": "fact",
+      "evidence": [
+        {
+          "sourceId": "s-docs",
+          "quote": "Agent checkout is generally available."
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "The feature left preview this month."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-share",
+      "text": "In the study, 38% of participants let the agent complete a purchase without review.",
+      "kind": "number",
+      "value": {
+        "display": "38%",
+        "number": 38,
+        "unit": "%"
+      },
+      "evidence": [
+        {
+          "sourceId": "s-paper",
+          "quote": "38% completed the purchase without reviewing the cart.",
+          "locator": "Table 2"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "More than a third skipped the review step."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    },
+    {
+      "id": "c-quote",
+      "text": "Dr. Example Person said that delegation without legible limits is abdication.",
+      "kind": "quote",
+      "speaker": "Dr. Example Person",
+      "evidence": [
+        {
+          "sourceId": "s-talk",
+          "quote": "Delegation without legible limits is just abdication.",
+          "locator": "12:40"
+        },
+        {
+          "sourceId": "s-press",
+          "quote": "She called limitless delegation 'abdication'."
+        }
+      ],
+      "verdict": "verified",
+      "verifier": {
+        "model": "fixture-verifier",
+        "at": "2026-11-09T12:00:00+00:00"
+      },
+      "author": {
+        "model": "fixture-author"
+      },
+      "validUntil": "2027-02-01"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "s01",
+      "order": 0,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "title_hook",
+        "kicker": "What's just now possible?",
+        "headline": "Your software just learned to shop."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "This week, software stopped asking for your card and started using it. Here is what is actually new, and what is not."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s02",
+      "order": 1,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "statement",
+        "headline": "From demo to product",
+        "body": "Agent checkout is now generally available, not a preview."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "For two years this was a demo. This month it shipped as a real product, with real money moving."
+      },
+      "claimIds": [
+        "c-launch"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m1",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 248,
+      "state": "draft"
+    },
+    {
+      "id": "s03",
+      "order": 2,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "stat",
+        "claimId": "c-share",
+        "label": "let the agent buy without reviewing the cart",
+        "context": "Illustrative field study, 2026"
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "And people are using it more freely than you might expect. In one field study, more than a third of participants never looked at the cart."
+      },
+      "claimIds": [
+        "c-share"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m1",
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 332,
+      "state": "draft"
+    },
+    {
+      "id": "s04",
+      "order": 3,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "comparison",
+        "headline": "What changed",
+        "left": {
+          "title": "Before",
+          "items": [
+            "Agent recommends",
+            "You click buy",
+            "You own the mistake"
+          ]
+        },
+        "right": {
+          "title": "Now",
+          "items": [
+            "Agent decides",
+            "Agent pays",
+            "Who owns the mistake?"
+          ]
+        }
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "Before, the agent recommended and you clicked. Now the agent decides and pays. The open question is who owns the mistake."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m2",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 272,
+      "state": "draft"
+    },
+    {
+      "id": "s05",
+      "order": 4,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "quote_card",
+        "claimId": "c-quote",
+        "quote": "Delegation without legible limits is just abdication.",
+        "attribution": "Dr. Example Person",
+        "sourceLabel": "Example Conference keynote"
+      },
+      "narration": {
+        "voiceId": "voice-river",
+        "text": "One researcher put it sharply on stage this week. Delegation without limits you can read is not delegation at all."
+      },
+      "claimIds": [
+        "c-quote"
+      ],
+      "visualAssetIds": [],
+      "messageId": "m2",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 260,
+      "state": "draft"
+    },
+    {
+      "id": "s06",
+      "order": 5,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "timeline",
+        "headline": "How a delegated purchase runs",
+        "steps": [
+          {
+            "label": "Intent",
+            "text": "You state a goal and a budget"
+          },
+          {
+            "label": "Search",
+            "text": "The agent compares options"
+          },
+          {
+            "label": "Mandate",
+            "text": "It checks the limits you set"
+          },
+          {
+            "label": "Pay",
+            "text": "It completes the purchase"
+          }
+        ]
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "Here is the flow. You state a goal and a budget. The agent searches, checks the limits you set, and then pays."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s07",
+      "order": 6,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "bullets",
+        "headline": "Limits a person can read",
+        "bullets": [
+          "A ceiling per purchase",
+          "A list of allowed merchants",
+          "A receipt in plain language"
+        ]
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "So what do readable limits look like? A ceiling per purchase, a list of allowed merchants, and a receipt in plain language."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": false,
+      "inCut": false,
+      "durationFrames": 284,
+      "state": "draft"
+    },
+    {
+      "id": "s08",
+      "order": 7,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "personal_take",
+        "headline": "Capability is solved. Accountability is not.",
+        "body": "I would start with the receipt, not the agent."
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "My take. The capability is here. The accountability is not. If I were building this, I would start with the receipt, not the agent."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m3",
+      "isOpinion": true,
+      "inCut": true,
+      "durationFrames": 308,
+      "state": "draft"
+    },
+    {
+      "id": "s09",
+      "order": 8,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "end_card",
+        "question": "What would you let software buy for you without asking first?"
+      },
+      "narration": {
+        "voiceId": "voice-roberto",
+        "text": "So here is my question for you. What would you let software buy for you without asking first? Tell me in the comments."
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "isOpinion": false,
+      "inCut": true,
+      "durationFrames": 296,
+      "state": "draft"
+    }
+  ],
+  "design": {
+    "profile": "personal",
+    "accent": {
+      "name": "teal",
+      "hex": "#1F7A8C"
+    },
+    "styles": [
+      "editorial_data"
+    ],
+    "captionStyle": "box",
+    "preset": "signal",
+    "narratorTone": "conversational",
+    "overrides": {},
+    "narratorName": "Roberto Frossard"
+  },
+  "audio": {
+    "narratorVoiceId": "voice-roberto",
+    "castVoiceIds": [
+      "voice-river"
+    ],
+    "musicAssetIds": []
+  },
+  "clipDecisions": [],
+  "post": {
+    "text": "Your software just learned to shop.\nThe question is who it answers to.\n\n[Illustrative fixture post]",
+    "hashtags": [
+      "#AI",
+      "#Agents"
+    ],
+    "firstComment": "Sources: see CREDITS.",
+    "disclaimer": "Views are my own."
+  },
+  "costs": [
+    {
+      "taskId": "music-music-analytical",
+      "provider": "lyria",
+      "usd": 0,
+      "at": "2026-11-10T07:13:46.306Z"
+    }
+  ],
+  "moduleVersions": {},
+  "approvals": {}
+}

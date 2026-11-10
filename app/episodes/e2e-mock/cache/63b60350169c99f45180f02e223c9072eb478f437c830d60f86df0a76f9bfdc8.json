@@ -1,0 +1,117 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 8800,
+  "words": [
+    {
+      "w": "This",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "week,",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "software",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "stopped",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "asking",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "for",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "your",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "card",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "and",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "started",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "using",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "it.",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "Here",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "is",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "what",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "is",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "actually",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "new,",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "and",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "what",
+      "startMs": 7600,
+      "endMs": 8000
+    },
+    {
+      "w": "is",
+      "startMs": 8000,
+      "endMs": 8400
+    },
+    {
+      "w": "not.",
+      "startMs": 8400,
+      "endMs": 8800
+    }
+  ],
+  "file": "63b60350169c99f45180f02e223c9072eb478f437c830d60f86df0a76f9bfdc8.wav"
+}

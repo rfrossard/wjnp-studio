@@ -1,0 +1,107 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 8000,
+  "words": [
+    {
+      "w": "One",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "researcher",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "put",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "it",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "sharply",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "on",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "stage",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "this",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "week.",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "Delegation",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "without",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "limits",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "you",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "can",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "read",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "is",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "not",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "delegation",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "at",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "all.",
+      "startMs": 7600,
+      "endMs": 8000
+    }
+  ],
+  "file": "c88ab7ac65219ea824c59e6f03d6c511fe02fe8f4a072c57830ff955d06f4f80.wav"
+}

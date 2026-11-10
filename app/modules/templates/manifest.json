@@ -1,0 +1,7 @@
+{
+  "name": "templates",
+  "version": "0.1.0",
+  "description": "Catalogue of the ten on-screen scene templates: which visual styles each may use, when to use it and when to avoid it.",
+  "files": ["catalog.json"],
+  "protected": false
+}

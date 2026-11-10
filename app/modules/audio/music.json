@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "id": "music-analytical",
+      "name": "Signal",
+      "tone": "analytical",
+      "mood": "Minimal pulsing synth arpeggio, cool and data-forward",
+      "prompt": "Minimal ambient electronic, steady pulsing synth arpeggio at a calm tempo, cool and analytical mood, subtle filtered bass, no drums or light brushed percussion only, instrumental, no vocals, loopable background music for a tech explainer video",
+      "seconds": 60
+    },
+    {
+      "id": "music-didactic",
+      "name": "Chalkline",
+      "tone": "didactic",
+      "mood": "Warm plucked piano/marimba, clear and unhurried, classroom-friendly",
+      "prompt": "Warm minimal piano and marimba, unhurried and clear, gentle forward motion, no drums, instrumental, no vocals, loopable background music for an educational explainer video",
+      "seconds": 60
+    },
+    {
+      "id": "music-narrative",
+      "name": "Longform",
+      "tone": "narrative",
+      "mood": "Soft strings and felt piano, reflective, builds gently",
+      "prompt": "Soft strings and felt piano, reflective and slowly building, cinematic but understated, no drums, instrumental, no vocals, loopable background music for a narrative documentary video",
+      "seconds": 60
+    },
+    {
+      "id": "music-energetic",
+      "name": "Pulse",
+      "tone": "energetic",
+      "mood": "Upbeat synth bass and light percussion, confident, modern",
+      "prompt": "Upbeat electronic synth bass with light percussion, confident and modern, driving but not aggressive, no vocals, instrumental, loopable background music for a social media tech video",
+      "seconds": 60
+    },
+    {
+      "id": "music-measured",
+      "name": "Even Keel",
+      "tone": "measured",
+      "mood": "Sparse rhodes and soft pad, steady, understated",
+      "prompt": "Sparse electric piano (rhodes) and soft synth pad, steady and understated tempo, calm confidence, no drums, instrumental, no vocals, loopable background music for a measured analysis video",
+      "seconds": 60
+    },
+    {
+      "id": "music-professional",
+      "name": "Boardroom",
+      "tone": "professional",
+      "mood": "Clean corporate synth pad and soft bass, polished, neutral",
+      "prompt": "Clean corporate-style synth pad with soft bass, polished and neutral, light motion, no drums, instrumental, no vocals, loopable background music for a professional business video",
+      "seconds": 60
+    }
+  ]
+}

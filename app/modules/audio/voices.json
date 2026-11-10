@@ -1,0 +1,28 @@
+{
+  "narrator": {
+    "assetId": "voice-roberto",
+    "elevenVoiceId": "vmkubLTlwMyFKgNqlYes",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75
+    },
+    "note": "Clone tagged pt; English listening test pending"
+  },
+  "cast": [
+    { "tone": "analytical", "assetId": "voice-river", "name": "River", "elevenVoiceId": "SAz9YHcvj6GT2YYXdXww" },
+    { "tone": "didactic", "assetId": "voice-alice", "name": "Alice", "elevenVoiceId": "Xb7hH8MSUJpSbSDYk0k2" },
+    { "tone": "narrative", "assetId": "voice-george", "name": "George", "elevenVoiceId": "JBFqnCBsd6RMkjVDRZzb" },
+    { "tone": "energetic", "assetId": "voice-liam", "name": "Liam", "elevenVoiceId": "TX3LPaxmHKxFdv7VOQHJ" },
+    { "tone": "measured", "assetId": "voice-bill", "name": "Bill", "elevenVoiceId": "pqHfZKP75CvOlQylNhV4" },
+    { "tone": "professional", "assetId": "voice-sarah", "name": "Sarah", "elevenVoiceId": "EXAVITQu4vr4xnSDxMaL" }
+  ],
+  "menu": [
+    { "assetId": "voice-roberto", "name": "Roberto (clone)", "elevenVoiceId": "vmkubLTlwMyFKgNqlYes", "roles": ["narrator"], "desc": "Beto's own voice clone. Default narrator." },
+    { "assetId": "voice-river", "name": "River", "elevenVoiceId": "SAz9YHcvj6GT2YYXdXww", "roles": ["narrator", "cast"], "desc": "Relaxed, neutral, informative. American, calm, conversational." },
+    { "assetId": "voice-alice", "name": "Alice", "elevenVoiceId": "Xb7hH8MSUJpSbSDYk0k2", "roles": ["narrator", "cast"], "desc": "Clear, engaging educator. British, professional, didactic." },
+    { "assetId": "voice-george", "name": "George", "elevenVoiceId": "JBFqnCBsd6RMkjVDRZzb", "roles": ["narrator", "cast"], "desc": "Warm, captivating storyteller. British, mature, narrative." },
+    { "assetId": "voice-liam", "name": "Liam", "elevenVoiceId": "TX3LPaxmHKxFdv7VOQHJ", "roles": ["narrator", "cast"], "desc": "Energetic, social-media creator. American, young, confident." },
+    { "assetId": "voice-bill", "name": "Bill", "elevenVoiceId": "pqHfZKP75CvOlQylNhV4", "roles": ["narrator", "cast"], "desc": "Wise, mature, balanced. American, crisp, advertisement style." },
+    { "assetId": "voice-sarah", "name": "Sarah", "elevenVoiceId": "EXAVITQu4vr4xnSDxMaL", "roles": ["narrator", "cast"], "desc": "Mature, reassuring, confident. American, professional, TV/entertainment style." }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "mime": "audio/wav",
+  "durationMs": 8800,
+  "words": [
+    {
+      "w": "Here",
+      "startMs": 0,
+      "endMs": 400
+    },
+    {
+      "w": "is",
+      "startMs": 400,
+      "endMs": 800
+    },
+    {
+      "w": "the",
+      "startMs": 800,
+      "endMs": 1200
+    },
+    {
+      "w": "flow.",
+      "startMs": 1200,
+      "endMs": 1600
+    },
+    {
+      "w": "You",
+      "startMs": 1600,
+      "endMs": 2000
+    },
+    {
+      "w": "state",
+      "startMs": 2000,
+      "endMs": 2400
+    },
+    {
+      "w": "a",
+      "startMs": 2400,
+      "endMs": 2800
+    },
+    {
+      "w": "goal",
+      "startMs": 2800,
+      "endMs": 3200
+    },
+    {
+      "w": "and",
+      "startMs": 3200,
+      "endMs": 3600
+    },
+    {
+      "w": "a",
+      "startMs": 3600,
+      "endMs": 4000
+    },
+    {
+      "w": "budget.",
+      "startMs": 4000,
+      "endMs": 4400
+    },
+    {
+      "w": "The",
+      "startMs": 4400,
+      "endMs": 4800
+    },
+    {
+      "w": "agent",
+      "startMs": 4800,
+      "endMs": 5200
+    },
+    {
+      "w": "searches,",
+      "startMs": 5200,
+      "endMs": 5600
+    },
+    {
+      "w": "checks",
+      "startMs": 5600,
+      "endMs": 6000
+    },
+    {
+      "w": "the",
+      "startMs": 6000,
+      "endMs": 6400
+    },
+    {
+      "w": "limits",
+      "startMs": 6400,
+      "endMs": 6800
+    },
+    {
+      "w": "you",
+      "startMs": 6800,
+      "endMs": 7200
+    },
+    {
+      "w": "set,",
+      "startMs": 7200,
+      "endMs": 7600
+    },
+    {
+      "w": "and",
+      "startMs": 7600,
+      "endMs": 8000
+    },
+    {
+      "w": "then",
+      "startMs": 8000,
+      "endMs": 8400
+    },
+    {
+      "w": "pays.",
+      "startMs": 8400,
+      "endMs": 8800
+    }
+  ],
+  "file": "8dc369a27ecc2f34c2949182ec17e882d6b524bdc8db3e6eb9e9986a98c3d9dd.wav"
+}

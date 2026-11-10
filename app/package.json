@@ -1,0 +1,34 @@
+{
+  "name": "whats-just-now-possible",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Personal weekly video studio: deterministic, fact-checked, self-evolving.",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "typecheck": "tsc -p packages/contracts && tsc -p packages/core && tsc -p packages/providers && tsc -p packages/render && tsc -p packages/studio",
+    "test": "vitest run",
+    "wjnp": "tsx packages/core/src/cli.ts",
+    "studio": "npm run dev -w @wjnp/studio",
+    "render:studio": "npm run studio -w @wjnp/render",
+    "step": "tsx scripts/run-step.ts",
+    "e2e:mock": "tsx scripts/e2e-mock.ts",
+    "render": "tsx packages/render/scripts/render.ts",
+    "styles": "tsx scripts/plan-styles.ts",
+    "voices": "tsx scripts/voices.ts",
+    "music": "tsx scripts/music.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8",
+    "@wjnp/core": "*",
+    "@wjnp/providers": "*"
+  }
+}

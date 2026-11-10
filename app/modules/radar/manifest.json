@@ -1,0 +1,7 @@
+{
+  "name": "radar",
+  "version": "0.1.0",
+  "description": "Where themes come from: a list of publishers ranked by tier (primary, tier1, tier2) and kind. The feeds list is intentionally empty: feed URLs must be confirmed by the owner before they are added. Do not invent feed URLs.",
+  "files": ["sources.json"],
+  "protected": false
+}

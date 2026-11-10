@@ -1,0 +1,42 @@
+{
+  "name": "biblioteca-estilos",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "still": "remotion still",
+    "render": "remotion render HubFormatos out/hub-formatos-ptbr.mp4",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@fontsource/archivo": "5.3.0",
+    "@fontsource/bangers": "5.2.6",
+    "@fontsource/caveat": "5.2.6",
+    "@fontsource/comic-neue": "5.2.6",
+    "@fontsource/ibm-plex-mono": "5.3.0",
+    "@fontsource/press-start-2p": "5.2.6",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.541",
+    "@remotion/fonts": "4.0.541",
+    "@remotion/install-whisper-cpp": "4.0.541",
+    "@remotion/media-utils": "4.0.541",
+    "@remotion/renderer": "4.0.541",
+    "@remotion/three": "4.0.541",
+    "d3-geo": "3.1.1",
+    "hersheytext": "2.0.0",
+    "perfect-freehand": "1.2.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-peeps": "0.1.10",
+    "remotion": "4.0.541",
+    "roughjs": "4.6.6",
+    "three": "0.187.0",
+    "topojson-client": "3.1.0",
+    "world-atlas": "2.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "19.3.0",
+    "@types/three": "0.187.0",
+    "typescript": "7.0.2",
+    "mathjax-full": "3.2.2"
+  }
+}

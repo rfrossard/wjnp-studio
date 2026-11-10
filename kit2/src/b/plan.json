@@ -1,0 +1,281 @@
+{
+ "fps": 30,
+ "scenes": [
+  {
+   "id": "intro",
+   "dur": 240,
+   "chap": "abertura",
+   "out": "flood"
+  },
+  {
+   "id": "hype",
+   "dur": 420,
+   "chap": "social",
+   "out": "impact",
+   "uso": "Reels · Shorts · TikTok",
+   "master": "/motion-director \"anúncio de 15 s no beat para Reels\"",
+   "direct": "/explainer-high-energy"
+  },
+  {
+   "id": "creator",
+   "dur": 400,
+   "chap": "social",
+   "out": "swipe",
+   "uso": "Reels · Shorts",
+   "master": "/motion-director \"edição punchy deste vídeo para Reels\"",
+   "direct": "ficha creator (no master)"
+  },
+  {
+   "id": "anime",
+   "dur": 480,
+   "chap": "social",
+   "out": "impact",
+   "uso": "trailer · redes",
+   "master": "/motion-director \"trailer em anime do meu próximo vídeo\"",
+   "direct": "ficha anime (no master)"
+  },
+  {
+   "id": "toon3d",
+   "dur": 480,
+   "chap": "social",
+   "out": "flood",
+   "uso": "conquistas · marcos",
+   "master": "/motion-director \"animação de conquista desbloqueada\"",
+   "direct": "ficha toon3d (no master)"
+  },
+  {
+   "id": "led",
+   "dur": 400,
+   "chap": "social",
+   "out": "cut",
+   "uso": "teaser · pergunta",
+   "master": "/motion-director \"teaser em painel de LED com a pergunta…\"",
+   "direct": "kit led (no master)"
+  },
+  {
+   "id": "flat",
+   "dur": 480,
+   "chap": "youtube",
+   "out": "zoom",
+   "uso": "YouTube · explicador",
+   "master": "/motion-director \"explicador de ciência sobre…\"",
+   "direct": "/flat-science-explainer"
+  },
+  {
+   "id": "journey",
+   "dur": 420,
+   "chap": "youtube",
+   "out": "whip",
+   "uso": "YouTube · processo",
+   "master": "/motion-director \"mostre o processo em take único\"",
+   "direct": "/explainer-engaging"
+  },
+  {
+   "id": "manim",
+   "dur": 741,
+   "chap": "youtube",
+   "out": "cut",
+   "uso": "aula · conceito técnico",
+   "master": "/motion-director \"explique a mola amortecida com Manim\"",
+   "direct": "ficha manim (no master)"
+  },
+  {
+   "id": "sketch",
+   "dur": 660,
+   "chap": "youtube",
+   "out": "page",
+   "uso": "tutorial · resumo",
+   "master": "/motion-director \"explique em quadro branco…\"",
+   "direct": "ficha sketch (no master)"
+  },
+  {
+   "id": "comic",
+   "dur": 600,
+   "chap": "youtube",
+   "out": "dip",
+   "uso": "humor · história",
+   "master": "/motion-director \"conte isto como uma HQ\"",
+   "direct": "ficha comic (no master)"
+  },
+  {
+   "id": "datastory",
+   "dur": 480,
+   "chap": "artigo",
+   "out": "cut",
+   "uso": "artigo · relatório",
+   "master": "/motion-director \"data story com estes números\"",
+   "direct": "kit datastory (no master)"
+  },
+  {
+   "id": "stroke",
+   "dur": 480,
+   "chap": "artigo",
+   "out": "dip",
+   "uso": "paper · arquitetura",
+   "master": "/motion-director \"explique este paper em traço\"",
+   "direct": "kit stroke (no master)"
+  },
+  {
+   "id": "ink",
+   "dur": 480,
+   "chap": "artigo",
+   "out": "iris",
+   "uso": "cronologia · contexto",
+   "master": "/motion-director \"linha do tempo em nanquim\"",
+   "direct": "kit ink (no master)"
+  },
+  {
+   "id": "particles",
+   "dur": 600,
+   "chap": "artigo",
+   "out": "dip",
+   "uso": "dados densos · cenário",
+   "master": "/motion-director \"os 334 vídeos como constelação\"",
+   "direct": "ficha particles (no master)"
+  },
+  {
+   "id": "extrude3d",
+   "dur": 450,
+   "chap": "artigo",
+   "out": "flood",
+   "uso": "marca · vinheta",
+   "master": "/motion-director \"meu nome em 3D extrudado\"",
+   "direct": "kit extrude3d (no master)"
+  },
+  {
+   "id": "news",
+   "dur": 690,
+   "chap": "investigativo",
+   "out": "swipe",
+   "uso": "boletim · recap semanal",
+   "master": "/motion-director \"boletim semanal sobre…\"",
+   "direct": "ficha news (no master)"
+  },
+  {
+   "id": "geomap",
+   "dur": 660,
+   "chap": "investigativo",
+   "out": "dip",
+   "uso": "investigação · lugares",
+   "master": "/motion-director \"mapa cinematográfico de onde…\"",
+   "direct": "ficha geomap (no master)"
+  },
+  {
+   "id": "blender",
+   "dur": 470,
+   "chap": "investigativo",
+   "out": "cut",
+   "uso": "reconstrução · história",
+   "master": "/motion-director \"reconstrua a cena no Blender\"",
+   "direct": "ficha blender3d (no master)"
+  },
+  {
+   "id": "archival",
+   "dur": 660,
+   "chap": "investigativo",
+   "out": "iris",
+   "uso": "documentário · entrevista",
+   "master": "/motion-director \"edição editorial de arquivo deste vídeo\"",
+   "direct": "/editorial-archival-edit"
+  },
+  {
+   "id": "broll",
+   "dur": 400,
+   "chap": "podcast",
+   "out": "swipe",
+   "uso": "podcast · B-roll",
+   "master": "/motion-director \"B-roll animado no que eu falo\"",
+   "direct": "/motion-broll"
+  },
+  {
+   "id": "podcast",
+   "dur": 450,
+   "chap": "podcast",
+   "out": "whip",
+   "uso": "podcast · YouTube + cortes",
+   "master": "/motion-director \"pacote do episódio: audiograma, capítulos e cortes\"",
+   "direct": "creator + news + uimorph"
+  },
+  {
+   "id": "screencast",
+   "dur": 600,
+   "chap": "podcast",
+   "out": "zoom",
+   "uso": "tutorial de software",
+   "master": "/motion-director \"tutorial desta gravação de tela\"",
+   "direct": "ficha screencast (no master)"
+  },
+  {
+   "id": "demo",
+   "dur": 420,
+   "chap": "podcast",
+   "out": "dip",
+   "uso": "demo de produto",
+   "master": "/motion-director \"demo calma do meu app\"",
+   "direct": "/explainer-default"
+  },
+  {
+   "id": "sand",
+   "dur": 720,
+   "chap": "afetivo",
+   "out": "dip",
+   "uso": "homenagem · memória",
+   "master": "/motion-director \"história em animação de areia\"",
+   "direct": "ficha sand (no master)"
+  },
+  {
+   "id": "shadow",
+   "dur": 480,
+   "chap": "afetivo",
+   "out": "page",
+   "uso": "fábula · história pessoal",
+   "master": "/motion-director \"fábula em teatro de sombras\"",
+   "direct": "ficha shadow (no master)"
+  },
+  {
+   "id": "collage",
+   "dur": 420,
+   "chap": "afetivo",
+   "out": "zoom",
+   "uso": "bastidores · diário",
+   "master": "/motion-director \"diário de bastidores em colagem\"",
+   "direct": "/paper-collage-film"
+  },
+  {
+   "id": "pixel",
+   "dur": 420,
+   "chap": "afetivo",
+   "out": "dip",
+   "uso": "loop lofi · nostalgia",
+   "master": "/motion-director \"loop lofi em pixel art\"",
+   "direct": "ficha pixel (no master)"
+  },
+  {
+   "id": "mosaic",
+   "dur": 540,
+   "chap": "afetivo",
+   "out": "dip",
+   "uso": "abertura · arte",
+   "master": "/motion-director \"abertura em mosaico de vidro e ouro\"",
+   "direct": "ficha mosaic (no master)"
+  },
+  {
+   "id": "outro",
+   "dur": 390,
+   "chap": "fim",
+   "out": "none"
+  }
+ ],
+ "overlap": {
+  "whip": 10,
+  "swipe": 10,
+  "zoom": 10,
+  "page": 14,
+  "iris": 0,
+  "flood": 0,
+  "dip": 0,
+  "cut": 0,
+  "impact": 0,
+  "none": 0
+ }
+}

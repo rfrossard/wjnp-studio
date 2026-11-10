@@ -1,0 +1,1927 @@
+[
+  {
+    "id": "datastory",
+    "name": "Data story editorial",
+    "family": "data",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 4,
+    "topics": [
+      "data",
+      "research",
+      "study",
+      "survey",
+      "benchmark",
+      "report",
+      "percent",
+      "growth"
+    ],
+    "templates": [
+      "stat",
+      "comparison",
+      "title_hook",
+      "statement"
+    ],
+    "strongFor": [
+      "stat",
+      "comparison"
+    ],
+    "bestFor": [
+      "one number",
+      "one comparison",
+      "articles and reports"
+    ],
+    "avoidFor": [
+      "many numbers at once"
+    ],
+    "transitions": {
+      "in": [
+        "dip",
+        "cut"
+      ],
+      "out": [
+        "cut",
+        "dip"
+      ]
+    },
+    "baton": "highlighted bar becomes a line",
+    "requiredTraits": [
+      "textured paper with crop marks",
+      "italic serif headline",
+      "one hero number",
+      "hatched columns with one highlight",
+      "stamp",
+      "handwritten note with an arrow",
+      "cited source"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "datastory.gif"
+  },
+  {
+    "id": "stroke",
+    "name": "Precise stroke (wireframe)",
+    "family": "data",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 4,
+    "topics": [
+      "architecture",
+      "paper",
+      "system",
+      "pipeline",
+      "infrastructure",
+      "diagram",
+      "api"
+    ],
+    "templates": [
+      "timeline",
+      "comparison",
+      "bullets",
+      "statement"
+    ],
+    "strongFor": [
+      "timeline"
+    ],
+    "bestFor": [
+      "papers",
+      "diagrams",
+      "architecture"
+    ],
+    "avoidFor": [
+      "emotion"
+    ],
+    "transitions": {
+      "in": [
+        "cut",
+        "dip"
+      ],
+      "out": [
+        "dip",
+        "cut"
+      ]
+    },
+    "baton": "line becomes outline becomes frame",
+    "requiredTraits": [
+      "camera close, travelling node to node while the stroke draws",
+      "line icons, never empty boxes",
+      "dimension marks",
+      "review loop with a travelling dot",
+      "subtle grid"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "stroke.gif"
+  },
+  {
+    "id": "news",
+    "name": "Newscast bulletin",
+    "family": "editorial",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 4,
+    "topics": [
+      "news",
+      "weekly",
+      "recap",
+      "announcement",
+      "launch",
+      "policy",
+      "regulation",
+      "funding"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "bullets",
+      "stat",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook",
+      "bullets"
+    ],
+    "bestFor": [
+      "weekly recaps",
+      "news roundups"
+    ],
+    "avoidFor": [
+      "art",
+      "contemplation"
+    ],
+    "transitions": {
+      "in": [
+        "flood",
+        "swipe"
+      ],
+      "out": [
+        "swipe"
+      ]
+    },
+    "baton": "vignette band sweeps the frame",
+    "requiredTraits": [
+      "opening vignette with sweeping bands",
+      "headline run in one line each",
+      "blocks with lower third and source",
+      "continuous ticker",
+      "clock and date"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "note": "Do not imitate a real broadcaster's identity.",
+    "preview": "news.gif"
+  },
+  {
+    "id": "archival",
+    "name": "Archival black and white over real footage",
+    "family": "editorial",
+    "engine": "kit2",
+    "needs": [
+      "footage"
+    ],
+    "energy": 2,
+    "formality": 4,
+    "topics": [
+      "interview",
+      "history",
+      "documentary",
+      "testimony"
+    ],
+    "templates": [
+      "clip",
+      "quote_card"
+    ],
+    "strongFor": [
+      "clip",
+      "quote_card"
+    ],
+    "bestFor": [
+      "interviews",
+      "documentary"
+    ],
+    "avoidFor": [
+      "no footage"
+    ],
+    "transitions": {
+      "in": [
+        "cut"
+      ],
+      "out": [
+        "iris"
+      ]
+    },
+    "baton": "frame becomes iris",
+    "requiredTraits": [
+      "black and white or duotone treatment",
+      "kinetic words verbatim from the speech",
+      "iris out"
+    ],
+    "gate": {
+      "status": "passed"
+    },
+    "brandSafe": false,
+    "note": "Needs real footage the owner has the rights to. The library's demo uses third-party broadcast footage, so it has no GIF here.",
+    "preview": null
+  },
+  {
+    "id": "ink",
+    "name": "Ink and stamp (timeline)",
+    "family": "editorial",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 3,
+    "topics": [
+      "history",
+      "timeline",
+      "context",
+      "before",
+      "after",
+      "chronology"
+    ],
+    "templates": [
+      "timeline",
+      "statement"
+    ],
+    "strongFor": [
+      "timeline"
+    ],
+    "bestFor": [
+      "chronologies",
+      "context",
+      "before and after"
+    ],
+    "avoidFor": [
+      "lots of data"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "iris"
+      ]
+    },
+    "baton": "paper becomes round stamp",
+    "requiredTraits": [
+      "pressure brush stroke",
+      "camera following the tip",
+      "sketched icons",
+      "handwritten hours",
+      "stamp",
+      "handwritten title"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "ink.gif"
+  },
+  {
+    "id": "flat",
+    "name": "Flat science (Kurzgesagt-like)",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "science",
+      "how",
+      "mechanism",
+      "scale",
+      "biology",
+      "physics",
+      "climate",
+      "energy"
+    ],
+    "templates": [
+      "statement",
+      "timeline",
+      "title_hook",
+      "stat"
+    ],
+    "strongFor": [
+      "statement",
+      "timeline"
+    ],
+    "bestFor": [
+      "science",
+      "mechanisms",
+      "scale"
+    ],
+    "avoidFor": [
+      "exact figures"
+    ],
+    "transitions": {
+      "in": [
+        "cut"
+      ],
+      "out": [
+        "zoom"
+      ]
+    },
+    "baton": "dot becomes sphere",
+    "requiredTraits": [
+      "continuous scale zoom",
+      "cel shading and rim light on every shape",
+      "glow",
+      "particles in 3 layers",
+      "geometric mascots",
+      "grain and vignette",
+      "labels with leader lines"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "flat.gif"
+  },
+  {
+    "id": "journey",
+    "name": "One-take journey",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "process",
+      "flow",
+      "how it works",
+      "pipeline",
+      "workflow",
+      "steps"
+    ],
+    "templates": [
+      "timeline",
+      "bullets"
+    ],
+    "strongFor": [
+      "timeline"
+    ],
+    "bestFor": [
+      "processes",
+      "flows"
+    ],
+    "avoidFor": [
+      "concepts without steps"
+    ],
+    "transitions": {
+      "in": [
+        "zoom"
+      ],
+      "out": [
+        "whip"
+      ]
+    },
+    "baton": "ball to ball",
+    "requiredTraits": [
+      "dotted graphite path",
+      "hero with halo and trail",
+      "stations are realistic UI cards that react",
+      "camera about 1.5x that pulls back at the end"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "journey.gif"
+  },
+  {
+    "id": "manim",
+    "name": "Mathematical (3Blue1Brown-like)",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [
+      "manim"
+    ],
+    "energy": 2,
+    "formality": 5,
+    "topics": [
+      "math",
+      "equation",
+      "model",
+      "formula",
+      "logic",
+      "probability",
+      "physics"
+    ],
+    "templates": [
+      "statement",
+      "stat",
+      "timeline"
+    ],
+    "strongFor": [
+      "statement"
+    ],
+    "bestFor": [
+      "lessons",
+      "formulas",
+      "graphs"
+    ],
+    "avoidFor": [
+      "emotion",
+      "product"
+    ],
+    "transitions": {
+      "in": [
+        "whip"
+      ],
+      "out": [
+        "cut"
+      ]
+    },
+    "baton": "equation becomes shape",
+    "requiredTraits": [
+      "typeset formulas (MathJax to SVG), never mono",
+      "one fixed colour per variable",
+      "visible derivation",
+      "physical system synced with the graph",
+      "ghost curves"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "manim.gif"
+  },
+  {
+    "id": "sketch",
+    "name": "Whiteboard and pencil",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 2,
+    "topics": [
+      "tutorial",
+      "summary",
+      "how to",
+      "guide",
+      "lesson"
+    ],
+    "templates": [
+      "bullets",
+      "timeline",
+      "statement"
+    ],
+    "strongFor": [
+      "bullets"
+    ],
+    "bestFor": [
+      "tutorials",
+      "summaries"
+    ],
+    "avoidFor": [
+      "luxury",
+      "premium"
+    ],
+    "transitions": {
+      "in": [
+        "cut"
+      ],
+      "out": [
+        "page"
+      ]
+    },
+    "baton": "hand wipes the board",
+    "requiredTraits": [
+      "dotted paper",
+      "numbered badges",
+      "stroke-by-stroke writing with a visible pencil",
+      "hatched highlighter",
+      "Open Peeps presenter",
+      "eraser on exit"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "sketch.gif"
+  },
+  {
+    "id": "demo",
+    "name": "Calm product demo",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 3,
+    "topics": [
+      "product",
+      "app",
+      "feature",
+      "walkthrough",
+      "ui",
+      "tool"
+    ],
+    "templates": [
+      "clip",
+      "bullets",
+      "statement"
+    ],
+    "strongFor": [
+      "clip"
+    ],
+    "bestFor": [
+      "walkthroughs 45-90 s"
+    ],
+    "avoidFor": [
+      "energetic pacing"
+    ],
+    "transitions": {
+      "in": [
+        "zoom"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "button becomes screen",
+    "requiredTraits": [
+      "whole app recreated",
+      "close camera that follows typing and glides",
+      "button with click and progress"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "demo.gif"
+  },
+  {
+    "id": "screencast",
+    "name": "Screencast with auto zoom",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [
+      "screen recording"
+    ],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "software",
+      "tutorial",
+      "demo",
+      "tool",
+      "code"
+    ],
+    "templates": [
+      "clip"
+    ],
+    "strongFor": [
+      "clip"
+    ],
+    "bestFor": [
+      "software tutorials",
+      "real demos"
+    ],
+    "avoidFor": [
+      "no screen recording"
+    ],
+    "transitions": {
+      "in": [
+        "whip"
+      ],
+      "out": [
+        "zoom"
+      ]
+    },
+    "baton": "zoom out until the window becomes an object",
+    "requiredTraits": [
+      "real screen recording",
+      "automatic zoom on clicks",
+      "cursor emphasis"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "screencast.gif"
+  },
+  {
+    "id": "broll",
+    "name": "Motion B-roll (single shape)",
+    "family": "explainer",
+    "engine": "kit2",
+    "needs": [
+      "footage"
+    ],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "podcast",
+      "talk",
+      "explainer"
+    ],
+    "templates": [
+      "clip"
+    ],
+    "strongFor": [
+      "clip"
+    ],
+    "bestFor": [
+      "B-roll timed to speech"
+    ],
+    "avoidFor": [
+      "no speech track"
+    ],
+    "transitions": {
+      "in": [
+        "iris"
+      ],
+      "out": [
+        "swipe"
+      ]
+    },
+    "baton": "ball becomes button",
+    "requiredTraits": [
+      "one shape that morphs continuously",
+      "shape fills the frame",
+      "timed to the speech"
+    ],
+    "gate": {
+      "status": "below",
+      "score": 3
+    },
+    "brandSafe": false,
+    "note": "Below the bar in the library audit; its demo uses third-party footage, so no GIF here.",
+    "preview": null
+  },
+  {
+    "id": "podcast",
+    "name": "Podcast audiogram",
+    "family": "editorial",
+    "engine": "kit2",
+    "needs": [
+      "footage"
+    ],
+    "energy": 2,
+    "formality": 3,
+    "topics": [
+      "podcast",
+      "interview",
+      "episode",
+      "audio"
+    ],
+    "templates": [
+      "clip",
+      "quote_card"
+    ],
+    "strongFor": [
+      "clip"
+    ],
+    "bestFor": [
+      "podcast episodes",
+      "YouTube plus cuts"
+    ],
+    "avoidFor": [
+      "no audio"
+    ],
+    "transitions": {
+      "in": [
+        "swipe"
+      ],
+      "out": [
+        "whip"
+      ]
+    },
+    "baton": "waveform becomes chapter list",
+    "requiredTraits": [
+      "audiogram waveform",
+      "chapter list with timestamps",
+      "guest cards"
+    ],
+    "gate": {
+      "status": "passed"
+    },
+    "brandSafe": false,
+    "note": "Its demo uses third-party broadcast audio and images, so no GIF here.",
+    "preview": null
+  },
+  {
+    "id": "hype",
+    "name": "Beat-synced announcement with HUD",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 5,
+    "formality": 1,
+    "topics": [
+      "launch",
+      "announcement",
+      "release",
+      "teaser",
+      "cta",
+      "new"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook",
+      "end_card"
+    ],
+    "bestFor": [
+      "announcements",
+      "teasers",
+      "calls to action"
+    ],
+    "avoidFor": [
+      "dense content"
+    ],
+    "transitions": {
+      "in": [
+        "flood"
+      ],
+      "out": [
+        "impact"
+      ]
+    },
+    "baton": "colour flood to dot",
+    "requiredTraits": [
+      "one shape that crosses every cut",
+      "slam with masks at 1/16 beat",
+      "kinetic trio",
+      "signature visual",
+      "viewfinder HUD in every scene"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "hype.gif"
+  },
+  {
+    "id": "creator",
+    "name": "Punchy creator edit (talking head)",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [
+      "footage"
+    ],
+    "energy": 5,
+    "formality": 1,
+    "topics": [
+      "talk",
+      "opinion",
+      "reels",
+      "testimony"
+    ],
+    "templates": [
+      "clip",
+      "personal_take"
+    ],
+    "strongFor": [
+      "personal_take"
+    ],
+    "bestFor": [
+      "Reels and Shorts",
+      "testimonials"
+    ],
+    "avoidFor": [
+      "contemplative tone"
+    ],
+    "transitions": {
+      "in": [
+        "impact"
+      ],
+      "out": [
+        "swipe"
+      ]
+    },
+    "baton": "jump cut on the beat",
+    "requiredTraits": [
+      "jump cuts on the beat",
+      "zoom punch",
+      "kinetic captions"
+    ],
+    "gate": {
+      "status": "passed"
+    },
+    "brandSafe": false,
+    "note": "Needs the owner's own footage. The library's demo uses third-party footage, so no GIF here.",
+    "preview": null
+  },
+  {
+    "id": "anime",
+    "name": "Anime with fast cuts",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 5,
+    "formality": 1,
+    "topics": [
+      "trailer",
+      "story",
+      "humour",
+      "drama"
+    ],
+    "templates": [
+      "title_hook",
+      "statement"
+    ],
+    "strongFor": [
+      "title_hook"
+    ],
+    "bestFor": [
+      "trailers",
+      "stories for social"
+    ],
+    "avoidFor": [
+      "data",
+      "long explanations"
+    ],
+    "transitions": {
+      "in": [
+        "swipe"
+      ],
+      "out": [
+        "impact"
+      ]
+    },
+    "baton": "speed lines, white flash",
+    "requiredTraits": [
+      "night city, moon, rain",
+      "glowing titles",
+      "diagonal panels with aura",
+      "impact frame",
+      "protagonist is treated real footage"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "anime.gif"
+  },
+  {
+    "id": "toon3d",
+    "name": "Game toon 3D (reward)",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 5,
+    "formality": 1,
+    "topics": [
+      "milestone",
+      "achievement",
+      "anniversary",
+      "win",
+      "record"
+    ],
+    "templates": [
+      "stat",
+      "title_hook",
+      "end_card"
+    ],
+    "strongFor": [
+      "stat"
+    ],
+    "bestFor": [
+      "achievements",
+      "milestones"
+    ],
+    "avoidFor": [
+      "board-room, sober topics"
+    ],
+    "transitions": {
+      "in": [
+        "impact"
+      ],
+      "out": [
+        "flood"
+      ]
+    },
+    "baton": "particle burst to level colour",
+    "requiredTraits": [
+      "bevelled geometry, never raw boxes",
+      "metal and inner light",
+      "4-layer sign",
+      "squash on touch",
+      "stars and halftone",
+      "status bar"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "toon3d.gif"
+  },
+  {
+    "id": "led",
+    "name": "LED dot panel",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 4,
+    "formality": 2,
+    "topics": [
+      "question",
+      "teaser",
+      "quote",
+      "punchline"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook",
+      "end_card"
+    ],
+    "bestFor": [
+      "questions",
+      "teasers",
+      "punchlines"
+    ],
+    "avoidFor": [
+      "long text"
+    ],
+    "transitions": {
+      "in": [
+        "flood"
+      ],
+      "out": [
+        "cut"
+      ]
+    },
+    "baton": "dots converge to a point",
+    "requiredTraits": [
+      "dot-matrix glyphs",
+      "scanning reveal",
+      "single line of text"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "led.gif"
+  },
+  {
+    "id": "extrude3d",
+    "name": "3D extruded mark",
+    "family": "social",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 4,
+    "formality": 3,
+    "topics": [
+      "brand",
+      "vision",
+      "opening",
+      "signature"
+    ],
+    "templates": [
+      "title_hook",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook",
+      "end_card"
+    ],
+    "bestFor": [
+      "brand stings",
+      "openings"
+    ],
+    "avoidFor": [
+      "characters"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "flood"
+      ]
+    },
+    "baton": "dark floods with colour",
+    "requiredTraits": [
+      "extruded glyphs in layers",
+      "rim light",
+      "slow camera orbit"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "extrude3d.gif"
+  },
+  {
+    "id": "comic",
+    "name": "Comic book (HQ)",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 4,
+    "formality": 2,
+    "topics": [
+      "story",
+      "humour",
+      "summary",
+      "case"
+    ],
+    "templates": [
+      "statement",
+      "comparison",
+      "quote_card"
+    ],
+    "strongFor": [
+      "quote_card"
+    ],
+    "bestFor": [
+      "humour",
+      "stories",
+      "summarising a text"
+    ],
+    "avoidFor": [
+      "solemn tone"
+    ],
+    "transitions": {
+      "in": [
+        "page"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "camera crosses into the next panel",
+    "requiredTraits": [
+      "halftone frame",
+      "title banner",
+      "same Open Peeps character in every panel",
+      "speech balloons with tails",
+      "outlined onomatopoeia",
+      "camera reading panel by panel"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "comic.gif"
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow theatre",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 2,
+    "topics": [
+      "fable",
+      "story",
+      "personal",
+      "lesson"
+    ],
+    "templates": [
+      "personal_take",
+      "statement"
+    ],
+    "strongFor": [
+      "personal_take"
+    ],
+    "bestFor": [
+      "fables",
+      "personal stories"
+    ],
+    "avoidFor": [
+      "data",
+      "UI"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "page"
+      ]
+    },
+    "baton": "lamp goes out and on",
+    "requiredTraits": [
+      "full-body Open Peeps silhouette",
+      "paper layers with parallax lighter than the figure",
+      "theatre frame",
+      "light that changes with the story"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "shadow.gif"
+  },
+  {
+    "id": "sand",
+    "name": "Sand animation",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 2,
+    "topics": [
+      "memory",
+      "tribute",
+      "retrospective",
+      "emotion"
+    ],
+    "templates": [
+      "statement",
+      "personal_take",
+      "end_card"
+    ],
+    "strongFor": [
+      "personal_take"
+    ],
+    "bestFor": [
+      "emotional stories",
+      "tributes"
+    ],
+    "avoidFor": [
+      "UI",
+      "data"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "swept sand reveals the next scene",
+    "requiredTraits": [
+      "grain that forms and is swept",
+      "warm backlight",
+      "one shape at a time"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "sand.gif"
+  },
+  {
+    "id": "collage",
+    "name": "Torn paper collage",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [
+      "paid cut-outs"
+    ],
+    "energy": 3,
+    "formality": 2,
+    "topics": [
+      "behind the scenes",
+      "diary",
+      "zine",
+      "intro"
+    ],
+    "templates": [
+      "title_hook",
+      "statement"
+    ],
+    "strongFor": [
+      "title_hook"
+    ],
+    "bestFor": [
+      "intros",
+      "behind the scenes",
+      "diaries"
+    ],
+    "avoidFor": [
+      "sober tone"
+    ],
+    "transitions": {
+      "in": [
+        "page"
+      ],
+      "out": [
+        "zoom"
+      ]
+    },
+    "baton": "pasted photo, page tears",
+    "requiredTraits": [
+      "torn edges",
+      "tape and shadows",
+      "photo cut-outs"
+    ],
+    "gate": {
+      "status": "passed"
+    },
+    "brandSafe": false,
+    "note": "Built on a third-party skill with no redistribution licence, and the library's demo shows an employer logo, so no GIF here.",
+    "preview": null
+  },
+  {
+    "id": "mosaic",
+    "name": "Glass and gold mosaic",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 2,
+    "formality": 3,
+    "topics": [
+      "art",
+      "opening",
+      "contemplation",
+      "card"
+    ],
+    "templates": [
+      "title_hook",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook"
+    ],
+    "bestFor": [
+      "art",
+      "openings"
+    ],
+    "avoidFor": [
+      "long text"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "tiles flock into the next object",
+    "requiredTraits": [
+      "glass tiles with gold",
+      "flocking tiles form shapes",
+      "slow reveal"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "mosaic.gif"
+  },
+  {
+    "id": "pixel",
+    "name": "Pixel art 16-bit",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 1,
+    "topics": [
+      "games",
+      "nostalgia",
+      "loop",
+      "lofi"
+    ],
+    "templates": [
+      "title_hook",
+      "statement"
+    ],
+    "strongFor": [
+      "title_hook"
+    ],
+    "bestFor": [
+      "loops",
+      "nostalgia"
+    ],
+    "avoidFor": [
+      "realism",
+      "data"
+    ],
+    "transitions": {
+      "in": [
+        "zoom"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "pixel becomes colour block",
+    "requiredTraits": [
+      "animated sprite",
+      "parallax",
+      "action on the beat"
+    ],
+    "gate": {
+      "status": "below",
+      "score": 3
+    },
+    "brandSafe": false,
+    "note": "Below the bar in the library audit.",
+    "preview": "pixel.gif"
+  },
+  {
+    "id": "particles",
+    "name": "Particle constellation",
+    "family": "craft",
+    "engine": "kit2",
+    "needs": [],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "data",
+      "cosmos",
+      "dream",
+      "network",
+      "many"
+    ],
+    "templates": [
+      "stat",
+      "title_hook"
+    ],
+    "strongFor": [
+      "stat"
+    ],
+    "bestFor": [
+      "dense data",
+      "dreamlike scenes"
+    ],
+    "avoidFor": [
+      "small text"
+    ],
+    "transitions": {
+      "in": [
+        "iris"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "particles disperse and condense into the next shape",
+    "requiredTraits": [
+      "thousands of particles",
+      "clusters labelled by count",
+      "slow drift"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "particles.gif"
+  },
+  {
+    "id": "geomap",
+    "name": "Cinematic map and terrain",
+    "family": "place",
+    "engine": "kit2",
+    "needs": [
+      "terrain tiles (network)"
+    ],
+    "energy": 3,
+    "formality": 4,
+    "topics": [
+      "where",
+      "route",
+      "travel",
+      "place",
+      "geography",
+      "country",
+      "city"
+    ],
+    "templates": [
+      "statement",
+      "timeline"
+    ],
+    "strongFor": [
+      "statement"
+    ],
+    "bestFor": [
+      "investigations",
+      "places",
+      "routes"
+    ],
+    "avoidFor": [
+      "abstract concepts"
+    ],
+    "transitions": {
+      "in": [
+        "swipe"
+      ],
+      "out": [
+        "dip"
+      ]
+    },
+    "baton": "globe zooms to the point",
+    "requiredTraits": [
+      "globe to terrain zoom",
+      "route line",
+      "labelled places",
+      "map attribution"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "geomap.gif"
+  },
+  {
+    "id": "blender",
+    "name": "Realistic 3D reconstruction",
+    "family": "place",
+    "engine": "kit2",
+    "needs": [
+      "blender"
+    ],
+    "energy": 3,
+    "formality": 4,
+    "topics": [
+      "history",
+      "place",
+      "architecture",
+      "product 3d",
+      "reconstruction"
+    ],
+    "templates": [
+      "statement",
+      "clip"
+    ],
+    "strongFor": [
+      "clip"
+    ],
+    "bestFor": [
+      "history",
+      "places",
+      "3D product"
+    ],
+    "avoidFor": [
+      "short deadline"
+    ],
+    "transitions": {
+      "in": [
+        "dip"
+      ],
+      "out": [
+        "cut"
+      ]
+    },
+    "baton": "camera passes through a window or object",
+    "requiredTraits": [
+      "physically lit scene",
+      "slow dolly",
+      "real materials"
+    ],
+    "gate": {
+      "status": "passed",
+      "score": 4
+    },
+    "brandSafe": false,
+    "preview": "blender.gif"
+  },
+  {
+    "id": "tron",
+    "name": "Tron-like light grid",
+    "family": "retro",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 4,
+    "formality": 3,
+    "topics": [
+      "future",
+      "ai",
+      "agents",
+      "technology",
+      "speed",
+      "network",
+      "computing"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook"
+    ],
+    "bestFor": [
+      "openings",
+      "technology statements"
+    ],
+    "avoidFor": [
+      "warm or human topics"
+    ],
+    "transitions": {
+      "in": [
+        "derez"
+      ],
+      "out": [
+        "lightcycle"
+      ]
+    },
+    "baton": "a light cycle crosses the frame",
+    "requiredTraits": [
+      "perspective grid floor rushing to camera",
+      "glowing cyan lines",
+      "light-cycle heads drawing the frame",
+      "derez entry in slices"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "tron.gif"
+  },
+  {
+    "id": "ascii",
+    "name": "ASCII art",
+    "family": "retro",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "code",
+      "hacker",
+      "data",
+      "terminal",
+      "developer",
+      "open source"
+    ],
+    "templates": [
+      "stat",
+      "title_hook"
+    ],
+    "strongFor": [
+      "stat"
+    ],
+    "bestFor": [
+      "one figure",
+      "developer topics"
+    ],
+    "avoidFor": [
+      "long sentences"
+    ],
+    "transitions": {
+      "in": [
+        "typeon"
+      ],
+      "out": [
+        "scatter"
+      ]
+    },
+    "baton": "characters type on and fall away",
+    "requiredTraits": [
+      "monospace character field",
+      "brightness ramp drawing shapes",
+      "figure built from characters",
+      "raster type-on entry"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "ascii.gif"
+  },
+  {
+    "id": "crt",
+    "name": "CRT terminal",
+    "family": "retro",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 2,
+    "formality": 4,
+    "topics": [
+      "code",
+      "command",
+      "process",
+      "verification",
+      "pipeline",
+      "developer",
+      "security"
+    ],
+    "templates": [
+      "bullets",
+      "timeline",
+      "statement"
+    ],
+    "strongFor": [
+      "bullets"
+    ],
+    "bestFor": [
+      "process steps",
+      "verification logs"
+    ],
+    "avoidFor": [
+      "visual or emotional topics"
+    ],
+    "transitions": {
+      "in": [
+        "poweron"
+      ],
+      "out": [
+        "poweroff"
+      ]
+    },
+    "baton": "screen powers on and off to a dot",
+    "requiredTraits": [
+      "green phosphor glow",
+      "scanlines",
+      "curved screen with vignette",
+      "typed commands with a blinking cursor"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "crt.gif"
+  },
+  {
+    "id": "risograph",
+    "name": "Risograph print",
+    "family": "craft",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 3,
+    "formality": 2,
+    "topics": [
+      "culture",
+      "creative",
+      "zine",
+      "community",
+      "design",
+      "people"
+    ],
+    "templates": [
+      "title_hook",
+      "stat",
+      "statement"
+    ],
+    "strongFor": [
+      "stat"
+    ],
+    "bestFor": [
+      "editorial openers",
+      "one figure with personality"
+    ],
+    "avoidFor": [
+      "sober corporate topics"
+    ],
+    "transitions": {
+      "in": [
+        "misregister"
+      ],
+      "out": [
+        "paperpull"
+      ]
+    },
+    "baton": "the sheet is pulled off the drum",
+    "requiredTraits": [
+      "two or three flat inks overprinting (multiply)",
+      "visible misregistration",
+      "halftone dots",
+      "paper grain"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "risograph.gif"
+  },
+  {
+    "id": "blueprint",
+    "name": "Technical blueprint",
+    "family": "data",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 2,
+    "formality": 5,
+    "topics": [
+      "architecture",
+      "system",
+      "design",
+      "engineering",
+      "infrastructure",
+      "spec",
+      "api"
+    ],
+    "templates": [
+      "comparison",
+      "timeline",
+      "statement"
+    ],
+    "strongFor": [
+      "comparison",
+      "timeline"
+    ],
+    "bestFor": [
+      "system flows",
+      "specifications"
+    ],
+    "avoidFor": [
+      "emotion"
+    ],
+    "transitions": {
+      "in": [
+        "unroll"
+      ],
+      "out": [
+        "erase"
+      ]
+    },
+    "baton": "the sheet unrolls and is wiped clean",
+    "requiredTraits": [
+      "white line on blueprint blue",
+      "major and minor grid",
+      "dimension lines with values",
+      "title block",
+      "lines drawing on"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "blueprint.gif"
+  },
+  {
+    "id": "origami",
+    "name": "Folded paper (origami)",
+    "family": "craft",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 2,
+    "formality": 3,
+    "topics": [
+      "idea",
+      "simple",
+      "craft",
+      "calm",
+      "education",
+      "design"
+    ],
+    "templates": [
+      "statement",
+      "personal_take",
+      "end_card"
+    ],
+    "strongFor": [
+      "statement"
+    ],
+    "bestFor": [
+      "calm single ideas",
+      "reflective endings"
+    ],
+    "avoidFor": [
+      "dense data"
+    ],
+    "transitions": {
+      "in": [
+        "unfold"
+      ],
+      "out": [
+        "fold"
+      ]
+    },
+    "baton": "the frame folds in half along a crease",
+    "requiredTraits": [
+      "faceted folds with per-face light",
+      "dashed crease lines",
+      "paper water strips",
+      "unfold and fold transitions"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "origami.gif"
+  },
+  {
+    "id": "claymation",
+    "name": "Claymation (stop motion)",
+    "family": "craft",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 4,
+    "formality": 1,
+    "topics": [
+      "fun",
+      "consumer",
+      "everyday",
+      "money",
+      "family",
+      "playful"
+    ],
+    "templates": [
+      "stat",
+      "comparison",
+      "statement"
+    ],
+    "strongFor": [
+      "stat"
+    ],
+    "bestFor": [
+      "playful figures",
+      "light comparisons"
+    ],
+    "avoidFor": [
+      "solemn topics",
+      "people (never drawn)"
+    ],
+    "transitions": {
+      "in": [
+        "drop"
+      ],
+      "out": [
+        "melt"
+      ]
+    },
+    "baton": "objects melt down into the table",
+    "requiredTraits": [
+      "animated on twos",
+      "plasticine shading with a highlight",
+      "hand-made wobble",
+      "squash on landing",
+      "no people"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "preview": "claymation.gif"
+  },
+  {
+    "id": "synthwave",
+    "name": "Synthwave (brand-safe palette)",
+    "family": "retro",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 4,
+    "formality": 2,
+    "topics": [
+      "future",
+      "nostalgia",
+      "music",
+      "culture",
+      "vision"
+    ],
+    "templates": [
+      "title_hook",
+      "end_card"
+    ],
+    "strongFor": [
+      "title_hook",
+      "end_card"
+    ],
+    "bestFor": [
+      "openings",
+      "closing cards"
+    ],
+    "avoidFor": [
+      "data",
+      "sober topics"
+    ],
+    "transitions": {
+      "in": [
+        "horizon"
+      ],
+      "out": [
+        "iris"
+      ]
+    },
+    "baton": "an iris closes onto the sun",
+    "requiredTraits": [
+      "sliced sun",
+      "scrolling perspective grid",
+      "star field",
+      "chrome italic title"
+    ],
+    "gate": {
+      "status": "draft"
+    },
+    "brandSafe": true,
+    "note": "Palette adapted to the personal brand: cyan, red and yellow; no purple, no orange.",
+    "preview": "synthwave.gif"
+  }
+]
