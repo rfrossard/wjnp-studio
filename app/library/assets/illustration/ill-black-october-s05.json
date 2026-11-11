@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s05",
+  "type": "illustration",
+  "title": "Black October s05: robot trying a ring of keys on a row of doors",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.580486Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "2056b1545a0c60df006ccb21f1770b04b4df7541d5e6ed32e250c77ebebade9d",
+    "path": "2056b1545a0c60df006ccb21f1770b04b4df7541d5e6ed32e250c77ebebade9d",
+    "mime": "image/png",
+    "bytes": 2657250
+  },
+  "data": {
+    "subject": "robot trying a ring of keys on a row of doors"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

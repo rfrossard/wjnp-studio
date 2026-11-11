@@ -1,0 +1,247 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 17879,
+  "words": [
+    {
+      "w": "Our",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "w": "first",
+      "startMs": 255,
+      "endMs": 488
+    },
+    {
+      "w": "story.",
+      "startMs": 522,
+      "endMs": 987
+    },
+    {
+      "w": "On",
+      "startMs": 1939,
+      "endMs": 2067
+    },
+    {
+      "w": "October",
+      "startMs": 2113,
+      "endMs": 2415
+    },
+    {
+      "w": "21st,",
+      "startMs": 2485,
+      "endMs": 3111
+    },
+    {
+      "w": "developers",
+      "startMs": 3228,
+      "endMs": 3773
+    },
+    {
+      "w": "rushed",
+      "startMs": 3866,
+      "endMs": 4133
+    },
+    {
+      "w": "out",
+      "startMs": 4203,
+      "endMs": 4389
+    },
+    {
+      "w": "emergency",
+      "startMs": 4447,
+      "endMs": 4911
+    },
+    {
+      "w": "fixes",
+      "startMs": 4969,
+      "endMs": 5352
+    },
+    {
+      "w": "for",
+      "startMs": 5410,
+      "endMs": 5573
+    },
+    {
+      "w": "two",
+      "startMs": 5642,
+      "endMs": 5817
+    },
+    {
+      "w": "critical",
+      "startMs": 5875,
+      "endMs": 6200
+    },
+    {
+      "w": "PHP",
+      "startMs": 6258,
+      "endMs": 6583
+    },
+    {
+      "w": "flaws,",
+      "startMs": 6676,
+      "endMs": 7256
+    },
+    {
+      "w": "known",
+      "startMs": 7465,
+      "endMs": 7674
+    },
+    {
+      "w": "together",
+      "startMs": 7709,
+      "endMs": 8022
+    },
+    {
+      "w": "as",
+      "startMs": 8081,
+      "endMs": 8173
+    },
+    {
+      "w": "PHP2Shell.",
+      "startMs": 8243,
+      "endMs": 9195
+    },
+    {
+      "w": "They",
+      "startMs": 9636,
+      "endMs": 9787
+    },
+    {
+      "w": "let",
+      "startMs": 9822,
+      "endMs": 9938
+    },
+    {
+      "w": "an",
+      "startMs": 9973,
+      "endMs": 10031
+    },
+    {
+      "w": "attacker",
+      "startMs": 10066,
+      "endMs": 10449
+    },
+    {
+      "w": "run",
+      "startMs": 10507,
+      "endMs": 10670
+    },
+    {
+      "w": "code",
+      "startMs": 10751,
+      "endMs": 11064
+    },
+    {
+      "w": "on",
+      "startMs": 11099,
+      "endMs": 11169
+    },
+    {
+      "w": "a",
+      "startMs": 11215,
+      "endMs": 11238
+    },
+    {
+      "w": "server",
+      "startMs": 11285,
+      "endMs": 11598
+    },
+    {
+      "w": "without",
+      "startMs": 11656,
+      "endMs": 11923
+    },
+    {
+      "w": "ever",
+      "startMs": 11981,
+      "endMs": 12144
+    },
+    {
+      "w": "logging",
+      "startMs": 12190,
+      "endMs": 12457
+    },
+    {
+      "w": "in.",
+      "startMs": 12527,
+      "endMs": 12852
+    },
+    {
+      "w": "AI",
+      "startMs": 13293,
+      "endMs": 13595
+    },
+    {
+      "w": "helped",
+      "startMs": 13653,
+      "endMs": 13874
+    },
+    {
+      "w": "find",
+      "startMs": 13920,
+      "endMs": 14141
+    },
+    {
+      "w": "them.",
+      "startMs": 14176,
+      "endMs": 14536
+    },
+    {
+      "w": "The",
+      "startMs": 14977,
+      "endMs": 15081
+    },
+    {
+      "w": "uncomfortable",
+      "startMs": 15128,
+      "endMs": 15604
+    },
+    {
+      "w": "part",
+      "startMs": 15639,
+      "endMs": 15836
+    },
+    {
+      "w": "is",
+      "startMs": 15894,
+      "endMs": 15964
+    },
+    {
+      "w": "that",
+      "startMs": 15999,
+      "endMs": 16115
+    },
+    {
+      "w": "AI",
+      "startMs": 16184,
+      "endMs": 16451
+    },
+    {
+      "w": "can",
+      "startMs": 16486,
+      "endMs": 16591
+    },
+    {
+      "w": "help",
+      "startMs": 16649,
+      "endMs": 16800
+    },
+    {
+      "w": "exploit",
+      "startMs": 16858,
+      "endMs": 17206
+    },
+    {
+      "w": "them",
+      "startMs": 17241,
+      "endMs": 17369
+    },
+    {
+      "w": "too.",
+      "startMs": 17427,
+      "endMs": 17879
+    }
+  ],
+  "file": "7fdea1555cbdc5090577350a11ee8404a842bc23a9aa4cf9e74bb7f6dfc97775.mp3"
+}

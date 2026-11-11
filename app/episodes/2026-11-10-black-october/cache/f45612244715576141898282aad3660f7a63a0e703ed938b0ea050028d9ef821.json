@@ -1,0 +1,77 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 5851,
+  "words": [
+    {
+      "w": "October",
+      "startMs": 0,
+      "endMs": 511
+    },
+    {
+      "w": "2026.",
+      "startMs": 592,
+      "endMs": 1579
+    },
+    {
+      "w": "At",
+      "startMs": 1753,
+      "endMs": 1869
+    },
+    {
+      "w": "least",
+      "startMs": 1904,
+      "endMs": 2090
+    },
+    {
+      "w": "nine",
+      "startMs": 2159,
+      "endMs": 2473
+    },
+    {
+      "w": "AI",
+      "startMs": 2531,
+      "endMs": 2821
+    },
+    {
+      "w": "platforms",
+      "startMs": 2879,
+      "endMs": 3437
+    },
+    {
+      "w": "disclosed",
+      "startMs": 3483,
+      "endMs": 3924
+    },
+    {
+      "w": "security",
+      "startMs": 3947,
+      "endMs": 4307
+    },
+    {
+      "w": "incidents",
+      "startMs": 4354,
+      "endMs": 4714
+    },
+    {
+      "w": "in",
+      "startMs": 4748,
+      "endMs": 4807
+    },
+    {
+      "w": "a",
+      "startMs": 4841,
+      "endMs": 4865
+    },
+    {
+      "w": "single",
+      "startMs": 4923,
+      "endMs": 5213
+    },
+    {
+      "w": "month.",
+      "startMs": 5248,
+      "endMs": 5851
+    }
+  ],
+  "file": "f45612244715576141898282aad3660f7a63a0e703ed938b0ea050028d9ef821.mp3"
+}

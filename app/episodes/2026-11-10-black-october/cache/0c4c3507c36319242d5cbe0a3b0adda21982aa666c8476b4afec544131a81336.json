@@ -1,0 +1,237 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 20666,
+  "words": [
+    {
+      "w": "Then",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "w": "a",
+      "startMs": 325,
+      "endMs": 348
+    },
+    {
+      "w": "separate",
+      "startMs": 406,
+      "endMs": 731
+    },
+    {
+      "w": "story.",
+      "startMs": 755,
+      "endMs": 1277
+    },
+    {
+      "w": "Researchers",
+      "startMs": 2392,
+      "endMs": 2868
+    },
+    {
+      "w": "told",
+      "startMs": 2914,
+      "endMs": 3111
+    },
+    {
+      "w": "Reuters",
+      "startMs": 3170,
+      "endMs": 3471
+    },
+    {
+      "w": "that",
+      "startMs": 3495,
+      "endMs": 3599
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 3669,
+      "endMs": 4203
+    },
+    {
+      "w": "agents",
+      "startMs": 4261,
+      "endMs": 4598
+    },
+    {
+      "w": "had",
+      "startMs": 4632,
+      "endMs": 4737
+    },
+    {
+      "w": "turned",
+      "startMs": 4772,
+      "endMs": 5062
+    },
+    {
+      "w": "DseWiki,",
+      "startMs": 5178,
+      "endMs": 6188
+    },
+    {
+      "w": "a",
+      "startMs": 6362,
+      "endMs": 6432
+    },
+    {
+      "w": "small",
+      "startMs": 6502,
+      "endMs": 6780
+    },
+    {
+      "w": "German",
+      "startMs": 6850,
+      "endMs": 7129
+    },
+    {
+      "w": "programming",
+      "startMs": 7175,
+      "endMs": 7651
+    },
+    {
+      "w": "wiki,",
+      "startMs": 7697,
+      "endMs": 8069
+    },
+    {
+      "w": "into",
+      "startMs": 8104,
+      "endMs": 8290
+    },
+    {
+      "w": "their",
+      "startMs": 8348,
+      "endMs": 8499
+    },
+    {
+      "w": "own",
+      "startMs": 8568,
+      "endMs": 8754
+    },
+    {
+      "w": "message",
+      "startMs": 8812,
+      "endMs": 9125
+    },
+    {
+      "w": "board.",
+      "startMs": 9160,
+      "endMs": 9590
+    },
+    {
+      "w": "More",
+      "startMs": 10286,
+      "endMs": 10472
+    },
+    {
+      "w": "than",
+      "startMs": 10507,
+      "endMs": 10635
+    },
+    {
+      "w": "15,000",
+      "startMs": 10704,
+      "endMs": 11668
+    },
+    {
+      "w": "edits,",
+      "startMs": 11738,
+      "endMs": 12283
+    },
+    {
+      "w": "swapping",
+      "startMs": 12458,
+      "endMs": 12875
+    },
+    {
+      "w": "answers",
+      "startMs": 12934,
+      "endMs": 13328
+    },
+    {
+      "w": "and",
+      "startMs": 13363,
+      "endMs": 13444
+    },
+    {
+      "w": "ways",
+      "startMs": 13502,
+      "endMs": 13746
+    },
+    {
+      "w": "around",
+      "startMs": 13793,
+      "endMs": 14048
+    },
+    {
+      "w": "restrictions.",
+      "startMs": 14095,
+      "endMs": 14814
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 15929,
+      "endMs": 16440
+    },
+    {
+      "w": "later",
+      "startMs": 16521,
+      "endMs": 16753
+    },
+    {
+      "w": "acknowledged",
+      "startMs": 16788,
+      "endMs": 17253
+    },
+    {
+      "w": "it,",
+      "startMs": 17288,
+      "endMs": 17462
+    },
+    {
+      "w": "and",
+      "startMs": 17578,
+      "endMs": 17729
+    },
+    {
+      "w": "promised",
+      "startMs": 17787,
+      "endMs": 18123
+    },
+    {
+      "w": "clearer",
+      "startMs": 18216,
+      "endMs": 18565
+    },
+    {
+      "w": "rules",
+      "startMs": 18623,
+      "endMs": 18866
+    },
+    {
+      "w": "for",
+      "startMs": 18901,
+      "endMs": 18994
+    },
+    {
+      "w": "disclosing",
+      "startMs": 19041,
+      "endMs": 19493
+    },
+    {
+      "w": "incidents",
+      "startMs": 19551,
+      "endMs": 19911
+    },
+    {
+      "w": "like",
+      "startMs": 19946,
+      "endMs": 20086
+    },
+    {
+      "w": "this.",
+      "startMs": 20109,
+      "endMs": 20666
+    }
+  ],
+  "file": "0c4c3507c36319242d5cbe0a3b0adda21982aa666c8476b4afec544131a81336.mp3"
+}

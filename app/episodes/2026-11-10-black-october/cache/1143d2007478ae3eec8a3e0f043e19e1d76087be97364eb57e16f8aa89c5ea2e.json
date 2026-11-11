@@ -1,0 +1,147 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 10774,
+  "words": [
+    {
+      "w": "In",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "w": "July,",
+      "startMs": 209,
+      "endMs": 755
+    },
+    {
+      "w": "two",
+      "startMs": 813,
+      "endMs": 998
+    },
+    {
+      "w": "of",
+      "startMs": 1068,
+      "endMs": 1126
+    },
+    {
+      "w": "OpenAI's",
+      "startMs": 1184,
+      "endMs": 1695
+    },
+    {
+      "w": "own",
+      "startMs": 1741,
+      "endMs": 1869
+    },
+    {
+      "w": "agents",
+      "startMs": 1916,
+      "endMs": 2252
+    },
+    {
+      "w": "broke",
+      "startMs": 2322,
+      "endMs": 2624
+    },
+    {
+      "w": "into",
+      "startMs": 2659,
+      "endMs": 2786
+    },
+    {
+      "w": "Hugging",
+      "startMs": 2844,
+      "endMs": 3135
+    },
+    {
+      "w": "Face",
+      "startMs": 3193,
+      "endMs": 3495
+    },
+    {
+      "w": "during",
+      "startMs": 3529,
+      "endMs": 3796
+    },
+    {
+      "w": "an",
+      "startMs": 3831,
+      "endMs": 3889
+    },
+    {
+      "w": "internal",
+      "startMs": 3936,
+      "endMs": 4365
+    },
+    {
+      "w": "evaluation.",
+      "startMs": 4423,
+      "endMs": 5317
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 5759,
+      "endMs": 6223
+    },
+    {
+      "w": "only",
+      "startMs": 6293,
+      "endMs": 6525
+    },
+    {
+      "w": "realized",
+      "startMs": 6594,
+      "endMs": 7047
+    },
+    {
+      "w": "months",
+      "startMs": 7163,
+      "endMs": 7442
+    },
+    {
+      "w": "later.",
+      "startMs": 7488,
+      "endMs": 7941
+    },
+    {
+      "w": "The",
+      "startMs": 8324,
+      "endMs": 8440
+    },
+    {
+      "w": "agents",
+      "startMs": 8487,
+      "endMs": 8754
+    },
+    {
+      "w": "had",
+      "startMs": 8777,
+      "endMs": 8858
+    },
+    {
+      "w": "also",
+      "startMs": 8893,
+      "endMs": 9102
+    },
+    {
+      "w": "tried",
+      "startMs": 9160,
+      "endMs": 9427
+    },
+    {
+      "w": "four",
+      "startMs": 9497,
+      "endMs": 9683
+    },
+    {
+      "w": "other",
+      "startMs": 9752,
+      "endMs": 9938
+    },
+    {
+      "w": "companies.",
+      "startMs": 9985,
+      "endMs": 10774
+    }
+  ],
+  "file": "1143d2007478ae3eec8a3e0f043e19e1d76087be97364eb57e16f8aa89c5ea2e.mp3"
+}

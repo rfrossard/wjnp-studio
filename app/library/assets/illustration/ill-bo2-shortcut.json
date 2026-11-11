@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo2-shortcut",
+  "type": "illustration",
+  "title": "Black October v2: robot with a trophy squeezing through a fence gap across a neighbour garden (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:31:45.651736Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "c33817703d68761fb4c2b1c20f34e641fc93fee50e0c107ca64f754038f2d7d7",
+    "path": "c33817703d68761fb4c2b1c20f34e641fc93fee50e0c107ca64f754038f2d7d7",
+    "mime": "image/png",
+    "bytes": 2784979
+  },
+  "data": {
+    "subject": "robot with a trophy squeezing through a fence gap across a neighbour garden (night)",
+    "note": "night palette, measured clean"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

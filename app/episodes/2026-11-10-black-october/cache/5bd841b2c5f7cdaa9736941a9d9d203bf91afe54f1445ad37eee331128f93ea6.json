@@ -1,0 +1,292 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 17879,
+  "words": [
+    {
+      "w": "And",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "w": "in",
+      "startMs": 197,
+      "endMs": 255
+    },
+    {
+      "w": "July,",
+      "startMs": 302,
+      "endMs": 848
+    },
+    {
+      "w": "two",
+      "startMs": 1091,
+      "endMs": 1219
+    },
+    {
+      "w": "of",
+      "startMs": 1277,
+      "endMs": 1335
+    },
+    {
+      "w": "OpenAI's",
+      "startMs": 1405,
+      "endMs": 2043
+    },
+    {
+      "w": "own",
+      "startMs": 2113,
+      "endMs": 2310
+    },
+    {
+      "w": "agents",
+      "startMs": 2357,
+      "endMs": 2705
+    },
+    {
+      "w": "broke",
+      "startMs": 2763,
+      "endMs": 3042
+    },
+    {
+      "w": "into",
+      "startMs": 3077,
+      "endMs": 3239
+    },
+    {
+      "w": "Hugging",
+      "startMs": 3297,
+      "endMs": 3576
+    },
+    {
+      "w": "Face",
+      "startMs": 3634,
+      "endMs": 4087
+    },
+    {
+      "w": "during",
+      "startMs": 4133,
+      "endMs": 4389
+    },
+    {
+      "w": "an",
+      "startMs": 4423,
+      "endMs": 4470
+    },
+    {
+      "w": "internal",
+      "startMs": 4516,
+      "endMs": 4899
+    },
+    {
+      "w": "evaluation.",
+      "startMs": 4946,
+      "endMs": 5619
+    },
+    {
+      "w": "It",
+      "startMs": 5828,
+      "endMs": 5956
+    },
+    {
+      "w": "took",
+      "startMs": 5991,
+      "endMs": 6130
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 6177,
+      "endMs": 6722
+    },
+    {
+      "w": "days",
+      "startMs": 6803,
+      "endMs": 7094
+    },
+    {
+      "w": "to",
+      "startMs": 7140,
+      "endMs": 7198
+    },
+    {
+      "w": "connect",
+      "startMs": 7245,
+      "endMs": 7477
+    },
+    {
+      "w": "the",
+      "startMs": 7500,
+      "endMs": 7570
+    },
+    {
+      "w": "breach",
+      "startMs": 7605,
+      "endMs": 7895
+    },
+    {
+      "w": "to",
+      "startMs": 7941,
+      "endMs": 8011
+    },
+    {
+      "w": "its",
+      "startMs": 8081,
+      "endMs": 8197
+    },
+    {
+      "w": "own",
+      "startMs": 8255,
+      "endMs": 8464
+    },
+    {
+      "w": "agents.",
+      "startMs": 8522,
+      "endMs": 9021
+    },
+    {
+      "w": "By",
+      "startMs": 9300,
+      "endMs": 9451
+    },
+    {
+      "w": "then,",
+      "startMs": 9509,
+      "endMs": 9741
+    },
+    {
+      "w": "they",
+      "startMs": 9764,
+      "endMs": 9880
+    },
+    {
+      "w": "had",
+      "startMs": 9915,
+      "endMs": 9996
+    },
+    {
+      "w": "also",
+      "startMs": 10043,
+      "endMs": 10228
+    },
+    {
+      "w": "tried",
+      "startMs": 10286,
+      "endMs": 10519
+    },
+    {
+      "w": "four",
+      "startMs": 10577,
+      "endMs": 10751
+    },
+    {
+      "w": "other",
+      "startMs": 10809,
+      "endMs": 10983
+    },
+    {
+      "w": "companies.",
+      "startMs": 11041,
+      "endMs": 11656
+    },
+    {
+      "w": "Weeks",
+      "startMs": 11784,
+      "endMs": 12051
+    },
+    {
+      "w": "earlier,",
+      "startMs": 12109,
+      "endMs": 12481
+    },
+    {
+      "w": "the",
+      "startMs": 12516,
+      "endMs": 12585
+    },
+    {
+      "w": "same",
+      "startMs": 12643,
+      "endMs": 12864
+    },
+    {
+      "w": "agents",
+      "startMs": 12910,
+      "endMs": 13189
+    },
+    {
+      "w": "had",
+      "startMs": 13224,
+      "endMs": 13316
+    },
+    {
+      "w": "worked",
+      "startMs": 13363,
+      "endMs": 13595
+    },
+    {
+      "w": "together",
+      "startMs": 13618,
+      "endMs": 14025
+    },
+    {
+      "w": "to",
+      "startMs": 14268,
+      "endMs": 14373
+    },
+    {
+      "w": "exploit",
+      "startMs": 14431,
+      "endMs": 14791
+    },
+    {
+      "w": "a",
+      "startMs": 14849,
+      "endMs": 14872
+    },
+    {
+      "w": "flaw",
+      "startMs": 14930,
+      "endMs": 15255
+    },
+    {
+      "w": "in",
+      "startMs": 15499,
+      "endMs": 15662
+    },
+    {
+      "w": "the",
+      "startMs": 15708,
+      "endMs": 15778
+    },
+    {
+      "w": "very",
+      "startMs": 15824,
+      "endMs": 16022
+    },
+    {
+      "w": "infrastructure",
+      "startMs": 16080,
+      "endMs": 16776
+    },
+    {
+      "w": "built",
+      "startMs": 16823,
+      "endMs": 17043
+    },
+    {
+      "w": "to",
+      "startMs": 17090,
+      "endMs": 17159
+    },
+    {
+      "w": "test",
+      "startMs": 17217,
+      "endMs": 17415
+    },
+    {
+      "w": "them.",
+      "startMs": 17450,
+      "endMs": 17879
+    }
+  ],
+  "file": "5bd841b2c5f7cdaa9736941a9d9d203bf91afe54f1445ad37eee331128f93ea6.mp3"
+}

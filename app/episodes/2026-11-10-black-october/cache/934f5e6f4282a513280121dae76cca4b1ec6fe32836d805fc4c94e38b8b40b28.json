@@ -1,0 +1,197 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 13375,
+  "words": [
+    {
+      "w": "Turning",
+      "startMs": 0,
+      "endMs": 348
+    },
+    {
+      "w": "now",
+      "startMs": 395,
+      "endMs": 534
+    },
+    {
+      "w": "to",
+      "startMs": 604,
+      "endMs": 673
+    },
+    {
+      "w": "Japan.",
+      "startMs": 731,
+      "endMs": 1184
+    },
+    {
+      "w": "On",
+      "startMs": 1509,
+      "endMs": 1649
+    },
+    {
+      "w": "October",
+      "startMs": 1683,
+      "endMs": 2020
+    },
+    {
+      "w": "22nd,",
+      "startMs": 2067,
+      "endMs": 2728
+    },
+    {
+      "w": "Capcom",
+      "startMs": 2810,
+      "endMs": 3158
+    },
+    {
+      "w": "confirmed",
+      "startMs": 3216,
+      "endMs": 3611
+    },
+    {
+      "w": "that",
+      "startMs": 3634,
+      "endMs": 3750
+    },
+    {
+      "w": "about",
+      "startMs": 3785,
+      "endMs": 4017
+    },
+    {
+      "w": "11.8",
+      "startMs": 4063,
+      "endMs": 4841
+    },
+    {
+      "w": "million",
+      "startMs": 4888,
+      "endMs": 5132
+    },
+    {
+      "w": "CAPCOM",
+      "startMs": 5190,
+      "endMs": 5538
+    },
+    {
+      "w": "ID",
+      "startMs": 5608,
+      "endMs": 5747
+    },
+    {
+      "w": "records",
+      "startMs": 5863,
+      "endMs": 6188
+    },
+    {
+      "w": "were",
+      "startMs": 6223,
+      "endMs": 6339
+    },
+    {
+      "w": "exposed.",
+      "startMs": 6374,
+      "endMs": 6896
+    },
+    {
+      "w": "The",
+      "startMs": 7070,
+      "endMs": 7175
+    },
+    {
+      "w": "company",
+      "startMs": 7233,
+      "endMs": 7523
+    },
+    {
+      "w": "says",
+      "startMs": 7570,
+      "endMs": 7744
+    },
+    {
+      "w": "it",
+      "startMs": 7790,
+      "endMs": 7848
+    },
+    {
+      "w": "detected",
+      "startMs": 7883,
+      "endMs": 8266
+    },
+    {
+      "w": "the",
+      "startMs": 8290,
+      "endMs": 8359
+    },
+    {
+      "w": "intrusion",
+      "startMs": 8394,
+      "endMs": 8824
+    },
+    {
+      "w": "and",
+      "startMs": 8893,
+      "endMs": 9033
+    },
+    {
+      "w": "blocked",
+      "startMs": 9079,
+      "endMs": 9323
+    },
+    {
+      "w": "access",
+      "startMs": 9358,
+      "endMs": 9694
+    },
+    {
+      "w": "the",
+      "startMs": 9741,
+      "endMs": 9810
+    },
+    {
+      "w": "same",
+      "startMs": 9857,
+      "endMs": 10054
+    },
+    {
+      "w": "day.",
+      "startMs": 10101,
+      "endMs": 10414
+    },
+    {
+      "w": "Email",
+      "startMs": 10658,
+      "endMs": 10913
+    },
+    {
+      "w": "addresses",
+      "startMs": 10948,
+      "endMs": 11308
+    },
+    {
+      "w": "were",
+      "startMs": 11343,
+      "endMs": 11459
+    },
+    {
+      "w": "exposed.",
+      "startMs": 11494,
+      "endMs": 12040
+    },
+    {
+      "w": "Passwords",
+      "startMs": 12283,
+      "endMs": 12701
+    },
+    {
+      "w": "were",
+      "startMs": 12736,
+      "endMs": 12852
+    },
+    {
+      "w": "not.",
+      "startMs": 12899,
+      "endMs": 13375
+    }
+  ],
+  "file": "934f5e6f4282a513280121dae76cca4b1ec6fe32836d805fc4c94e38b8b40b28.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "voice-alice-en-s01",
+  "type": "voice-sample",
+  "title": "voice-alice — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:28:24.156Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "10424f97d564dbe68e758b4ea61a7ce92b43af2097feacc6518bfd7f66c010b3",
+    "path": "10424f97d564dbe68e758b4ea61a7ce92b43af2097feacc6518bfd7f66c010b3",
+    "mime": "audio/mpeg",
+    "bytes": 211530
+  },
+  "data": {
+    "elevenVoiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

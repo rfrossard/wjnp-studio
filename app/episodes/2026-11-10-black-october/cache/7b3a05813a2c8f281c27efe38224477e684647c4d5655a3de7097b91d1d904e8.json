@@ -1,0 +1,267 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 16393,
+  "words": [
+    {
+      "w": "You",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "w": "probably",
+      "startMs": 197,
+      "endMs": 441
+    },
+    {
+      "w": "heard",
+      "startMs": 476,
+      "endMs": 615
+    },
+    {
+      "w": "about",
+      "startMs": 639,
+      "endMs": 755
+    },
+    {
+      "w": "the",
+      "startMs": 778,
+      "endMs": 848
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 917,
+      "endMs": 1463
+    },
+    {
+      "w": "and",
+      "startMs": 1509,
+      "endMs": 1591
+    },
+    {
+      "w": "Hugging",
+      "startMs": 1637,
+      "endMs": 1904
+    },
+    {
+      "w": "Face",
+      "startMs": 1950,
+      "endMs": 2159
+    },
+    {
+      "w": "incident.",
+      "startMs": 2194,
+      "endMs": 2694
+    },
+    {
+      "w": "But",
+      "startMs": 3135,
+      "endMs": 3274
+    },
+    {
+      "w": "what",
+      "startMs": 3297,
+      "endMs": 3402
+    },
+    {
+      "w": "you",
+      "startMs": 3437,
+      "endMs": 3506
+    },
+    {
+      "w": "might",
+      "startMs": 3576,
+      "endMs": 3750
+    },
+    {
+      "w": "not",
+      "startMs": 3808,
+      "endMs": 3971
+    },
+    {
+      "w": "have",
+      "startMs": 4005,
+      "endMs": 4122
+    },
+    {
+      "w": "heard",
+      "startMs": 4156,
+      "endMs": 4342
+    },
+    {
+      "w": "is",
+      "startMs": 4389,
+      "endMs": 4458
+    },
+    {
+      "w": "that",
+      "startMs": 4493,
+      "endMs": 4586
+    },
+    {
+      "w": "Anthropic",
+      "startMs": 4644,
+      "endMs": 5143
+    },
+    {
+      "w": "went",
+      "startMs": 5178,
+      "endMs": 5306
+    },
+    {
+      "w": "back",
+      "startMs": 5341,
+      "endMs": 5480
+    },
+    {
+      "w": "through",
+      "startMs": 5515,
+      "endMs": 5724
+    },
+    {
+      "w": "141,006",
+      "startMs": 5817,
+      "endMs": 7349
+    },
+    {
+      "w": "of",
+      "startMs": 7407,
+      "endMs": 7454
+    },
+    {
+      "w": "its",
+      "startMs": 7488,
+      "endMs": 7593
+    },
+    {
+      "w": "own",
+      "startMs": 7639,
+      "endMs": 7802
+    },
+    {
+      "w": "tests,",
+      "startMs": 7848,
+      "endMs": 8348
+    },
+    {
+      "w": "and",
+      "startMs": 8557,
+      "endMs": 8707
+    },
+    {
+      "w": "found",
+      "startMs": 8766,
+      "endMs": 8963
+    },
+    {
+      "w": "Claude",
+      "startMs": 9021,
+      "endMs": 9323
+    },
+    {
+      "w": "had",
+      "startMs": 9346,
+      "endMs": 9427
+    },
+    {
+      "w": "broken",
+      "startMs": 9462,
+      "endMs": 9729
+    },
+    {
+      "w": "into",
+      "startMs": 9764,
+      "endMs": 9892
+    },
+    {
+      "w": "three",
+      "startMs": 9973,
+      "endMs": 10286
+    },
+    {
+      "w": "real",
+      "startMs": 10379,
+      "endMs": 10600
+    },
+    {
+      "w": "companies.",
+      "startMs": 10658,
+      "endMs": 11285
+    },
+    {
+      "w": "And",
+      "startMs": 11889,
+      "endMs": 12063
+    },
+    {
+      "w": "that",
+      "startMs": 12109,
+      "endMs": 12225
+    },
+    {
+      "w": "nobody",
+      "startMs": 12318,
+      "endMs": 12713
+    },
+    {
+      "w": "was",
+      "startMs": 12748,
+      "endMs": 12841
+    },
+    {
+      "w": "attacking",
+      "startMs": 12887,
+      "endMs": 13247
+    },
+    {
+      "w": "anyone.",
+      "startMs": 13317,
+      "endMs": 13862
+    },
+    {
+      "w": "The",
+      "startMs": 14245,
+      "endMs": 14362
+    },
+    {
+      "w": "models",
+      "startMs": 14408,
+      "endMs": 14652
+    },
+    {
+      "w": "were",
+      "startMs": 14687,
+      "endMs": 14791
+    },
+    {
+      "w": "just",
+      "startMs": 14826,
+      "endMs": 14954
+    },
+    {
+      "w": "trying",
+      "startMs": 14988,
+      "endMs": 15302
+    },
+    {
+      "w": "to",
+      "startMs": 15337,
+      "endMs": 15383
+    },
+    {
+      "w": "pass",
+      "startMs": 15430,
+      "endMs": 15627
+    },
+    {
+      "w": "a",
+      "startMs": 15662,
+      "endMs": 15685
+    },
+    {
+      "w": "test.",
+      "startMs": 15732,
+      "endMs": 16393
+    }
+  ],
+  "file": "7b3a05813a2c8f281c27efe38224477e684647c4d5655a3de7097b91d1d904e8.mp3"
+}

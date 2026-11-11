@@ -1,0 +1,312 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 18640,
+  "words": [
+    {
+      "w": "Here's",
+      "startMs": 147,
+      "endMs": 240
+    },
+    {
+      "w": "my",
+      "startMs": 293,
+      "endMs": 400
+    },
+    {
+      "w": "take.",
+      "startMs": 464,
+      "endMs": 800
+    },
+    {
+      "w": "None",
+      "startMs": 912,
+      "endMs": 1360
+    },
+    {
+      "w": "of",
+      "startMs": 1413,
+      "endMs": 1520
+    },
+    {
+      "w": "this",
+      "startMs": 1568,
+      "endMs": 1760
+    },
+    {
+      "w": "needed",
+      "startMs": 1794,
+      "endMs": 2000
+    },
+    {
+      "w": "a",
+      "startMs": 2080,
+      "endMs": 2160
+    },
+    {
+      "w": "rogue",
+      "startMs": 2213,
+      "endMs": 2480
+    },
+    {
+      "w": "AI",
+      "startMs": 2613,
+      "endMs": 2880
+    },
+    {
+      "w": "acting",
+      "startMs": 2937,
+      "endMs": 3280
+    },
+    {
+      "w": "alone.",
+      "startMs": 3333,
+      "endMs": 3920
+    },
+    {
+      "w": "Humans",
+      "startMs": 3977,
+      "endMs": 4320
+    },
+    {
+      "w": "pointed",
+      "startMs": 4360,
+      "endMs": 4640
+    },
+    {
+      "w": "these",
+      "startMs": 4667,
+      "endMs": 4800
+    },
+    {
+      "w": "tools.",
+      "startMs": 4867,
+      "endMs": 5440
+    },
+    {
+      "w": "Maybe",
+      "startMs": 5467,
+      "endMs": 5600
+    },
+    {
+      "w": "that's",
+      "startMs": 5648,
+      "endMs": 5880
+    },
+    {
+      "w": "the",
+      "startMs": 5890,
+      "endMs": 5920
+    },
+    {
+      "w": "uncomfortable",
+      "startMs": 5960,
+      "endMs": 6480
+    },
+    {
+      "w": "part.",
+      "startMs": 6544,
+      "endMs": 7280
+    },
+    {
+      "w": "We",
+      "startMs": 7307,
+      "endMs": 7360
+    },
+    {
+      "w": "didn't",
+      "startMs": 7392,
+      "endMs": 7600
+    },
+    {
+      "w": "need",
+      "startMs": 7632,
+      "endMs": 7760
+    },
+    {
+      "w": "the",
+      "startMs": 7780,
+      "endMs": 7840
+    },
+    {
+      "w": "robots",
+      "startMs": 7886,
+      "endMs": 8160
+    },
+    {
+      "w": "to",
+      "startMs": 8213,
+      "endMs": 8320
+    },
+    {
+      "w": "turn",
+      "startMs": 8368,
+      "endMs": 8560
+    },
+    {
+      "w": "on",
+      "startMs": 8587,
+      "endMs": 8640
+    },
+    {
+      "w": "us.",
+      "startMs": 8747,
+      "endMs": 9120
+    },
+    {
+      "w": "We",
+      "startMs": 9173,
+      "endMs": 9280
+    },
+    {
+      "w": "handed",
+      "startMs": 9326,
+      "endMs": 9600
+    },
+    {
+      "w": "our",
+      "startMs": 9640,
+      "endMs": 9760
+    },
+    {
+      "w": "oldest",
+      "startMs": 9806,
+      "endMs": 10080
+    },
+    {
+      "w": "motives,",
+      "startMs": 10140,
+      "endMs": 10840
+    },
+    {
+      "w": "greed,",
+      "startMs": 10887,
+      "endMs": 11200
+    },
+    {
+      "w": "curiosity,",
+      "startMs": 11264,
+      "endMs": 11920
+    },
+    {
+      "w": "ambition,",
+      "startMs": 11973,
+      "endMs": 12480
+    },
+    {
+      "w": "a",
+      "startMs": 12640,
+      "endMs": 12800
+    },
+    {
+      "w": "much",
+      "startMs": 12864,
+      "endMs": 13120
+    },
+    {
+      "w": "faster",
+      "startMs": 13166,
+      "endMs": 13440
+    },
+    {
+      "w": "weapon.",
+      "startMs": 13497,
+      "endMs": 14120
+    },
+    {
+      "w": "And",
+      "startMs": 14190,
+      "endMs": 14400
+    },
+    {
+      "w": "I",
+      "startMs": 14440,
+      "endMs": 14480
+    },
+    {
+      "w": "suspect",
+      "startMs": 14530,
+      "endMs": 14880
+    },
+    {
+      "w": "speed",
+      "startMs": 14933,
+      "endMs": 15200
+    },
+    {
+      "w": "is",
+      "startMs": 15227,
+      "endMs": 15280
+    },
+    {
+      "w": "what",
+      "startMs": 15328,
+      "endMs": 15520
+    },
+    {
+      "w": "really",
+      "startMs": 15554,
+      "endMs": 15760
+    },
+    {
+      "w": "changes",
+      "startMs": 15800,
+      "endMs": 16080
+    },
+    {
+      "w": "the",
+      "startMs": 16100,
+      "endMs": 16160
+    },
+    {
+      "w": "game,",
+      "startMs": 16224,
+      "endMs": 16560
+    },
+    {
+      "w": "because",
+      "startMs": 16590,
+      "endMs": 16800
+    },
+    {
+      "w": "it",
+      "startMs": 16853,
+      "endMs": 16960
+    },
+    {
+      "w": "shrinks",
+      "startMs": 17000,
+      "endMs": 17280
+    },
+    {
+      "w": "the",
+      "startMs": 17300,
+      "endMs": 17360
+    },
+    {
+      "w": "time",
+      "startMs": 17424,
+      "endMs": 17680
+    },
+    {
+      "w": "we",
+      "startMs": 17707,
+      "endMs": 17760
+    },
+    {
+      "w": "have",
+      "startMs": 17792,
+      "endMs": 17920
+    },
+    {
+      "w": "to",
+      "startMs": 17973,
+      "endMs": 18080
+    },
+    {
+      "w": "react.",
+      "startMs": 18147,
+      "endMs": 18640
+    }
+  ],
+  "file": "23051f8ff0a733fa25cb35af24841204c9d637c6ddef39a057c42b9ce10838a2.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo2-pypi",
+  "type": "illustration",
+  "title": "Black October v2: robot sliding a bugged parcel onto a package shelf while a large hand lifts it away (day)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:31:45.651736Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "4c5fc878c2c7912427f504a38429c8d919919177ab06782ae96bbfe8c46db7a6",
+    "path": "4c5fc878c2c7912427f504a38429c8d919919177ab06782ae96bbfe8c46db7a6",
+    "mime": "image/png",
+    "bytes": 2460792
+  },
+  "data": {
+    "subject": "robot sliding a bugged parcel onto a package shelf while a large hand lifts it away (day)",
+    "note": "background gold corrected from OKLCH hue ~74 to ~82 (spec #F3BF58) to stay clear of the forbidden orange band"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

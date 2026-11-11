@@ -1,0 +1,227 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 14350,
+  "words": [
+    {
+      "w": "But",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "w": "not",
+      "startMs": 302,
+      "endMs": 430
+    },
+    {
+      "w": "every",
+      "startMs": 464,
+      "endMs": 639
+    },
+    {
+      "w": "story",
+      "startMs": 685,
+      "endMs": 1022
+    },
+    {
+      "w": "this",
+      "startMs": 1080,
+      "endMs": 1207
+    },
+    {
+      "w": "year",
+      "startMs": 1265,
+      "endMs": 1474
+    },
+    {
+      "w": "had",
+      "startMs": 1556,
+      "endMs": 1683
+    },
+    {
+      "w": "a",
+      "startMs": 1718,
+      "endMs": 1741
+    },
+    {
+      "w": "human",
+      "startMs": 1788,
+      "endMs": 2020
+    },
+    {
+      "w": "at",
+      "startMs": 2055,
+      "endMs": 2113
+    },
+    {
+      "w": "the",
+      "startMs": 2136,
+      "endMs": 2206
+    },
+    {
+      "w": "keyboard.",
+      "startMs": 2241,
+      "endMs": 2775
+    },
+    {
+      "w": "Back",
+      "startMs": 3727,
+      "endMs": 3889
+    },
+    {
+      "w": "in",
+      "startMs": 3947,
+      "endMs": 4005
+    },
+    {
+      "w": "August,",
+      "startMs": 4063,
+      "endMs": 4621
+    },
+    {
+      "w": "Meta",
+      "startMs": 4795,
+      "endMs": 5004
+    },
+    {
+      "w": "disclosed",
+      "startMs": 5062,
+      "endMs": 5503
+    },
+    {
+      "w": "that",
+      "startMs": 5526,
+      "endMs": 5654
+    },
+    {
+      "w": "one",
+      "startMs": 5700,
+      "endMs": 5828
+    },
+    {
+      "w": "of",
+      "startMs": 5851,
+      "endMs": 5898
+    },
+    {
+      "w": "its",
+      "startMs": 5944,
+      "endMs": 6037
+    },
+    {
+      "w": "models",
+      "startMs": 6084,
+      "endMs": 6351
+    },
+    {
+      "w": "hacked",
+      "startMs": 6397,
+      "endMs": 6583
+    },
+    {
+      "w": "another",
+      "startMs": 6618,
+      "endMs": 6861
+    },
+    {
+      "w": "company",
+      "startMs": 6908,
+      "endMs": 7210
+    },
+    {
+      "w": "during",
+      "startMs": 7256,
+      "endMs": 7477
+    },
+    {
+      "w": "a",
+      "startMs": 7512,
+      "endMs": 7535
+    },
+    {
+      "w": "security",
+      "startMs": 7570,
+      "endMs": 7930
+    },
+    {
+      "w": "test.",
+      "startMs": 7976,
+      "endMs": 8417
+    },
+    {
+      "w": "A",
+      "startMs": 8800,
+      "endMs": 8870
+    },
+    {
+      "w": "misconfiguration",
+      "startMs": 8928,
+      "endMs": 9776
+    },
+    {
+      "w": "at",
+      "startMs": 9834,
+      "endMs": 9915
+    },
+    {
+      "w": "its",
+      "startMs": 9961,
+      "endMs": 10031
+    },
+    {
+      "w": "testing",
+      "startMs": 10066,
+      "endMs": 10356
+    },
+    {
+      "w": "partner,",
+      "startMs": 10403,
+      "endMs": 10971
+    },
+    {
+      "w": "Irregular,",
+      "startMs": 11088,
+      "endMs": 11749
+    },
+    {
+      "w": "had",
+      "startMs": 11865,
+      "endMs": 11993
+    },
+    {
+      "w": "quietly",
+      "startMs": 12040,
+      "endMs": 12376
+    },
+    {
+      "w": "given",
+      "startMs": 12423,
+      "endMs": 12632
+    },
+    {
+      "w": "the",
+      "startMs": 12666,
+      "endMs": 12736
+    },
+    {
+      "w": "model",
+      "startMs": 12783,
+      "endMs": 13026
+    },
+    {
+      "w": "live",
+      "startMs": 13084,
+      "endMs": 13293
+    },
+    {
+      "w": "internet",
+      "startMs": 13328,
+      "endMs": 13665
+    },
+    {
+      "w": "access.",
+      "startMs": 13711,
+      "endMs": 14350
+    }
+  ],
+  "file": "1ccc39afcc3805ffb97d247398d011d1cba11d699922fcf270921c2acdccad00.mp3"
+}

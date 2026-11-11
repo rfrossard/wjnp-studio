@@ -1,0 +1,392 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 23498,
+  "words": [
+    {
+      "w": "Here's",
+      "startMs": 0,
+      "endMs": 894
+    },
+    {
+      "w": "a",
+      "startMs": 917,
+      "endMs": 940
+    },
+    {
+      "w": "hypothesis,",
+      "startMs": 987,
+      "endMs": 1800
+    },
+    {
+      "w": "not",
+      "startMs": 1881,
+      "endMs": 2009
+    },
+    {
+      "w": "a",
+      "startMs": 2043,
+      "endMs": 2067
+    },
+    {
+      "w": "conclusion.",
+      "startMs": 2101,
+      "endMs": 2659
+    },
+    {
+      "w": "Maybe",
+      "startMs": 3100,
+      "endMs": 3355
+    },
+    {
+      "w": "capability",
+      "startMs": 3390,
+      "endMs": 3924
+    },
+    {
+      "w": "and",
+      "startMs": 3971,
+      "endMs": 4040
+    },
+    {
+      "w": "governance",
+      "startMs": 4098,
+      "endMs": 4470
+    },
+    {
+      "w": "are",
+      "startMs": 4493,
+      "endMs": 4586
+    },
+    {
+      "w": "supposed",
+      "startMs": 4609,
+      "endMs": 4923
+    },
+    {
+      "w": "to",
+      "startMs": 4946,
+      "endMs": 5004
+    },
+    {
+      "w": "grow",
+      "startMs": 5074,
+      "endMs": 5317
+    },
+    {
+      "w": "at",
+      "startMs": 5375,
+      "endMs": 5445
+    },
+    {
+      "w": "the",
+      "startMs": 5480,
+      "endMs": 5550
+    },
+    {
+      "w": "same",
+      "startMs": 5596,
+      "endMs": 5817
+    },
+    {
+      "w": "pace,",
+      "startMs": 5863,
+      "endMs": 6258
+    },
+    {
+      "w": "and",
+      "startMs": 6293,
+      "endMs": 6444
+    },
+    {
+      "w": "right",
+      "startMs": 6502,
+      "endMs": 6664
+    },
+    {
+      "w": "now",
+      "startMs": 6711,
+      "endMs": 6850
+    },
+    {
+      "w": "governance",
+      "startMs": 6931,
+      "endMs": 7291
+    },
+    {
+      "w": "is",
+      "startMs": 7314,
+      "endMs": 7372
+    },
+    {
+      "w": "the",
+      "startMs": 7419,
+      "endMs": 7488
+    },
+    {
+      "w": "one",
+      "startMs": 7558,
+      "endMs": 7721
+    },
+    {
+      "w": "sprinting",
+      "startMs": 7755,
+      "endMs": 8162
+    },
+    {
+      "w": "to",
+      "startMs": 8208,
+      "endMs": 8266
+    },
+    {
+      "w": "catch",
+      "startMs": 8324,
+      "endMs": 8545
+    },
+    {
+      "w": "up.",
+      "startMs": 8603,
+      "endMs": 8882
+    },
+    {
+      "w": "The",
+      "startMs": 9485,
+      "endMs": 9601
+    },
+    {
+      "w": "same",
+      "startMs": 9659,
+      "endMs": 9868
+    },
+    {
+      "w": "lab",
+      "startMs": 9915,
+      "endMs": 10124
+    },
+    {
+      "w": "that",
+      "startMs": 10170,
+      "endMs": 10275
+    },
+    {
+      "w": "built",
+      "startMs": 10321,
+      "endMs": 10495
+    },
+    {
+      "w": "that",
+      "startMs": 10530,
+      "endMs": 10658
+    },
+    {
+      "w": "model",
+      "startMs": 10716,
+      "endMs": 10960
+    },
+    {
+      "w": "also",
+      "startMs": 11018,
+      "endMs": 11262
+    },
+    {
+      "w": "shipped",
+      "startMs": 11331,
+      "endMs": 11598
+    },
+    {
+      "w": "it",
+      "startMs": 11633,
+      "endMs": 11714
+    },
+    {
+      "w": "two",
+      "startMs": 11761,
+      "endMs": 11911
+    },
+    {
+      "w": "different",
+      "startMs": 11969,
+      "endMs": 12248
+    },
+    {
+      "w": "ways.",
+      "startMs": 12283,
+      "endMs": 12759
+    },
+    {
+      "w": "One",
+      "startMs": 12968,
+      "endMs": 13177
+    },
+    {
+      "w": "version",
+      "startMs": 13223,
+      "endMs": 13525
+    },
+    {
+      "w": "wrapped",
+      "startMs": 13560,
+      "endMs": 13804
+    },
+    {
+      "w": "in",
+      "startMs": 13839,
+      "endMs": 13897
+    },
+    {
+      "w": "extra",
+      "startMs": 13955,
+      "endMs": 14199
+    },
+    {
+      "w": "safeguards",
+      "startMs": 14245,
+      "endMs": 14675
+    },
+    {
+      "w": "for",
+      "startMs": 14709,
+      "endMs": 14802
+    },
+    {
+      "w": "everyone.",
+      "startMs": 14860,
+      "endMs": 15336
+    },
+    {
+      "w": "One",
+      "startMs": 15580,
+      "endMs": 15789
+    },
+    {
+      "w": "version",
+      "startMs": 15836,
+      "endMs": 16103
+    },
+    {
+      "w": "with",
+      "startMs": 16137,
+      "endMs": 16265
+    },
+    {
+      "w": "far",
+      "startMs": 16312,
+      "endMs": 16486
+    },
+    {
+      "w": "fewer",
+      "startMs": 16544,
+      "endMs": 16753
+    },
+    {
+      "w": "doors",
+      "startMs": 16811,
+      "endMs": 17055
+    },
+    {
+      "w": "in.",
+      "startMs": 17113,
+      "endMs": 17380
+    },
+    {
+      "w": "Same",
+      "startMs": 17705,
+      "endMs": 17960
+    },
+    {
+      "w": "power,",
+      "startMs": 17995,
+      "endMs": 18343
+    },
+    {
+      "w": "two",
+      "startMs": 18367,
+      "endMs": 18483
+    },
+    {
+      "w": "very",
+      "startMs": 18541,
+      "endMs": 18680
+    },
+    {
+      "w": "different",
+      "startMs": 18715,
+      "endMs": 18947
+    },
+    {
+      "w": "levels",
+      "startMs": 18970,
+      "endMs": 19214
+    },
+    {
+      "w": "of",
+      "startMs": 19261,
+      "endMs": 19307
+    },
+    {
+      "w": "responsibility",
+      "startMs": 19365,
+      "endMs": 20038
+    },
+    {
+      "w": "attached",
+      "startMs": 20073,
+      "endMs": 20375
+    },
+    {
+      "w": "to",
+      "startMs": 20398,
+      "endMs": 20468
+    },
+    {
+      "w": "it.",
+      "startMs": 20538,
+      "endMs": 20735
+    },
+    {
+      "w": "I",
+      "startMs": 20979,
+      "endMs": 21025
+    },
+    {
+      "w": "don't",
+      "startMs": 21095,
+      "endMs": 21246
+    },
+    {
+      "w": "know",
+      "startMs": 21281,
+      "endMs": 21397
+    },
+    {
+      "w": "yet",
+      "startMs": 21455,
+      "endMs": 21664
+    },
+    {
+      "w": "which",
+      "startMs": 21873,
+      "endMs": 22082
+    },
+    {
+      "w": "direction",
+      "startMs": 22128,
+      "endMs": 22453
+    },
+    {
+      "w": "that",
+      "startMs": 22500,
+      "endMs": 22604
+    },
+    {
+      "w": "balance",
+      "startMs": 22662,
+      "endMs": 22941
+    },
+    {
+      "w": "tips.",
+      "startMs": 22976,
+      "endMs": 23498
+    }
+  ],
+  "file": "7b847ddde2970bb3957c663047be37b89a7915f0ab5914b0e380ac35e72d08e1.mp3"
+}

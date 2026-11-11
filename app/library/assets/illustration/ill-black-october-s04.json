@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s04",
+  "type": "illustration",
+  "title": "Black October s04: laptop, bug crawling out, robot hand with magnifying glass",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.577351Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "9a15c64f909b3a20e3b92a752206b8d2d9d3a41b0f2568c682b85cdfedcc7e70",
+    "path": "9a15c64f909b3a20e3b92a752206b8d2d9d3a41b0f2568c682b85cdfedcc7e70",
+    "mime": "image/png",
+    "bytes": 2713054
+  },
+  "data": {
+    "subject": "laptop, bug crawling out, robot hand with magnifying glass"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

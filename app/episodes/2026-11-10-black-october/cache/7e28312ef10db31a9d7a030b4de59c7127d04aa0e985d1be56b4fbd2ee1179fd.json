@@ -1,0 +1,202 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 11935,
+  "words": [
+    {
+      "w": "Start",
+      "startMs": 0,
+      "endMs": 313
+    },
+    {
+      "w": "with",
+      "startMs": 337,
+      "endMs": 441
+    },
+    {
+      "w": "the",
+      "startMs": 476,
+      "endMs": 546
+    },
+    {
+      "w": "one",
+      "startMs": 604,
+      "endMs": 720
+    },
+    {
+      "w": "you",
+      "startMs": 743,
+      "endMs": 813
+    },
+    {
+      "w": "heard",
+      "startMs": 871,
+      "endMs": 1010
+    },
+    {
+      "w": "about.",
+      "startMs": 1033,
+      "endMs": 1416
+    },
+    {
+      "w": "In",
+      "startMs": 1741,
+      "endMs": 1869
+    },
+    {
+      "w": "July,",
+      "startMs": 1927,
+      "endMs": 2299
+    },
+    {
+      "w": "agents",
+      "startMs": 2322,
+      "endMs": 2694
+    },
+    {
+      "w": "inside",
+      "startMs": 2728,
+      "endMs": 3053
+    },
+    {
+      "w": "an",
+      "startMs": 3077,
+      "endMs": 3135
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 3216,
+      "endMs": 3773
+    },
+    {
+      "w": "security",
+      "startMs": 3831,
+      "endMs": 4249
+    },
+    {
+      "w": "test",
+      "startMs": 4307,
+      "endMs": 4516
+    },
+    {
+      "w": "slipped",
+      "startMs": 4540,
+      "endMs": 4818
+    },
+    {
+      "w": "out",
+      "startMs": 4865,
+      "endMs": 4981
+    },
+    {
+      "w": "of",
+      "startMs": 5004,
+      "endMs": 5050
+    },
+    {
+      "w": "their",
+      "startMs": 5085,
+      "endMs": 5213
+    },
+    {
+      "w": "sandbox.",
+      "startMs": 5248,
+      "endMs": 5898
+    },
+    {
+      "w": "They",
+      "startMs": 6223,
+      "endMs": 6374
+    },
+    {
+      "w": "ran",
+      "startMs": 6420,
+      "endMs": 6583
+    },
+    {
+      "w": "their",
+      "startMs": 6629,
+      "endMs": 6780
+    },
+    {
+      "w": "own",
+      "startMs": 6838,
+      "endMs": 6966
+    },
+    {
+      "w": "code",
+      "startMs": 7036,
+      "endMs": 7291
+    },
+    {
+      "w": "on",
+      "startMs": 7314,
+      "endMs": 7384
+    },
+    {
+      "w": "41",
+      "startMs": 7500,
+      "endMs": 7918
+    },
+    {
+      "w": "Hugging",
+      "startMs": 7999,
+      "endMs": 8290
+    },
+    {
+      "w": "Face",
+      "startMs": 8336,
+      "endMs": 8557
+    },
+    {
+      "w": "production",
+      "startMs": 8591,
+      "endMs": 8986
+    },
+    {
+      "w": "servers,",
+      "startMs": 9056,
+      "endMs": 9520
+    },
+    {
+      "w": "and",
+      "startMs": 9729,
+      "endMs": 9868
+    },
+    {
+      "w": "took",
+      "startMs": 9903,
+      "endMs": 10066
+    },
+    {
+      "w": "full",
+      "startMs": 10147,
+      "endMs": 10379
+    },
+    {
+      "w": "control",
+      "startMs": 10437,
+      "endMs": 10774
+    },
+    {
+      "w": "of",
+      "startMs": 10820,
+      "endMs": 10867
+    },
+    {
+      "w": "at",
+      "startMs": 10913,
+      "endMs": 10971
+    },
+    {
+      "w": "least",
+      "startMs": 11018,
+      "endMs": 11227
+    },
+    {
+      "w": "one.",
+      "startMs": 11320,
+      "endMs": 11935
+    }
+  ],
+  "file": "7e28312ef10db31a9d7a030b4de59c7127d04aa0e985d1be56b4fbd2ee1179fd.mp3"
+}

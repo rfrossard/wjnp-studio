@@ -1,0 +1,32 @@
+{
+  "id": "voice-river-en-s01",
+  "type": "voice-sample",
+  "title": "voice-river — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:28:23.046Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "ed0554799be103291bc0db5bc9009f384d8d3f077c3b711f002b66a822531652",
+    "path": "ed0554799be103291bc0db5bc9009f384d8d3f077c3b711f002b66a822531652",
+    "mime": "audio/mpeg",
+    "bytes": 181437
+  },
+  "data": {
+    "elevenVoiceId": "SAz9YHcvj6GT2YYXdXww",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s02",
+  "type": "illustration",
+  "title": "Black October s02: nine paper laptops and servers, padlocks cracked, October leaves",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.569053Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "c23255c2c7c402a87e8eeb92f24c8d6148fad8ab2c068adb9041ca5c6e28ae71",
+    "path": "c23255c2c7c402a87e8eeb92f24c8d6148fad8ab2c068adb9041ca5c6e28ae71",
+    "mime": "image/png",
+    "bytes": 2920596
+  },
+  "data": {
+    "subject": "nine paper laptops and servers, padlocks cracked, October leaves"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

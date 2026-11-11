@@ -1,0 +1,472 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 31068,
+  "words": [
+    {
+      "w": "Here's",
+      "startMs": 0,
+      "endMs": 267
+    },
+    {
+      "w": "a",
+      "startMs": 302,
+      "endMs": 325
+    },
+    {
+      "w": "hypothesis,",
+      "startMs": 372,
+      "endMs": 1173
+    },
+    {
+      "w": "not",
+      "startMs": 1347,
+      "endMs": 1521
+    },
+    {
+      "w": "a",
+      "startMs": 1556,
+      "endMs": 1579
+    },
+    {
+      "w": "conclusion.",
+      "startMs": 1625,
+      "endMs": 2276
+    },
+    {
+      "w": "Maybe",
+      "startMs": 3088,
+      "endMs": 3355
+    },
+    {
+      "w": "capability",
+      "startMs": 3402,
+      "endMs": 3982
+    },
+    {
+      "w": "and",
+      "startMs": 4029,
+      "endMs": 4098
+    },
+    {
+      "w": "governance",
+      "startMs": 4168,
+      "endMs": 4598
+    },
+    {
+      "w": "are",
+      "startMs": 4644,
+      "endMs": 4772
+    },
+    {
+      "w": "supposed",
+      "startMs": 4795,
+      "endMs": 5166
+    },
+    {
+      "w": "to",
+      "startMs": 5201,
+      "endMs": 5248
+    },
+    {
+      "w": "grow",
+      "startMs": 5306,
+      "endMs": 5480
+    },
+    {
+      "w": "at",
+      "startMs": 5526,
+      "endMs": 5573
+    },
+    {
+      "w": "the",
+      "startMs": 5608,
+      "endMs": 5677
+    },
+    {
+      "w": "same",
+      "startMs": 5724,
+      "endMs": 5968
+    },
+    {
+      "w": "pace,",
+      "startMs": 6014,
+      "endMs": 6444
+    },
+    {
+      "w": "and",
+      "startMs": 6618,
+      "endMs": 6769
+    },
+    {
+      "w": "right",
+      "startMs": 6838,
+      "endMs": 7036
+    },
+    {
+      "w": "now",
+      "startMs": 7082,
+      "endMs": 7233
+    },
+    {
+      "w": "governance",
+      "startMs": 7349,
+      "endMs": 7825
+    },
+    {
+      "w": "is",
+      "startMs": 7872,
+      "endMs": 7976
+    },
+    {
+      "w": "the",
+      "startMs": 8046,
+      "endMs": 8115
+    },
+    {
+      "w": "one",
+      "startMs": 8185,
+      "endMs": 8359
+    },
+    {
+      "w": "sprinting",
+      "startMs": 8417,
+      "endMs": 8858
+    },
+    {
+      "w": "to",
+      "startMs": 8905,
+      "endMs": 8951
+    },
+    {
+      "w": "catch",
+      "startMs": 8998,
+      "endMs": 9218
+    },
+    {
+      "w": "up.",
+      "startMs": 9276,
+      "endMs": 9601
+    },
+    {
+      "w": "The",
+      "startMs": 10414,
+      "endMs": 10530
+    },
+    {
+      "w": "same",
+      "startMs": 10577,
+      "endMs": 10774
+    },
+    {
+      "w": "lab",
+      "startMs": 10820,
+      "endMs": 10983
+    },
+    {
+      "w": "that",
+      "startMs": 11029,
+      "endMs": 11122
+    },
+    {
+      "w": "built",
+      "startMs": 11169,
+      "endMs": 11343
+    },
+    {
+      "w": "that",
+      "startMs": 11378,
+      "endMs": 11494
+    },
+    {
+      "w": "model",
+      "startMs": 11552,
+      "endMs": 11807
+    },
+    {
+      "w": "also",
+      "startMs": 11865,
+      "endMs": 12144
+    },
+    {
+      "w": "shipped",
+      "startMs": 12214,
+      "endMs": 12469
+    },
+    {
+      "w": "it",
+      "startMs": 12492,
+      "endMs": 12562
+    },
+    {
+      "w": "two",
+      "startMs": 12597,
+      "endMs": 12736
+    },
+    {
+      "w": "different",
+      "startMs": 12783,
+      "endMs": 13038
+    },
+    {
+      "w": "ways.",
+      "startMs": 13073,
+      "endMs": 13561
+    },
+    {
+      "w": "One",
+      "startMs": 14002,
+      "endMs": 14199
+    },
+    {
+      "w": "version",
+      "startMs": 14246,
+      "endMs": 14524
+    },
+    {
+      "w": "wrapped",
+      "startMs": 14559,
+      "endMs": 14791
+    },
+    {
+      "w": "in",
+      "startMs": 14815,
+      "endMs": 14873
+    },
+    {
+      "w": "extra",
+      "startMs": 14966,
+      "endMs": 15267
+    },
+    {
+      "w": "safeguards",
+      "startMs": 15325,
+      "endMs": 15801
+    },
+    {
+      "w": "for",
+      "startMs": 15836,
+      "endMs": 15929
+    },
+    {
+      "w": "everyone.",
+      "startMs": 15976,
+      "endMs": 16452
+    },
+    {
+      "w": "One",
+      "startMs": 16893,
+      "endMs": 17090
+    },
+    {
+      "w": "version",
+      "startMs": 17137,
+      "endMs": 17404
+    },
+    {
+      "w": "with",
+      "startMs": 17438,
+      "endMs": 17566
+    },
+    {
+      "w": "far",
+      "startMs": 17624,
+      "endMs": 17856
+    },
+    {
+      "w": "fewer",
+      "startMs": 17938,
+      "endMs": 18170
+    },
+    {
+      "w": "doors",
+      "startMs": 18228,
+      "endMs": 18472
+    },
+    {
+      "w": "in.",
+      "startMs": 18530,
+      "endMs": 18797
+    },
+    {
+      "w": "Same",
+      "startMs": 19238,
+      "endMs": 19505
+    },
+    {
+      "w": "power,",
+      "startMs": 19540,
+      "endMs": 19877
+    },
+    {
+      "w": "two",
+      "startMs": 19900,
+      "endMs": 20062
+    },
+    {
+      "w": "very",
+      "startMs": 20155,
+      "endMs": 20411
+    },
+    {
+      "w": "different",
+      "startMs": 20457,
+      "endMs": 20724
+    },
+    {
+      "w": "levels",
+      "startMs": 20759,
+      "endMs": 21003
+    },
+    {
+      "w": "of",
+      "startMs": 21038,
+      "endMs": 21084
+    },
+    {
+      "w": "responsibility",
+      "startMs": 21130,
+      "endMs": 21827
+    },
+    {
+      "w": "attached",
+      "startMs": 21873,
+      "endMs": 22187
+    },
+    {
+      "w": "to",
+      "startMs": 22210,
+      "endMs": 22268
+    },
+    {
+      "w": "it.",
+      "startMs": 22349,
+      "endMs": 22582
+    },
+    {
+      "w": "Maybe",
+      "startMs": 23278,
+      "endMs": 23499
+    },
+    {
+      "w": "the",
+      "startMs": 23534,
+      "endMs": 23603
+    },
+    {
+      "w": "answer",
+      "startMs": 23661,
+      "endMs": 23940
+    },
+    {
+      "w": "isn't",
+      "startMs": 23998,
+      "endMs": 24184
+    },
+    {
+      "w": "slowing",
+      "startMs": 24207,
+      "endMs": 24497
+    },
+    {
+      "w": "capability",
+      "startMs": 24532,
+      "endMs": 25043
+    },
+    {
+      "w": "down.",
+      "startMs": 25089,
+      "endMs": 25507
+    },
+    {
+      "w": "Maybe",
+      "startMs": 25948,
+      "endMs": 26169
+    },
+    {
+      "w": "it's",
+      "startMs": 26204,
+      "endMs": 26297
+    },
+    {
+      "w": "giving",
+      "startMs": 26320,
+      "endMs": 26529
+    },
+    {
+      "w": "governance",
+      "startMs": 26587,
+      "endMs": 26982
+    },
+    {
+      "w": "better",
+      "startMs": 27028,
+      "endMs": 27214
+    },
+    {
+      "w": "tools",
+      "startMs": 27260,
+      "endMs": 27458
+    },
+    {
+      "w": "of",
+      "startMs": 27493,
+      "endMs": 27539
+    },
+    {
+      "w": "its",
+      "startMs": 27585,
+      "endMs": 27678
+    },
+    {
+      "w": "own.",
+      "startMs": 27736,
+      "endMs": 28073
+    },
+    {
+      "w": "I",
+      "startMs": 28770,
+      "endMs": 28805
+    },
+    {
+      "w": "don't",
+      "startMs": 28874,
+      "endMs": 28990
+    },
+    {
+      "w": "know",
+      "startMs": 29013,
+      "endMs": 29106
+    },
+    {
+      "w": "yet",
+      "startMs": 29153,
+      "endMs": 29281
+    },
+    {
+      "w": "which",
+      "startMs": 29315,
+      "endMs": 29466
+    },
+    {
+      "w": "direction",
+      "startMs": 29513,
+      "endMs": 29884
+    },
+    {
+      "w": "that",
+      "startMs": 29931,
+      "endMs": 30047
+    },
+    {
+      "w": "balance",
+      "startMs": 30105,
+      "endMs": 30453
+    },
+    {
+      "w": "tips.",
+      "startMs": 30476,
+      "endMs": 31068
+    }
+  ],
+  "file": "71fa1111e3ac567b1ccfcea117b4d6d8085d07f006defafd5b813ffd8f11fac3.mp3"
+}

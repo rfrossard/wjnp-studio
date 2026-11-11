@@ -64,7 +64,7 @@ export function captionFont(isV: boolean) {
   return isV ? { max: 46, min: 34, maxChars: 62 } : { max: 44, min: 32, maxChars: 84 };
 }
 
-export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" }> = ({ scene, geo, theme, tokens, captionStyle = "box" }) => {
+export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" | "accent" | "highlight" }> = ({ scene, geo, theme, tokens, captionStyle = "box" }) => {
   const frame = useCurrentFrame();
   const cfg = captionFont(geo.isV);
   const padX = 32;
@@ -91,6 +91,11 @@ export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" }
       "0 0 12px rgba(0,0,0,0.85)",
       "0 2px 20px rgba(0,0,0,0.8)",
     ].join(", ");
+    // On a light frame (the comic page) white text with a dark glow turns muddy: use ink with a paper halo.
+    const light = theme.tone === "light";
+    const base = light ? NEUTRALS.ink : NEUTRALS.paper;
+    const shadowFor = light ? "0 0 6px rgba(245,243,238,0.95), 0 0 14px rgba(245,243,238,0.8)" : shadow;
+    const activeShadowFor = light ? shadowFor : activeShadow;
     return (
       <div
         data-overlay="captions"
@@ -108,14 +113,58 @@ export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" }
         }}
       >
         {chunk ? (
-          <div style={{ width: innerW, fontFamily: tokens.type.text, fontSize, lineHeight: 1.22, fontWeight: 700, color: NEUTRALS.paper, overflowWrap: "break-word", textShadow: shadow }}>
+          <div style={{ width: innerW, fontFamily: tokens.type.text, fontSize, lineHeight: 1.22, fontWeight: 700, color: base, overflowWrap: "break-word", textShadow: shadowFor }}>
             {chunk.words.map((w, i) => {
               const active = frame >= w.startFrame && frame < Math.max(w.endFrame, w.startFrame + 1);
               return (
-                <span key={i} style={{ color: active ? theme.accentText : NEUTRALS.paper, textShadow: active ? activeShadow : shadow }}>
+                <span key={i} style={{ color: active ? theme.accentText : base, textShadow: active ? activeShadowFor : shadowFor }}>
                   {w.w}
                   {i < chunk.words.length - 1 ? " " : ""}
                 </span>
+              );
+            })}
+          </div>
+        ) : null}
+      </div>
+    );
+  }
+
+  if (captionStyle === "accent" || captionStyle === "highlight") {
+    // accent: a solid plate in the episode accent, white text, the spoken word on a paper chip.
+    // highlight: no plate; text in the frame's ink/paper, the spoken word on an accent chip.
+    const plate = captionStyle === "accent";
+    const light = theme.tone === "light";
+    const base = plate ? NEUTRALS.white : light ? NEUTRALS.ink : NEUTRALS.paper;
+    const chipBg = plate ? NEUTRALS.paper : theme.accent;
+    const chipFg = plate ? NEUTRALS.ink : NEUTRALS.white;
+    const halo = plate ? "none" : light ? "0 0 6px rgba(245,243,238,0.95)" : "0 0 4px rgba(0,0,0,0.9), 0 2px 12px rgba(0,0,0,0.7)";
+    return (
+      <div
+        data-overlay="captions"
+        style={{
+          position: "absolute",
+          left: geo.captions.x,
+          top: geo.captions.y,
+          width: geo.captions.w,
+          height: geo.captions.h,
+          boxSizing: "border-box",
+          background: plate ? ensureContrast(theme.accent, NEUTRALS.white, 4.5) : "transparent",
+          borderRadius: plate ? 6 : 0,
+          display: "flex",
+          alignItems: "center",
+          padding: `0 ${padX}px`,
+          opacity: chunk ? 1 : 0,
+        }}
+      >
+        {chunk ? (
+          <div style={{ width: innerW, fontFamily: tokens.type.text, fontSize, lineHeight: 1.3, fontWeight: 700, color: base, overflowWrap: "break-word", textShadow: halo }}>
+            {chunk.words.map((w, i) => {
+              const active = frame >= w.startFrame && frame < Math.max(w.endFrame, w.startFrame + 1);
+              return (
+                <React.Fragment key={i}>
+                  <span style={active ? { background: chipBg, color: chipFg, textShadow: "none", borderRadius: 4, padding: "0 6px", margin: "0 -6px", boxDecorationBreak: "clone", WebkitBoxDecorationBreak: "clone" } : undefined}>{w.w}</span>
+                  {i < chunk.words.length - 1 ? " " : ""}
+                </React.Fragment>
               );
             })}
           </div>

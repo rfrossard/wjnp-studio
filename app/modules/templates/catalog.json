@@ -50,7 +50,7 @@
   {
     "id": "personal_take",
     "styles": ["editorial_data", "calm_demo"],
-    "useFor": ["The owner's opinion, always labelled My take", "The practitioner view after the evidence"],
+    "useFor": ["The owner's reflection, shown as the idea itself (no \"My take\" label, owner rule 2026-11-10)", "The practitioner view after the evidence"],
     "avoidFor": ["Anything stated as fact", "Opinion that has no evidence scene before it"]
   },
   {

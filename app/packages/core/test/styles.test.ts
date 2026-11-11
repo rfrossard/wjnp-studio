@@ -10,9 +10,9 @@ const SCENES = ["title_hook", "statement", "stat", "comparison", "timeline", "bu
 const plan = (p: Partial<StylePlanInput>) => planStyles(lib, { topicWords: [], tone: "conversational", scenes: SCENES, allowDraft: true, ...p });
 
 describe("style library", () => {
-  it("has 36 styles, unique ids, valid templates and transitions", () => {
-    expect(lib).toHaveLength(36);
-    expect(new Set(lib.map((s) => s.id)).size).toBe(36);
+  it("has 37 styles (36 + papercut, 2026-11-10), unique ids, valid templates and transitions", () => {
+    expect(lib).toHaveLength(37);
+    expect(new Set(lib.map((s) => s.id)).size).toBe(37);
     for (const s of lib) {
       expect(s.templates.length).toBeGreaterThan(0);
       expect(s.strongFor.every((t) => s.templates.includes(t))).toBe(true);

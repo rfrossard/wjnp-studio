@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s10",
+  "type": "illustration",
+  "title": "Black October s10: robot in a test chamber, cable through a gap to an internet globe",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.597805Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "42ab296da17b43c3fc85eeb5cac4bd309d30dcfcf1d44439a7e711e554b353ee",
+    "path": "42ab296da17b43c3fc85eeb5cac4bd309d30dcfcf1d44439a7e711e554b353ee",
+    "mime": "image/png",
+    "bytes": 2653505
+  },
+  "data": {
+    "subject": "robot in a test chamber, cable through a gap to an internet globe"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

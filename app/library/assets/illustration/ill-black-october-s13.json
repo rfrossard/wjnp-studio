@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s13",
+  "type": "illustration",
+  "title": "Black October s13: stopwatch, clock and tall hourglass (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.607363Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "af5a008c4b0f98cf3c4ba06ff96eebe116ce4d266249dc16e1da842199bcba1c",
+    "path": "af5a008c4b0f98cf3c4ba06ff96eebe116ce4d266249dc16e1da842199bcba1c",
+    "mime": "image/png",
+    "bytes": 2681677
+  },
+  "data": {
+    "subject": "stopwatch, clock and tall hourglass (night)"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

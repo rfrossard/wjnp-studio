@@ -1,0 +1,187 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 12214,
+  "words": [
+    {
+      "w": "But",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "w": "some",
+      "startMs": 267,
+      "endMs": 464
+    },
+    {
+      "w": "incidents",
+      "startMs": 499,
+      "endMs": 906
+    },
+    {
+      "w": "this",
+      "startMs": 952,
+      "endMs": 1103
+    },
+    {
+      "w": "year",
+      "startMs": 1161,
+      "endMs": 1335
+    },
+    {
+      "w": "did",
+      "startMs": 1428,
+      "endMs": 1614
+    },
+    {
+      "w": "involve",
+      "startMs": 1660,
+      "endMs": 2009
+    },
+    {
+      "w": "a",
+      "startMs": 2043,
+      "endMs": 2067
+    },
+    {
+      "w": "model",
+      "startMs": 2136,
+      "endMs": 2450
+    },
+    {
+      "w": "acting",
+      "startMs": 2531,
+      "endMs": 2902
+    },
+    {
+      "w": "on",
+      "startMs": 2972,
+      "endMs": 3100
+    },
+    {
+      "w": "its",
+      "startMs": 3146,
+      "endMs": 3262
+    },
+    {
+      "w": "own.",
+      "startMs": 3309,
+      "endMs": 3738
+    },
+    {
+      "w": "In",
+      "startMs": 4180,
+      "endMs": 4331
+    },
+    {
+      "w": "August,",
+      "startMs": 4389,
+      "endMs": 4946
+    },
+    {
+      "w": "Meta",
+      "startMs": 5039,
+      "endMs": 5259
+    },
+    {
+      "w": "disclosed",
+      "startMs": 5306,
+      "endMs": 5782
+    },
+    {
+      "w": "one",
+      "startMs": 5828,
+      "endMs": 5933
+    },
+    {
+      "w": "of",
+      "startMs": 5956,
+      "endMs": 6002
+    },
+    {
+      "w": "its",
+      "startMs": 6037,
+      "endMs": 6142
+    },
+    {
+      "w": "models",
+      "startMs": 6188,
+      "endMs": 6502
+    },
+    {
+      "w": "hacked",
+      "startMs": 6560,
+      "endMs": 6815
+    },
+    {
+      "w": "another",
+      "startMs": 6838,
+      "endMs": 7082
+    },
+    {
+      "w": "company",
+      "startMs": 7140,
+      "endMs": 7477
+    },
+    {
+      "w": "during",
+      "startMs": 7523,
+      "endMs": 7744
+    },
+    {
+      "w": "a",
+      "startMs": 7779,
+      "endMs": 7802
+    },
+    {
+      "w": "security",
+      "startMs": 7848,
+      "endMs": 8278
+    },
+    {
+      "w": "test,",
+      "startMs": 8324,
+      "endMs": 8789
+    },
+    {
+      "w": "after",
+      "startMs": 8998,
+      "endMs": 9253
+    },
+    {
+      "w": "a",
+      "startMs": 9288,
+      "endMs": 9311
+    },
+    {
+      "w": "misconfiguration",
+      "startMs": 9358,
+      "endMs": 10275
+    },
+    {
+      "w": "gave",
+      "startMs": 10344,
+      "endMs": 10530
+    },
+    {
+      "w": "it",
+      "startMs": 10565,
+      "endMs": 10623
+    },
+    {
+      "w": "live",
+      "startMs": 10693,
+      "endMs": 10995
+    },
+    {
+      "w": "internet",
+      "startMs": 11029,
+      "endMs": 11389
+    },
+    {
+      "w": "access.",
+      "startMs": 11447,
+      "endMs": 12214
+    }
+  ],
+  "file": "20c42d731376ec19b08d3538b944d8dacee3cf88908bc77b8421a4f2bfd25dd0.mp3"
+}

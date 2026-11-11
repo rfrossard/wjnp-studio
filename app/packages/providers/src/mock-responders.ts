@@ -62,7 +62,7 @@ function onScreenFor(template: string, ctx: Ctx, claim: Ctx | undefined, i: numb
     case "bullets":
       return { template, headline: cut(msg, 70), bullets: ["One thing is clear", "One thing is not"] };
     case "personal_take":
-      return { template, headline: "My take: the limits must be readable" };
+      return { template, headline: "The limits must be readable" };
     default:
       return { template: "end_card", question: cut(brief.closingQuestion, 120) };
   }

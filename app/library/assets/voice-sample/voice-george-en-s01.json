@@ -1,0 +1,32 @@
+{
+  "id": "voice-george-en-s01",
+  "type": "voice-sample",
+  "title": "voice-george — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:26:57.265Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "effbc11d8a6296fbad9c2a06a090b41f7b08ebc8eb93860c4f69c1c1ac4db34b",
+    "path": "effbc11d8a6296fbad9c2a06a090b41f7b08ebc8eb93860c4f69c1c1ac4db34b",
+    "mime": "audio/mpeg",
+    "bytes": 198155
+  },
+  "data": {
+    "elevenVoiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

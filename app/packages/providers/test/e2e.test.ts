@@ -3,6 +3,7 @@ import { join } from "node:path";
 import { describe, expect, it } from "vitest";
 import { DURATION_RULES, Episode, FPS } from "@wjnp/contracts";
 import { MockLLM, MockTTS, narrationKey, runPipeline, type RadarTheme } from "../src/index";
+import { DEFAULT_TAIL_FRAMES } from "../src/pipeline/common";
 import { GOLDEN, loadGolden, makeDeps, tmpRoot, VOICES } from "./helpers";
 
 describe("end-to-end pipeline on a copy of the golden fixture (all mocks, temp dir)", () => {
@@ -79,7 +80,7 @@ describe("end-to-end pipeline on a copy of the golden fixture (all mocks, temp d
       const a = s.narration.audio!;
       expect(a.textSha256).toBe(narrationKey(s.narration.voiceId, s.narration.text, s.narration.voiceId === "voice-roberto" ? VOICES.narrator.settings : undefined));
       expect(existsSync(join(root, a.path))).toBe(true);
-      expect(s.durationFrames).toBe(Math.ceil((a.durationMs / 1000) * FPS) + 20);
+      expect(s.durationFrames).toBe(Math.ceil((a.durationMs / 1000) * FPS) + DEFAULT_TAIL_FRAMES);
       expect(a.words.map((w) => w.w)).toEqual(s.narration.text.split(/\s+/));
     }
     const totalSeconds = ep.scenes.reduce((t, s) => t + s.narration.audio!.durationMs, 0) / 1000;

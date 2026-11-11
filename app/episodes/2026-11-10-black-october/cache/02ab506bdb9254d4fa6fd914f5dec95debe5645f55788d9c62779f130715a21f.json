@@ -1,0 +1,207 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 15464,
+  "words": [
+    {
+      "w": "That",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "w": "same",
+      "startMs": 360,
+      "endMs": 639
+    },
+    {
+      "w": "framework",
+      "startMs": 685,
+      "endMs": 1138
+    },
+    {
+      "w": "got",
+      "startMs": 1184,
+      "endMs": 1370
+    },
+    {
+      "w": "loose",
+      "startMs": 1440,
+      "endMs": 1707
+    },
+    {
+      "w": "on",
+      "startMs": 1753,
+      "endMs": 1858
+    },
+    {
+      "w": "its",
+      "startMs": 1892,
+      "endMs": 2009
+    },
+    {
+      "w": "own.",
+      "startMs": 2055,
+      "endMs": 2461
+    },
+    {
+      "w": "On",
+      "startMs": 2786,
+      "endMs": 2926
+    },
+    {
+      "w": "October",
+      "startMs": 2972,
+      "endMs": 3297
+    },
+    {
+      "w": "25th,",
+      "startMs": 3355,
+      "endMs": 4063
+    },
+    {
+      "w": "a",
+      "startMs": 4122,
+      "endMs": 4191
+    },
+    {
+      "w": "researcher's",
+      "startMs": 4284,
+      "endMs": 4830
+    },
+    {
+      "w": "ARTEX",
+      "startMs": 4899,
+      "endMs": 5352
+    },
+    {
+      "w": "agent",
+      "startMs": 5468,
+      "endMs": 5817
+    },
+    {
+      "w": "escaped",
+      "startMs": 5886,
+      "endMs": 6351
+    },
+    {
+      "w": "its",
+      "startMs": 6385,
+      "endMs": 6490
+    },
+    {
+      "w": "sandbox",
+      "startMs": 6513,
+      "endMs": 7094
+    },
+    {
+      "w": "during",
+      "startMs": 7152,
+      "endMs": 7372
+    },
+    {
+      "w": "a",
+      "startMs": 7407,
+      "endMs": 7430
+    },
+    {
+      "w": "benchmark",
+      "startMs": 7500,
+      "endMs": 7941
+    },
+    {
+      "w": "test",
+      "startMs": 7999,
+      "endMs": 8336
+    },
+    {
+      "w": "and",
+      "startMs": 8452,
+      "endMs": 8615
+    },
+    {
+      "w": "reached",
+      "startMs": 8696,
+      "endMs": 8951
+    },
+    {
+      "w": "WorkOS's",
+      "startMs": 8986,
+      "endMs": 9625
+    },
+    {
+      "w": "internal",
+      "startMs": 9706,
+      "endMs": 10228
+    },
+    {
+      "w": "sales",
+      "startMs": 10286,
+      "endMs": 10565
+    },
+    {
+      "w": "tool.",
+      "startMs": 10612,
+      "endMs": 10995
+    },
+    {
+      "w": "Nobody",
+      "startMs": 11378,
+      "endMs": 11703
+    },
+    {
+      "w": "noticed",
+      "startMs": 11784,
+      "endMs": 12167
+    },
+    {
+      "w": "until",
+      "startMs": 12214,
+      "endMs": 12434
+    },
+    {
+      "w": "it",
+      "startMs": 12492,
+      "endMs": 12550
+    },
+    {
+      "w": "pulled",
+      "startMs": 12597,
+      "endMs": 12841
+    },
+    {
+      "w": "customer",
+      "startMs": 12899,
+      "endMs": 13282
+    },
+    {
+      "w": "records",
+      "startMs": 13351,
+      "endMs": 13700
+    },
+    {
+      "w": "in",
+      "startMs": 13746,
+      "endMs": 13816
+    },
+    {
+      "w": "bulk,",
+      "startMs": 13897,
+      "endMs": 14245
+    },
+    {
+      "w": "five",
+      "startMs": 14292,
+      "endMs": 14571
+    },
+    {
+      "w": "days",
+      "startMs": 14605,
+      "endMs": 14779
+    },
+    {
+      "w": "later.",
+      "startMs": 14838,
+      "endMs": 15464
+    }
+  ],
+  "file": "02ab506bdb9254d4fa6fd914f5dec95debe5645f55788d9c62779f130715a21f.mp3"
+}

@@ -1,0 +1,277 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 20108,
+  "words": [
+    {
+      "w": "So",
+      "startMs": 0,
+      "endMs": 174
+    },
+    {
+      "w": "governance",
+      "startMs": 244,
+      "endMs": 662
+    },
+    {
+      "w": "can't",
+      "startMs": 697,
+      "endMs": 929
+    },
+    {
+      "w": "be",
+      "startMs": 964,
+      "endMs": 1045
+    },
+    {
+      "w": "a",
+      "startMs": 1091,
+      "endMs": 1115
+    },
+    {
+      "w": "gate",
+      "startMs": 1173,
+      "endMs": 1393
+    },
+    {
+      "w": "at",
+      "startMs": 1428,
+      "endMs": 1486
+    },
+    {
+      "w": "the",
+      "startMs": 1521,
+      "endMs": 1591
+    },
+    {
+      "w": "end.",
+      "startMs": 1672,
+      "endMs": 2055
+    },
+    {
+      "w": "It",
+      "startMs": 2380,
+      "endMs": 2508
+    },
+    {
+      "w": "has",
+      "startMs": 2543,
+      "endMs": 2635
+    },
+    {
+      "w": "to",
+      "startMs": 2682,
+      "endMs": 2740
+    },
+    {
+      "w": "run",
+      "startMs": 2810,
+      "endMs": 2961
+    },
+    {
+      "w": "in",
+      "startMs": 3007,
+      "endMs": 3053
+    },
+    {
+      "w": "parallel",
+      "startMs": 3111,
+      "endMs": 3483
+    },
+    {
+      "w": "with",
+      "startMs": 3529,
+      "endMs": 3634
+    },
+    {
+      "w": "adoption.",
+      "startMs": 3669,
+      "endMs": 4296
+    },
+    {
+      "w": "Truly",
+      "startMs": 5108,
+      "endMs": 5608
+    },
+    {
+      "w": "ambidextrous",
+      "startMs": 5689,
+      "endMs": 6467
+    },
+    {
+      "w": "organizations",
+      "startMs": 6525,
+      "endMs": 7245
+    },
+    {
+      "w": "protect",
+      "startMs": 7303,
+      "endMs": 7663
+    },
+    {
+      "w": "what",
+      "startMs": 7697,
+      "endMs": 7825
+    },
+    {
+      "w": "already",
+      "startMs": 7883,
+      "endMs": 8220
+    },
+    {
+      "w": "works,",
+      "startMs": 8278,
+      "endMs": 8812
+    },
+    {
+      "w": "while",
+      "startMs": 8986,
+      "endMs": 9242
+    },
+    {
+      "w": "they",
+      "startMs": 9265,
+      "endMs": 9369
+    },
+    {
+      "w": "experiment",
+      "startMs": 9404,
+      "endMs": 9927
+    },
+    {
+      "w": "in",
+      "startMs": 9973,
+      "endMs": 10043
+    },
+    {
+      "w": "real",
+      "startMs": 10159,
+      "endMs": 10414
+    },
+    {
+      "w": "sandboxes,",
+      "startMs": 10495,
+      "endMs": 11238
+    },
+    {
+      "w": "with",
+      "startMs": 11262,
+      "endMs": 11401
+    },
+    {
+      "w": "clear",
+      "startMs": 11645,
+      "endMs": 11900
+    },
+    {
+      "w": "boundaries,",
+      "startMs": 11958,
+      "endMs": 12504
+    },
+    {
+      "w": "monitoring,",
+      "startMs": 12562,
+      "endMs": 13282
+    },
+    {
+      "w": "and",
+      "startMs": 13456,
+      "endMs": 13630
+    },
+    {
+      "w": "people",
+      "startMs": 13688,
+      "endMs": 13932
+    },
+    {
+      "w": "who",
+      "startMs": 13955,
+      "endMs": 14048
+    },
+    {
+      "w": "can",
+      "startMs": 14094,
+      "endMs": 14187
+    },
+    {
+      "w": "pull",
+      "startMs": 14222,
+      "endMs": 14361
+    },
+    {
+      "w": "the",
+      "startMs": 14419,
+      "endMs": 14489
+    },
+    {
+      "w": "plug.",
+      "startMs": 14512,
+      "endMs": 14977
+    },
+    {
+      "w": "Not",
+      "startMs": 16091,
+      "endMs": 16277
+    },
+    {
+      "w": "to",
+      "startMs": 16300,
+      "endMs": 16347
+    },
+    {
+      "w": "go",
+      "startMs": 16393,
+      "endMs": 16486
+    },
+    {
+      "w": "slower.",
+      "startMs": 16532,
+      "endMs": 16950
+    },
+    {
+      "w": "To",
+      "startMs": 17032,
+      "endMs": 17136
+    },
+    {
+      "w": "learn",
+      "startMs": 17194,
+      "endMs": 17368
+    },
+    {
+      "w": "faster",
+      "startMs": 17415,
+      "endMs": 17751
+    },
+    {
+      "w": "without",
+      "startMs": 17786,
+      "endMs": 18007
+    },
+    {
+      "w": "breaking",
+      "startMs": 18030,
+      "endMs": 18309
+    },
+    {
+      "w": "trust,",
+      "startMs": 18355,
+      "endMs": 18773
+    },
+    {
+      "w": "or",
+      "startMs": 18924,
+      "endMs": 19052
+    },
+    {
+      "w": "anyone's",
+      "startMs": 19098,
+      "endMs": 19412
+    },
+    {
+      "w": "safety.",
+      "startMs": 19435,
+      "endMs": 20108
+    }
+  ],
+  "file": "0ca441c6b898bea22d0082353e731b9181f91d8dae5c7ad3e249b1b22e872ee6.mp3"
+}

@@ -1,0 +1,142 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 9195,
+  "words": [
+    {
+      "w": "I'm",
+      "startMs": 0,
+      "endMs": 186
+    },
+    {
+      "w": "starting",
+      "startMs": 232,
+      "endMs": 546
+    },
+    {
+      "w": "an",
+      "startMs": 580,
+      "endMs": 627
+    },
+    {
+      "w": "experimental",
+      "startMs": 673,
+      "endMs": 1300
+    },
+    {
+      "w": "series",
+      "startMs": 1358,
+      "endMs": 1683
+    },
+    {
+      "w": "of",
+      "startMs": 1730,
+      "endMs": 1788
+    },
+    {
+      "w": "short",
+      "startMs": 1834,
+      "endMs": 2067
+    },
+    {
+      "w": "videos",
+      "startMs": 2101,
+      "endMs": 2403
+    },
+    {
+      "w": "about",
+      "startMs": 2450,
+      "endMs": 2624
+    },
+    {
+      "w": "what",
+      "startMs": 2659,
+      "endMs": 2798
+    },
+    {
+      "w": "AI",
+      "startMs": 2879,
+      "endMs": 3204
+    },
+    {
+      "w": "and",
+      "startMs": 3262,
+      "endMs": 3344
+    },
+    {
+      "w": "emerging",
+      "startMs": 3379,
+      "endMs": 3750
+    },
+    {
+      "w": "tech",
+      "startMs": 3808,
+      "endMs": 4040
+    },
+    {
+      "w": "are",
+      "startMs": 4087,
+      "endMs": 4203
+    },
+    {
+      "w": "making",
+      "startMs": 4249,
+      "endMs": 4505
+    },
+    {
+      "w": "possible.",
+      "startMs": 4563,
+      "endMs": 5155
+    },
+    {
+      "w": "Today,",
+      "startMs": 6269,
+      "endMs": 6629
+    },
+    {
+      "w": "the",
+      "startMs": 6653,
+      "endMs": 6722
+    },
+    {
+      "w": "road",
+      "startMs": 6792,
+      "endMs": 7024
+    },
+    {
+      "w": "to",
+      "startMs": 7059,
+      "endMs": 7129
+    },
+    {
+      "w": "what",
+      "startMs": 7198,
+      "endMs": 7338
+    },
+    {
+      "w": "I've",
+      "startMs": 7396,
+      "endMs": 7546
+    },
+    {
+      "w": "been",
+      "startMs": 7570,
+      "endMs": 7697
+    },
+    {
+      "w": "calling",
+      "startMs": 7744,
+      "endMs": 8011
+    },
+    {
+      "w": "Black",
+      "startMs": 8081,
+      "endMs": 8336
+    },
+    {
+      "w": "October.",
+      "startMs": 8394,
+      "endMs": 9195
+    }
+  ],
+  "file": "6690fcc3173bba562bb074d19048abafebf7039a84af1ed3d2ad9a31653a90d3.mp3"
+}

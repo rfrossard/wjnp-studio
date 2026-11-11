@@ -1,0 +1,82 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 6409,
+  "words": [
+    {
+      "w": "On",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "w": "October",
+      "startMs": 197,
+      "endMs": 534
+    },
+    {
+      "w": "30th,",
+      "startMs": 592,
+      "endMs": 1057
+    },
+    {
+      "w": "Binance",
+      "startMs": 1091,
+      "endMs": 1521
+    },
+    {
+      "w": "lost",
+      "startMs": 1556,
+      "endMs": 1800
+    },
+    {
+      "w": "6.3",
+      "startMs": 1869,
+      "endMs": 2543
+    },
+    {
+      "w": "billion",
+      "startMs": 2612,
+      "endMs": 2926
+    },
+    {
+      "w": "dollars",
+      "startMs": 2984,
+      "endMs": 3297
+    },
+    {
+      "w": "overnight.",
+      "startMs": 3344,
+      "endMs": 3889
+    },
+    {
+      "w": "The",
+      "startMs": 4331,
+      "endMs": 4447
+    },
+    {
+      "w": "largest",
+      "startMs": 4516,
+      "endMs": 4876
+    },
+    {
+      "w": "crypto",
+      "startMs": 4923,
+      "endMs": 5224
+    },
+    {
+      "w": "theft",
+      "startMs": 5294,
+      "endMs": 5550
+    },
+    {
+      "w": "on",
+      "startMs": 5596,
+      "endMs": 5666
+    },
+    {
+      "w": "record.",
+      "startMs": 5724,
+      "endMs": 6409
+    }
+  ],
+  "file": "d0922d0127e593315c0b16f577a1fe2b130d513c8a0e97a90255333d1a33aa52.mp3"
+}

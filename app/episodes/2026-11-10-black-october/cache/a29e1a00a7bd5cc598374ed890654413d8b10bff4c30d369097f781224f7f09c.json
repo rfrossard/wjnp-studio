@@ -1,0 +1,57 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 5433,
+  "words": [
+    {
+      "w": "On",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "w": "October",
+      "startMs": 209,
+      "endMs": 557
+    },
+    {
+      "w": "22nd,",
+      "startMs": 615,
+      "endMs": 1231
+    },
+    {
+      "w": "Capcom",
+      "startMs": 1405,
+      "endMs": 1869
+    },
+    {
+      "w": "confirmed",
+      "startMs": 1939,
+      "endMs": 2426
+    },
+    {
+      "w": "11.8",
+      "startMs": 2508,
+      "endMs": 3402
+    },
+    {
+      "w": "million",
+      "startMs": 3483,
+      "endMs": 3831
+    },
+    {
+      "w": "account",
+      "startMs": 3889,
+      "endMs": 4168
+    },
+    {
+      "w": "records",
+      "startMs": 4226,
+      "endMs": 4563
+    },
+    {
+      "w": "exposed.",
+      "startMs": 4609,
+      "endMs": 5433
+    }
+  ],
+  "file": "a29e1a00a7bd5cc598374ed890654413d8b10bff4c30d369097f781224f7f09c.mp3"
+}

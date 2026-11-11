@@ -1,0 +1,207 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 13932,
+  "words": [
+    {
+      "w": "The",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "w": "number",
+      "startMs": 186,
+      "endMs": 372
+    },
+    {
+      "w": "that",
+      "startMs": 418,
+      "endMs": 522
+    },
+    {
+      "w": "stays",
+      "startMs": 557,
+      "endMs": 813
+    },
+    {
+      "w": "with",
+      "startMs": 836,
+      "endMs": 952
+    },
+    {
+      "w": "me",
+      "startMs": 987,
+      "endMs": 1068
+    },
+    {
+      "w": "is",
+      "startMs": 1126,
+      "endMs": 1207
+    },
+    {
+      "w": "nine.",
+      "startMs": 1289,
+      "endMs": 1800
+    },
+    {
+      "w": "On",
+      "startMs": 2403,
+      "endMs": 2543
+    },
+    {
+      "w": "July",
+      "startMs": 2589,
+      "endMs": 2844
+    },
+    {
+      "w": "10th,",
+      "startMs": 2926,
+      "endMs": 3251
+    },
+    {
+      "w": "an",
+      "startMs": 3274,
+      "endMs": 3367
+    },
+    {
+      "w": "agent",
+      "startMs": 3437,
+      "endMs": 3750
+    },
+    {
+      "w": "found",
+      "startMs": 3796,
+      "endMs": 3994
+    },
+    {
+      "w": "exposed",
+      "startMs": 4052,
+      "endMs": 4516
+    },
+    {
+      "w": "Hugging",
+      "startMs": 4574,
+      "endMs": 4865
+    },
+    {
+      "w": "Face",
+      "startMs": 4923,
+      "endMs": 5143
+    },
+    {
+      "w": "credentials",
+      "startMs": 5166,
+      "endMs": 5608
+    },
+    {
+      "w": "and",
+      "startMs": 5642,
+      "endMs": 5712
+    },
+    {
+      "w": "shared",
+      "startMs": 5747,
+      "endMs": 6002
+    },
+    {
+      "w": "them.",
+      "startMs": 6037,
+      "endMs": 6374
+    },
+    {
+      "w": "OpenAI's",
+      "startMs": 6978,
+      "endMs": 7616
+    },
+    {
+      "w": "own",
+      "startMs": 7674,
+      "endMs": 7837
+    },
+    {
+      "w": "monitoring",
+      "startMs": 7883,
+      "endMs": 8301
+    },
+    {
+      "w": "raised",
+      "startMs": 8359,
+      "endMs": 8603
+    },
+    {
+      "w": "the",
+      "startMs": 8673,
+      "endMs": 8742
+    },
+    {
+      "w": "alarm",
+      "startMs": 8789,
+      "endMs": 9033
+    },
+    {
+      "w": "on",
+      "startMs": 9079,
+      "endMs": 9137
+    },
+    {
+      "w": "July",
+      "startMs": 9183,
+      "endMs": 9427
+    },
+    {
+      "w": "19th.",
+      "startMs": 9509,
+      "endMs": 10159
+    },
+    {
+      "w": "And",
+      "startMs": 10670,
+      "endMs": 10844
+    },
+    {
+      "w": "much",
+      "startMs": 10960,
+      "endMs": 11180
+    },
+    {
+      "w": "of",
+      "startMs": 11215,
+      "endMs": 11273
+    },
+    {
+      "w": "the",
+      "startMs": 11308,
+      "endMs": 11378
+    },
+    {
+      "w": "intrusion",
+      "startMs": 11436,
+      "endMs": 11889
+    },
+    {
+      "w": "took",
+      "startMs": 11935,
+      "endMs": 12098
+    },
+    {
+      "w": "less",
+      "startMs": 12214,
+      "endMs": 12434
+    },
+    {
+      "w": "than",
+      "startMs": 12469,
+      "endMs": 12608
+    },
+    {
+      "w": "13",
+      "startMs": 12666,
+      "endMs": 13131
+    },
+    {
+      "w": "hours.",
+      "startMs": 13189,
+      "endMs": 13932
+    }
+  ],
+  "file": "5dfe26f95d2d3f36bbb9271109795884c14944da2c7cc9bfb26e9f58dbc29631.mp3"
+}

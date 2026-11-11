@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo3-ambi",
+  "type": "illustration",
+  "title": "Black October v3: one person, both hands: left steadies a building, right experiments in a sandbox (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:51:19.029966+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "9f6ee0446b6bd3c83c568357582b7888688a55c5eb953b118bc8e1ab03ccc32e",
+    "path": "9f6ee0446b6bd3c83c568357582b7888688a55c5eb953b118bc8e1ab03ccc32e",
+    "mime": "image/png",
+    "bytes": 2773986
+  },
+  "data": {
+    "subject": "one person, both hands: left steadies a building, right experiments in a sandbox (night)",
+    "note": "night palette, measured clean; replaces ill-bo2-ambi (hands of different people)"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "voice-liam-en-s01",
+  "type": "voice-sample",
+  "title": "voice-liam — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:28:24.869Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "57dffe77f09adf205775da83344dc48dce730ba2f81f7c5c172c8fbd45546730",
+    "path": "57dffe77f09adf205775da83344dc48dce730ba2f81f7c5c172c8fbd45546730",
+    "mime": "audio/mpeg",
+    "bytes": 201081
+  },
+  "data": {
+    "elevenVoiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

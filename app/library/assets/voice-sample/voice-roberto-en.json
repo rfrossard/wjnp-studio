@@ -1,0 +1,33 @@
+{
+  "id": "voice-roberto-en",
+  "type": "voice-sample",
+  "title": "Roberto (clone) — English listening test",
+  "tags": [
+    "narrator",
+    "english",
+    "listening-test"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS using Betos own voice clone; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:24:16.885Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "2f07eb08ea5c14e49a0d49729e53d23499629b34974ef2c44d7d8d72e825961c",
+    "path": "2f07eb08ea5c14e49a0d49729e53d23499629b34974ef2c44d7d8d72e825961c",
+    "mime": "audio/mpeg",
+    "bytes": 165972
+  },
+  "data": {
+    "elevenVoiceId": "vmkubLTlwMyFKgNqlYes",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

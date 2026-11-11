@@ -1,0 +1,147 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 10774,
+  "words": [
+    {
+      "w": "Here",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "w": "is",
+      "startMs": 255,
+      "endMs": 337
+    },
+    {
+      "w": "the",
+      "startMs": 372,
+      "endMs": 441
+    },
+    {
+      "w": "report.",
+      "startMs": 499,
+      "endMs": 940
+    },
+    {
+      "w": "In",
+      "startMs": 1149,
+      "endMs": 1289
+    },
+    {
+      "w": "October",
+      "startMs": 1358,
+      "endMs": 1800
+    },
+    {
+      "w": "2026,",
+      "startMs": 1869,
+      "endMs": 2821
+    },
+    {
+      "w": "at",
+      "startMs": 2856,
+      "endMs": 2961
+    },
+    {
+      "w": "least",
+      "startMs": 3019,
+      "endMs": 3251
+    },
+    {
+      "w": "nine",
+      "startMs": 3344,
+      "endMs": 3657
+    },
+    {
+      "w": "AI",
+      "startMs": 3727,
+      "endMs": 3982
+    },
+    {
+      "w": "development",
+      "startMs": 4040,
+      "endMs": 4458
+    },
+    {
+      "w": "platforms",
+      "startMs": 4481,
+      "endMs": 5050
+    },
+    {
+      "w": "disclosed",
+      "startMs": 5108,
+      "endMs": 5654
+    },
+    {
+      "w": "security",
+      "startMs": 5689,
+      "endMs": 6130
+    },
+    {
+      "w": "incidents",
+      "startMs": 6188,
+      "endMs": 6594
+    },
+    {
+      "w": "in",
+      "startMs": 6641,
+      "endMs": 6711
+    },
+    {
+      "w": "a",
+      "startMs": 6757,
+      "endMs": 6780
+    },
+    {
+      "w": "single",
+      "startMs": 6838,
+      "endMs": 7175
+    },
+    {
+      "w": "month.",
+      "startMs": 7221,
+      "endMs": 7628
+    },
+    {
+      "w": "Wiz",
+      "startMs": 8069,
+      "endMs": 8313
+    },
+    {
+      "w": "and",
+      "startMs": 8371,
+      "endMs": 8440
+    },
+    {
+      "w": "others",
+      "startMs": 8487,
+      "endMs": 8742
+    },
+    {
+      "w": "started",
+      "startMs": 8789,
+      "endMs": 9079
+    },
+    {
+      "w": "calling",
+      "startMs": 9125,
+      "endMs": 9427
+    },
+    {
+      "w": "it",
+      "startMs": 9474,
+      "endMs": 9543
+    },
+    {
+      "w": "Black",
+      "startMs": 9601,
+      "endMs": 9903
+    },
+    {
+      "w": "October.",
+      "startMs": 9973,
+      "endMs": 10774
+    }
+  ],
+  "file": "4e14f70d205c3819ea64e7ff878d6a2341553e3ef365b9782604b7137eaca86c.mp3"
+}

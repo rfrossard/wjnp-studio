@@ -1,0 +1,177 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 10124,
+  "words": [
+    {
+      "w": "So",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "w": "what",
+      "startMs": 255,
+      "endMs": 395
+    },
+    {
+      "w": "if",
+      "startMs": 430,
+      "endMs": 499
+    },
+    {
+      "w": "the",
+      "startMs": 546,
+      "endMs": 615
+    },
+    {
+      "w": "next",
+      "startMs": 673,
+      "endMs": 894
+    },
+    {
+      "w": "big",
+      "startMs": 964,
+      "endMs": 1138
+    },
+    {
+      "w": "leap",
+      "startMs": 1207,
+      "endMs": 1405
+    },
+    {
+      "w": "isn't",
+      "startMs": 1463,
+      "endMs": 1672
+    },
+    {
+      "w": "a",
+      "startMs": 1695,
+      "endMs": 1718
+    },
+    {
+      "w": "smarter",
+      "startMs": 1753,
+      "endMs": 2078
+    },
+    {
+      "w": "model?",
+      "startMs": 2125,
+      "endMs": 2566
+    },
+    {
+      "w": "What",
+      "startMs": 3077,
+      "endMs": 3262
+    },
+    {
+      "w": "if",
+      "startMs": 3297,
+      "endMs": 3355
+    },
+    {
+      "w": "it's",
+      "startMs": 3390,
+      "endMs": 3506
+    },
+    {
+      "w": "learning",
+      "startMs": 3553,
+      "endMs": 3785
+    },
+    {
+      "w": "to",
+      "startMs": 3820,
+      "endMs": 3866
+    },
+    {
+      "w": "use",
+      "startMs": 3924,
+      "endMs": 4052
+    },
+    {
+      "w": "the",
+      "startMs": 4075,
+      "endMs": 4145
+    },
+    {
+      "w": "ones",
+      "startMs": 4214,
+      "endMs": 4400
+    },
+    {
+      "w": "we",
+      "startMs": 4447,
+      "endMs": 4528
+    },
+    {
+      "w": "already",
+      "startMs": 4598,
+      "endMs": 4888
+    },
+    {
+      "w": "have,",
+      "startMs": 4946,
+      "endMs": 5317
+    },
+    {
+      "w": "safely?",
+      "startMs": 5387,
+      "endMs": 6072
+    },
+    {
+      "w": "What",
+      "startMs": 6676,
+      "endMs": 6850
+    },
+    {
+      "w": "if",
+      "startMs": 6885,
+      "endMs": 6954
+    },
+    {
+      "w": "governance",
+      "startMs": 7024,
+      "endMs": 7465
+    },
+    {
+      "w": "is",
+      "startMs": 7488,
+      "endMs": 7570
+    },
+    {
+      "w": "what",
+      "startMs": 7616,
+      "endMs": 7744
+    },
+    {
+      "w": "lets",
+      "startMs": 7802,
+      "endMs": 7976
+    },
+    {
+      "w": "us",
+      "startMs": 8022,
+      "endMs": 8092
+    },
+    {
+      "w": "move",
+      "startMs": 8162,
+      "endMs": 8371
+    },
+    {
+      "w": "faster,",
+      "startMs": 8429,
+      "endMs": 9033
+    },
+    {
+      "w": "not",
+      "startMs": 9207,
+      "endMs": 9392
+    },
+    {
+      "w": "slower?",
+      "startMs": 9439,
+      "endMs": 10124
+    }
+  ],
+  "file": "a67f1969cb0dfafec709a13ea1878059318c3ef3ef4db4987d428d840c21d702.mp3"
+}

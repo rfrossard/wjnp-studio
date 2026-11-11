@@ -1,0 +1,152 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 13096,
+  "words": [
+    {
+      "w": "Since",
+      "startMs": 0,
+      "endMs": 302
+    },
+    {
+      "w": "September,",
+      "startMs": 337,
+      "endMs": 1091
+    },
+    {
+      "w": "a",
+      "startMs": 1207,
+      "endMs": 1277
+    },
+    {
+      "w": "China",
+      "startMs": 1347,
+      "endMs": 1637
+    },
+    {
+      "w": "aligned",
+      "startMs": 1683,
+      "endMs": 2032
+    },
+    {
+      "w": "group",
+      "startMs": 2078,
+      "endMs": 2310
+    },
+    {
+      "w": "used",
+      "startMs": 2380,
+      "endMs": 2612
+    },
+    {
+      "w": "an",
+      "startMs": 2647,
+      "endMs": 2717
+    },
+    {
+      "w": "AI",
+      "startMs": 2798,
+      "endMs": 3100
+    },
+    {
+      "w": "agent",
+      "startMs": 3158,
+      "endMs": 3437
+    },
+    {
+      "w": "framework",
+      "startMs": 3471,
+      "endMs": 3866
+    },
+    {
+      "w": "called",
+      "startMs": 3913,
+      "endMs": 4180
+    },
+    {
+      "w": "ARTEX",
+      "startMs": 4272,
+      "endMs": 4957
+    },
+    {
+      "w": "to",
+      "startMs": 5283,
+      "endMs": 5375
+    },
+    {
+      "w": "reach",
+      "startMs": 5457,
+      "endMs": 5654
+    },
+    {
+      "w": "over",
+      "startMs": 5712,
+      "endMs": 5909
+    },
+    {
+      "w": "2,250",
+      "startMs": 6026,
+      "endMs": 7326
+    },
+    {
+      "w": "Microsoft",
+      "startMs": 7442,
+      "endMs": 8081
+    },
+    {
+      "w": "365",
+      "startMs": 8127,
+      "endMs": 8905
+    },
+    {
+      "w": "tenants.",
+      "startMs": 8963,
+      "endMs": 9509
+    },
+    {
+      "w": "Privileged",
+      "startMs": 9950,
+      "endMs": 10437
+    },
+    {
+      "w": "access",
+      "startMs": 10507,
+      "endMs": 10971
+    },
+    {
+      "w": "in",
+      "startMs": 11006,
+      "endMs": 11064
+    },
+    {
+      "w": "under",
+      "startMs": 11122,
+      "endMs": 11285
+    },
+    {
+      "w": "three",
+      "startMs": 11343,
+      "endMs": 11552
+    },
+    {
+      "w": "hours,",
+      "startMs": 11587,
+      "endMs": 11981
+    },
+    {
+      "w": "in",
+      "startMs": 12005,
+      "endMs": 12074
+    },
+    {
+      "w": "some",
+      "startMs": 12121,
+      "endMs": 12295
+    },
+    {
+      "w": "cases.",
+      "startMs": 12330,
+      "endMs": 13096
+    }
+  ],
+  "file": "f0d2d63ca9280690c6b6c3878f511942ca03c97621132304b2ecb36a7c5dfd70.mp3"
+}

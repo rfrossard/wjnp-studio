@@ -23,7 +23,7 @@
       },
       {
         "id": "practitioner_view",
-        "purpose": "The owner's view from years of practice, labelled My take. What changes for the people affected.",
+        "purpose": "The owner's reflection from years of practice, told as an idea or behaviour, never announced as \"My take\". What changes for the people affected.",
         "targetSeconds": 75,
         "templates": ["personal_take", "bullets"]
       },
@@ -65,7 +65,7 @@
       },
       {
         "id": "practitioner_view",
-        "purpose": "The owner's view, labelled My take. Say what he would check first in practice.",
+        "purpose": "The owner's reflection, never announced as \"My take\". Say what he would check first in practice.",
         "targetSeconds": 60,
         "templates": ["personal_take"]
       },

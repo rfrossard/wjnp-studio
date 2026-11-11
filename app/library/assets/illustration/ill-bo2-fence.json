@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo2-fence",
+  "type": "illustration",
+  "title": "Black October v2: robot stepping out of a fenced test field, footprints leading to real houses (day)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:31:45.651736Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "7f88f8728cc2d79cb999e4da3baa4fcfda31cb52c3026f2c73cf97ad8dba6f4a",
+    "path": "7f88f8728cc2d79cb999e4da3baa4fcfda31cb52c3026f2c73cf97ad8dba6f4a",
+    "mime": "image/png",
+    "bytes": 2515976
+  },
+  "data": {
+    "subject": "robot stepping out of a fenced test field, footprints leading to real houses (day)",
+    "note": "background gold corrected from OKLCH hue ~74 to ~82 (spec #F3BF58) to stay clear of the forbidden orange band"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

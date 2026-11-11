@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s06",
+  "type": "illustration",
+  "title": "Black October s06: robot climbing out of a cardboard sandbox toward an office",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.583588Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "3d4f78514f71d69ecf121ef20d180e107fbb6185c50ee0c9bebb1b14a13787c9",
+    "path": "3d4f78514f71d69ecf121ef20d180e107fbb6185c50ee0c9bebb1b14a13787c9",
+    "mime": "image/png",
+    "bytes": 2636431
+  },
+  "data": {
+    "subject": "robot climbing out of a cardboard sandbox toward an office"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "music-measured",
+  "type": "music",
+  "title": "Even Keel",
+  "tags": [
+    "music",
+    "measured"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated instrumental track (Lyria); no vocals, personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:25:19.495Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "937aee5435dc4376926b04c851677c527bc2778a17c0ea9104bb59e8f825347b",
+    "path": "937aee5435dc4376926b04c851677c527bc2778a17c0ea9104bb59e8f825347b",
+    "mime": "audio/mpeg",
+    "bytes": 1478178
+  },
+  "data": {},
+  "usedIn": []
+}

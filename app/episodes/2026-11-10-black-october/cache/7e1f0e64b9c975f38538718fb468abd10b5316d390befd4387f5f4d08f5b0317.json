@@ -1,0 +1,287 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 19087,
+  "words": [
+    {
+      "w": "Plenty",
+      "startMs": 0,
+      "endMs": 337
+    },
+    {
+      "w": "of",
+      "startMs": 372,
+      "endMs": 418
+    },
+    {
+      "w": "people",
+      "startMs": 453,
+      "endMs": 662
+    },
+    {
+      "w": "in",
+      "startMs": 685,
+      "endMs": 743
+    },
+    {
+      "w": "the",
+      "startMs": 766,
+      "endMs": 836
+    },
+    {
+      "w": "industry",
+      "startMs": 859,
+      "endMs": 1173
+    },
+    {
+      "w": "argue",
+      "startMs": 1242,
+      "endMs": 1509
+    },
+    {
+      "w": "that",
+      "startMs": 1533,
+      "endMs": 1625
+    },
+    {
+      "w": "if",
+      "startMs": 1660,
+      "endMs": 1741
+    },
+    {
+      "w": "models",
+      "startMs": 1858,
+      "endMs": 2206
+    },
+    {
+      "w": "froze",
+      "startMs": 2252,
+      "endMs": 2496
+    },
+    {
+      "w": "today,",
+      "startMs": 2531,
+      "endMs": 2810
+    },
+    {
+      "w": "it",
+      "startMs": 2833,
+      "endMs": 2879
+    },
+    {
+      "w": "would",
+      "startMs": 2902,
+      "endMs": 3030
+    },
+    {
+      "w": "take",
+      "startMs": 3053,
+      "endMs": 3239
+    },
+    {
+      "w": "years",
+      "startMs": 3320,
+      "endMs": 3611
+    },
+    {
+      "w": "to",
+      "startMs": 3657,
+      "endMs": 3715
+    },
+    {
+      "w": "extract",
+      "startMs": 3785,
+      "endMs": 4133
+    },
+    {
+      "w": "everything",
+      "startMs": 4226,
+      "endMs": 4656
+    },
+    {
+      "w": "this",
+      "startMs": 4690,
+      "endMs": 4807
+    },
+    {
+      "w": "generation",
+      "startMs": 4865,
+      "endMs": 5317
+    },
+    {
+      "w": "can",
+      "startMs": 5364,
+      "endMs": 5480
+    },
+    {
+      "w": "do.",
+      "startMs": 5526,
+      "endMs": 5886
+    },
+    {
+      "w": "In",
+      "startMs": 7187,
+      "endMs": 7314
+    },
+    {
+      "w": "September,",
+      "startMs": 7372,
+      "endMs": 7883
+    },
+    {
+      "w": "Anthropic's",
+      "startMs": 7918,
+      "endMs": 8638
+    },
+    {
+      "w": "CEO",
+      "startMs": 8754,
+      "endMs": 9300
+    },
+    {
+      "w": "Dario",
+      "startMs": 9392,
+      "endMs": 9822
+    },
+    {
+      "w": "Amodei",
+      "startMs": 9903,
+      "endMs": 10565
+    },
+    {
+      "w": "called",
+      "startMs": 10948,
+      "endMs": 11192
+    },
+    {
+      "w": "for",
+      "startMs": 11227,
+      "endMs": 11378
+    },
+    {
+      "w": "pacing",
+      "startMs": 11494,
+      "endMs": 11900
+    },
+    {
+      "w": "the",
+      "startMs": 11947,
+      "endMs": 12016
+    },
+    {
+      "w": "frontier,",
+      "startMs": 12051,
+      "endMs": 12666
+    },
+    {
+      "w": "slowing",
+      "startMs": 12945,
+      "endMs": 13317
+    },
+    {
+      "w": "how",
+      "startMs": 13363,
+      "endMs": 13468
+    },
+    {
+      "w": "fast",
+      "startMs": 13549,
+      "endMs": 13828
+    },
+    {
+      "w": "capabilities",
+      "startMs": 13886,
+      "endMs": 14455
+    },
+    {
+      "w": "grow,",
+      "startMs": 14501,
+      "endMs": 14931
+    },
+    {
+      "w": "and",
+      "startMs": 15082,
+      "endMs": 15233
+    },
+    {
+      "w": "using",
+      "startMs": 15314,
+      "endMs": 15569
+    },
+    {
+      "w": "that",
+      "startMs": 15616,
+      "endMs": 15732
+    },
+    {
+      "w": "time",
+      "startMs": 15767,
+      "endMs": 15964
+    },
+    {
+      "w": "wisely.",
+      "startMs": 15999,
+      "endMs": 16382
+    },
+    {
+      "w": "That's",
+      "startMs": 16405,
+      "endMs": 16556
+    },
+    {
+      "w": "not",
+      "startMs": 16603,
+      "endMs": 16730
+    },
+    {
+      "w": "a",
+      "startMs": 16754,
+      "endMs": 16777
+    },
+    {
+      "w": "call",
+      "startMs": 16812,
+      "endMs": 16939
+    },
+    {
+      "w": "to",
+      "startMs": 16986,
+      "endMs": 17032
+    },
+    {
+      "w": "stop.",
+      "startMs": 17067,
+      "endMs": 17462
+    },
+    {
+      "w": "It's",
+      "startMs": 17787,
+      "endMs": 17961
+    },
+    {
+      "w": "a",
+      "startMs": 17984,
+      "endMs": 18007
+    },
+    {
+      "w": "call",
+      "startMs": 18042,
+      "endMs": 18193
+    },
+    {
+      "w": "to",
+      "startMs": 18240,
+      "endMs": 18286
+    },
+    {
+      "w": "catch",
+      "startMs": 18333,
+      "endMs": 18541
+    },
+    {
+      "w": "up.",
+      "startMs": 18600,
+      "endMs": 19087
+    }
+  ],
+  "file": "7e1f0e64b9c975f38538718fb468abd10b5316d390befd4387f5f4d08f5b0317.mp3"
+}

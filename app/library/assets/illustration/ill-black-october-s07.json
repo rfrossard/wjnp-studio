@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s07",
+  "type": "illustration",
+  "title": "Black October s07: game controller beside a stack of blank ID cards floating away",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.586642Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "1fe410d38c484734af70426c426f8ee38c6af9331df64d45c39be13e8e29a98f",
+    "path": "1fe410d38c484734af70426c426f8ee38c6af9331df64d45c39be13e8e29a98f",
+    "mime": "image/png",
+    "bytes": 2583208
+  },
+  "data": {
+    "subject": "game controller beside a stack of blank ID cards floating away"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

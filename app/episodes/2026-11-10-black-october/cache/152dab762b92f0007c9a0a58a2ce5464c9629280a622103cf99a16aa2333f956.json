@@ -1,0 +1,217 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 15280,
+  "words": [
+    {
+      "w": "Here",
+      "startMs": 176,
+      "endMs": 240
+    },
+    {
+      "w": "is",
+      "startMs": 267,
+      "endMs": 320
+    },
+    {
+      "w": "the",
+      "startMs": 360,
+      "endMs": 480
+    },
+    {
+      "w": "report.",
+      "startMs": 549,
+      "endMs": 1040
+    },
+    {
+      "w": "In",
+      "startMs": 1147,
+      "endMs": 1360
+    },
+    {
+      "w": "October",
+      "startMs": 1420,
+      "endMs": 1840
+    },
+    {
+      "w": "2026,",
+      "startMs": 1920,
+      "endMs": 2960
+    },
+    {
+      "w": "at",
+      "startMs": 3013,
+      "endMs": 3120
+    },
+    {
+      "w": "least",
+      "startMs": 3173,
+      "endMs": 3440
+    },
+    {
+      "w": "nine",
+      "startMs": 3504,
+      "endMs": 3760
+    },
+    {
+      "w": "AI",
+      "startMs": 3867,
+      "endMs": 4080
+    },
+    {
+      "w": "development",
+      "startMs": 4120,
+      "endMs": 4560
+    },
+    {
+      "w": "platforms",
+      "startMs": 4624,
+      "endMs": 5200
+    },
+    {
+      "w": "disclosed",
+      "startMs": 5256,
+      "endMs": 5760
+    },
+    {
+      "w": "security",
+      "startMs": 5813,
+      "endMs": 6240
+    },
+    {
+      "w": "incidents",
+      "startMs": 6288,
+      "endMs": 6720
+    },
+    {
+      "w": "in",
+      "startMs": 6773,
+      "endMs": 6880
+    },
+    {
+      "w": "a",
+      "startMs": 6960,
+      "endMs": 7040
+    },
+    {
+      "w": "single",
+      "startMs": 7074,
+      "endMs": 7280
+    },
+    {
+      "w": "month.",
+      "startMs": 7347,
+      "endMs": 8320
+    },
+    {
+      "w": "Not",
+      "startMs": 8380,
+      "endMs": 8560
+    },
+    {
+      "w": "one",
+      "startMs": 8600,
+      "endMs": 8720
+    },
+    {
+      "w": "big",
+      "startMs": 8760,
+      "endMs": 8880
+    },
+    {
+      "w": "breach,",
+      "startMs": 8937,
+      "endMs": 9360
+    },
+    {
+      "w": "but",
+      "startMs": 9380,
+      "endMs": 9440
+    },
+    {
+      "w": "a",
+      "startMs": 9480,
+      "endMs": 9520
+    },
+    {
+      "w": "cluster",
+      "startMs": 9570,
+      "endMs": 9920
+    },
+    {
+      "w": "of",
+      "startMs": 9973,
+      "endMs": 10080
+    },
+    {
+      "w": "them,",
+      "startMs": 10112,
+      "endMs": 10480
+    },
+    {
+      "w": "all",
+      "startMs": 10540,
+      "endMs": 10720
+    },
+    {
+      "w": "inside",
+      "startMs": 10766,
+      "endMs": 11040
+    },
+    {
+      "w": "a",
+      "startMs": 11080,
+      "endMs": 11120
+    },
+    {
+      "w": "few",
+      "startMs": 11160,
+      "endMs": 11280
+    },
+    {
+      "w": "weeks.",
+      "startMs": 11347,
+      "endMs": 11760
+    },
+    {
+      "w": "Wiz",
+      "startMs": 12160,
+      "endMs": 12800
+    },
+    {
+      "w": "and",
+      "startMs": 12840,
+      "endMs": 12960
+    },
+    {
+      "w": "others",
+      "startMs": 13017,
+      "endMs": 13360
+    },
+    {
+      "w": "started",
+      "startMs": 13410,
+      "endMs": 13760
+    },
+    {
+      "w": "calling",
+      "startMs": 13800,
+      "endMs": 14080
+    },
+    {
+      "w": "it",
+      "startMs": 14133,
+      "endMs": 14240
+    },
+    {
+      "w": "Black",
+      "startMs": 14307,
+      "endMs": 14640
+    },
+    {
+      "w": "October.",
+      "startMs": 14710,
+      "endMs": 15280
+    }
+  ],
+  "file": "152dab762b92f0007c9a0a58a2ce5464c9629280a622103cf99a16aa2333f956.mp3"
+}

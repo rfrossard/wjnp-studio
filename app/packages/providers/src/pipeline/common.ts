@@ -29,7 +29,7 @@ export interface PipelineDeps {
   promptsDir?: string;
 }
 
-export const DEFAULT_TAIL_FRAMES = 20;
+export const DEFAULT_TAIL_FRAMES = 30; // 1 s breath between scenes (was 20; 2026-11-10, owner voice reads faster)
 
 export const clone = <T>(x: T): T => structuredClone(x);
 

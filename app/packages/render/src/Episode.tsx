@@ -11,6 +11,14 @@ import { Captions, FooterMark, Progress, SourceChip } from "./overlays";
 import { SceneTransition } from "./Transition";
 import { TRANSITION_FRAMES } from "./Transition";
 import { TEMPLATES } from "./scenes";
+import { ComicOverlay, ComicPanel, NewscastLowerThird, NewscastTicker, newscastBlocks, skinGeometry, skinOf } from "./skins";
+import { PapercutBackdrop, papercutVariant } from "./papercut";
+
+const illustrationSrc = (scene: Scene, resolved: ResolvedAssets): string | undefined => {
+  const id = (scene as { skin?: { illustration?: string } }).skin?.illustration;
+  const rel = id ? resolved.images?.[id] : undefined;
+  return rel ? staticFile(rel) : undefined;
+};
 
 export const SceneView: React.FC<{
   scene: Scene;
@@ -22,25 +30,40 @@ export const SceneView: React.FC<{
   toneOverride?: "light" | "dark";
   /** The transition layer paints a scene a second time; only the base layer carries its audio. */
   silent?: boolean;
-}> = ({ scene, episode, layout, accent, tokens, resolved, toneOverride, silent }) => {
+  /** frame at which this scene starts in the output, so papercut motion runs on across cuts */
+  globalFrom?: number;
+}> = ({ scene, episode, layout, accent, tokens, resolved, toneOverride, silent, globalFrom = 0 }) => {
   const base = geometry(layout);
   // The chip row is reserved only when the scene cites a publisher; otherwise it goes back to
   // the content box, so an uncited scene does not carry an empty band above its content.
-  const geo = scenePublishers(episode, scene).length
+  const kind = skinOf(scene);
+  const chipped = scenePublishers(episode, scene).length || kind === "comic"
     ? base
     : { ...base, content: { ...base.content, y: base.chip.y, h: base.content.h + (base.content.y - base.chip.y) } };
+  const geo = skinGeometry(chipped, scene);
   const sceneTone = SCENE_TONE[scene.onScreen.template] ?? "light";
-  const tone = toneOverride ?? sceneTone;
+  // a comic panel is printed on paper, whatever the preset's tone
+  const variant = kind === "papercut" ? papercutVariant(scene) : undefined;
+  const tone = kind === "comic" ? "light" : variant ? (variant === "night" ? "dark" : "light") : toneOverride ?? sceneTone;
   const theme = makeTheme(tone, accent);
-  const props: SceneProps = { scene, episode, layout, geo, theme, tokens, resolved };
+  // papercut: captions and the mark sit on the dark water band, whatever the sky
+  const bandTheme = variant ? makeTheme("dark", accent) : theme;
+  // comic lettering is a heavy sans, never the preset's mono display face
+  // comic and papercut are hand-made looks: a heavy sans, never the preset's mono display face
+  const sTokens = kind === "comic" || kind === "papercut" ? { ...tokens, type: { ...tokens.type, display: tokens.type.text } } : tokens;
+  const props: SceneProps = { scene, episode, layout, geo, theme, tokens: sTokens, resolved };
   const T = TEMPLATES[scene.onScreen.template];
   const narr = resolved.narration[scene.id];
   return (
     <AbsoluteFill style={{ background: theme.bg, overflow: "hidden" }}>
+      {kind === "comic" ? <ComicPanel geo={geo} accent={accent} /> : null}
+      {variant ? <PapercutBackdrop geo={geo} variant={variant} globalFrom={globalFrom} image={illustrationSrc(scene, resolved)} /> : null}
       <T {...props} />
+      {kind === "comic" ? <ComicOverlay scene={scene} geo={geo} tokens={sTokens} /> : null}
+      {kind === "newscast" ? <NewscastLowerThird scene={scene} episode={episode} geo={geo} theme={theme} tokens={tokens} /> : null}
       <SourceChip {...props} />
-      <FooterMark {...props} />
-      <Captions {...props} captionStyle={episode.design.captionStyle ?? "box"} />
+      <FooterMark {...props} theme={bandTheme} />
+      <Captions {...props} theme={bandTheme} captionStyle={episode.design.captionStyle ?? "highlight"} />
       {narr && !silent ? <Audio src={staticFile(narr)} /> : null}
     </AbsoluteFill>
   );
@@ -76,11 +99,13 @@ export const EpisodeVideo: React.FC<RenderProps & { kind: OutputKind; layout: La
       return { scene: s, from, dur };
     });
   }, [scenes]);
+  const newsBlocks = useMemo(() => newscastBlocks(placed), [placed]);
   const tKind = presetCfg.transition;
   const tFrames = TRANSITION_FRAMES[tKind];
   const tone = tokens.preset?.defaultTone;
+  const fromOf = (s: Scene) => placed.find((p) => p.scene.id === s.id)?.from ?? 0;
   const view = (s: Scene, silent?: boolean) => (
-    <SceneView scene={s} episode={episode} layout={layout} accent={accent} tokens={tokens} resolved={resolved} toneOverride={tone} silent={silent} />
+    <SceneView scene={s} episode={episode} layout={layout} accent={accent} tokens={tokens} resolved={resolved} toneOverride={tone} silent={silent} globalFrom={fromOf(s)} />
   );
   return (
     <AbsoluteFill style={{ background: tokens.neutrals.ink! }}>
@@ -113,6 +138,7 @@ export const EpisodeVideo: React.FC<RenderProps & { kind: OutputKind; layout: La
             );
           })
         : null}
+      <NewscastTicker episode={episode} scenes={scenes} blocks={newsBlocks} geo={geo} accent={accent} tokens={tokens} />
       <Progress globalFrame={frame} total={total} rect={geo.progress} accent={accent} track="rgba(128,128,128,0.35)" />
       {resolved.music[0] ? <Audio src={staticFile(resolved.music[0])} loop volume={(f) => musicVolumeAt(f, windows, total)} /> : null}
     </AbsoluteFill>

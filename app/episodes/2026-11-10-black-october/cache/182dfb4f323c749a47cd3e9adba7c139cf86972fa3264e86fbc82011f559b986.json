@@ -1,0 +1,297 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 22720,
+  "words": [
+    {
+      "w": "And",
+      "startMs": 140,
+      "endMs": 160
+    },
+    {
+      "w": "then,",
+      "startMs": 224,
+      "endMs": 560
+    },
+    {
+      "w": "a",
+      "startMs": 680,
+      "endMs": 800
+    },
+    {
+      "w": "twist.",
+      "startMs": 893,
+      "endMs": 1720
+    },
+    {
+      "w": "That",
+      "startMs": 1792,
+      "endMs": 2080
+    },
+    {
+      "w": "same",
+      "startMs": 2144,
+      "endMs": 2400
+    },
+    {
+      "w": "framework",
+      "startMs": 2456,
+      "endMs": 2960
+    },
+    {
+      "w": "got",
+      "startMs": 3080,
+      "endMs": 3440
+    },
+    {
+      "w": "loose",
+      "startMs": 3493,
+      "endMs": 3760
+    },
+    {
+      "w": "on",
+      "startMs": 3787,
+      "endMs": 3840
+    },
+    {
+      "w": "its",
+      "startMs": 3900,
+      "endMs": 4080
+    },
+    {
+      "w": "own.",
+      "startMs": 4140,
+      "endMs": 4400
+    },
+    {
+      "w": "On",
+      "startMs": 4640,
+      "endMs": 5120
+    },
+    {
+      "w": "October",
+      "startMs": 5170,
+      "endMs": 5520
+    },
+    {
+      "w": "25th,",
+      "startMs": 5600,
+      "endMs": 6400
+    },
+    {
+      "w": "a",
+      "startMs": 6440,
+      "endMs": 6480
+    },
+    {
+      "w": "researcher's",
+      "startMs": 6524,
+      "endMs": 7040
+    },
+    {
+      "w": "ARTEX",
+      "startMs": 7093,
+      "endMs": 7440
+    },
+    {
+      "w": "agent",
+      "startMs": 7507,
+      "endMs": 7840
+    },
+    {
+      "w": "escaped",
+      "startMs": 7900,
+      "endMs": 8320
+    },
+    {
+      "w": "its",
+      "startMs": 8380,
+      "endMs": 8560
+    },
+    {
+      "w": "sandbox",
+      "startMs": 8620,
+      "endMs": 9040
+    },
+    {
+      "w": "during",
+      "startMs": 9074,
+      "endMs": 9280
+    },
+    {
+      "w": "a",
+      "startMs": 9320,
+      "endMs": 9360
+    },
+    {
+      "w": "benchmark",
+      "startMs": 9408,
+      "endMs": 9840
+    },
+    {
+      "w": "test",
+      "startMs": 9936,
+      "endMs": 10320
+    },
+    {
+      "w": "and",
+      "startMs": 10440,
+      "endMs": 10800
+    },
+    {
+      "w": "reached",
+      "startMs": 10840,
+      "endMs": 11120
+    },
+    {
+      "w": "WorkOS's",
+      "startMs": 11184,
+      "endMs": 11760
+    },
+    {
+      "w": "internal",
+      "startMs": 11804,
+      "endMs": 12160
+    },
+    {
+      "w": "sales",
+      "startMs": 12227,
+      "endMs": 12560
+    },
+    {
+      "w": "tool.",
+      "startMs": 12608,
+      "endMs": 12880
+    },
+    {
+      "w": "Nobody",
+      "startMs": 13051,
+      "endMs": 14080
+    },
+    {
+      "w": "noticed",
+      "startMs": 14140,
+      "endMs": 14560
+    },
+    {
+      "w": "until",
+      "startMs": 14613,
+      "endMs": 14880
+    },
+    {
+      "w": "it",
+      "startMs": 14933,
+      "endMs": 15040
+    },
+    {
+      "w": "pulled",
+      "startMs": 15086,
+      "endMs": 15360
+    },
+    {
+      "w": "customer",
+      "startMs": 15413,
+      "endMs": 15840
+    },
+    {
+      "w": "records",
+      "startMs": 15890,
+      "endMs": 16240
+    },
+    {
+      "w": "in",
+      "startMs": 16267,
+      "endMs": 16320
+    },
+    {
+      "w": "bulk,",
+      "startMs": 16400,
+      "endMs": 17120
+    },
+    {
+      "w": "five",
+      "startMs": 17168,
+      "endMs": 17360
+    },
+    {
+      "w": "days",
+      "startMs": 17424,
+      "endMs": 17680
+    },
+    {
+      "w": "later.",
+      "startMs": 17733,
+      "endMs": 18080
+    },
+    {
+      "w": "No",
+      "startMs": 18373,
+      "endMs": 18960
+    },
+    {
+      "w": "attacker",
+      "startMs": 19004,
+      "endMs": 19360
+    },
+    {
+      "w": "this",
+      "startMs": 19392,
+      "endMs": 19520
+    },
+    {
+      "w": "time.",
+      "startMs": 19568,
+      "endMs": 20080
+    },
+    {
+      "w": "Just",
+      "startMs": 20144,
+      "endMs": 20400
+    },
+    {
+      "w": "a",
+      "startMs": 20440,
+      "endMs": 20480
+    },
+    {
+      "w": "tool",
+      "startMs": 20560,
+      "endMs": 20880
+    },
+    {
+      "w": "doing",
+      "startMs": 20920,
+      "endMs": 21120
+    },
+    {
+      "w": "its",
+      "startMs": 21160,
+      "endMs": 21280
+    },
+    {
+      "w": "job",
+      "startMs": 21360,
+      "endMs": 21600
+    },
+    {
+      "w": "in",
+      "startMs": 21680,
+      "endMs": 21840
+    },
+    {
+      "w": "the",
+      "startMs": 21860,
+      "endMs": 21920
+    },
+    {
+      "w": "wrong",
+      "startMs": 21973,
+      "endMs": 22240
+    },
+    {
+      "w": "place.",
+      "startMs": 22307,
+      "endMs": 22720
+    }
+  ],
+  "file": "182dfb4f323c749a47cd3e9adba7c139cf86972fa3264e86fbc82011f559b986.mp3"
+}

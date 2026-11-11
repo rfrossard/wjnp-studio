@@ -1,0 +1,262 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 19133,
+  "words": [
+    {
+      "w": "And",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "w": "it",
+      "startMs": 267,
+      "endMs": 325
+    },
+    {
+      "w": "wasn't",
+      "startMs": 360,
+      "endMs": 627
+    },
+    {
+      "w": "one",
+      "startMs": 685,
+      "endMs": 871
+    },
+    {
+      "w": "lab,",
+      "startMs": 929,
+      "endMs": 1277
+    },
+    {
+      "w": "or",
+      "startMs": 1312,
+      "endMs": 1509
+    },
+    {
+      "w": "one",
+      "startMs": 1625,
+      "endMs": 1811
+    },
+    {
+      "w": "tester.",
+      "startMs": 1858,
+      "endMs": 2473
+    },
+    {
+      "w": "In",
+      "startMs": 3587,
+      "endMs": 3715
+    },
+    {
+      "w": "late",
+      "startMs": 3773,
+      "endMs": 3959
+    },
+    {
+      "w": "July,",
+      "startMs": 3994,
+      "endMs": 4342
+    },
+    {
+      "w": "the",
+      "startMs": 4365,
+      "endMs": 4435
+    },
+    {
+      "w": "UK",
+      "startMs": 4528,
+      "endMs": 4760
+    },
+    {
+      "w": "AI",
+      "startMs": 4934,
+      "endMs": 5178
+    },
+    {
+      "w": "Security",
+      "startMs": 5294,
+      "endMs": 5724
+    },
+    {
+      "w": "Institute",
+      "startMs": 5770,
+      "endMs": 6153
+    },
+    {
+      "w": "logged",
+      "startMs": 6188,
+      "endMs": 6455
+    },
+    {
+      "w": "19",
+      "startMs": 6536,
+      "endMs": 7059
+    },
+    {
+      "w": "actions",
+      "startMs": 7117,
+      "endMs": 7605
+    },
+    {
+      "w": "that",
+      "startMs": 7814,
+      "endMs": 7964
+    },
+    {
+      "w": "went",
+      "startMs": 7999,
+      "endMs": 8162
+    },
+    {
+      "w": "beyond",
+      "startMs": 8220,
+      "endMs": 8603
+    },
+    {
+      "w": "what",
+      "startMs": 8673,
+      "endMs": 8800
+    },
+    {
+      "w": "its",
+      "startMs": 8835,
+      "endMs": 8951
+    },
+    {
+      "w": "test",
+      "startMs": 8998,
+      "endMs": 9242
+    },
+    {
+      "w": "allowed.",
+      "startMs": 9288,
+      "endMs": 9822
+    },
+    {
+      "w": "17",
+      "startMs": 11122,
+      "endMs": 11680
+    },
+    {
+      "w": "from",
+      "startMs": 11738,
+      "endMs": 11854
+    },
+    {
+      "w": "Mythos",
+      "startMs": 11877,
+      "endMs": 12167
+    },
+    {
+      "w": "5,",
+      "startMs": 12260,
+      "endMs": 12574
+    },
+    {
+      "w": "two",
+      "startMs": 12608,
+      "endMs": 12771
+    },
+    {
+      "w": "from",
+      "startMs": 12829,
+      "endMs": 12945
+    },
+    {
+      "w": "an",
+      "startMs": 12980,
+      "endMs": 13026
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 13073,
+      "endMs": 13491
+    },
+    {
+      "w": "model.",
+      "startMs": 13537,
+      "endMs": 14083
+    },
+    {
+      "w": "Days",
+      "startMs": 14594,
+      "endMs": 14838
+    },
+    {
+      "w": "later,",
+      "startMs": 14896,
+      "endMs": 15139
+    },
+    {
+      "w": "Meta",
+      "startMs": 15163,
+      "endMs": 15337
+    },
+    {
+      "w": "said",
+      "startMs": 15395,
+      "endMs": 15546
+    },
+    {
+      "w": "one",
+      "startMs": 15604,
+      "endMs": 15708
+    },
+    {
+      "w": "of",
+      "startMs": 15732,
+      "endMs": 15778
+    },
+    {
+      "w": "its",
+      "startMs": 15813,
+      "endMs": 15917
+    },
+    {
+      "w": "models",
+      "startMs": 15975,
+      "endMs": 16289
+    },
+    {
+      "w": "had",
+      "startMs": 16335,
+      "endMs": 16440
+    },
+    {
+      "w": "hacked",
+      "startMs": 16486,
+      "endMs": 16718
+    },
+    {
+      "w": "a",
+      "startMs": 16742,
+      "endMs": 16765
+    },
+    {
+      "w": "company",
+      "startMs": 16811,
+      "endMs": 17206
+    },
+    {
+      "w": "during",
+      "startMs": 17415,
+      "endMs": 17682
+    },
+    {
+      "w": "a",
+      "startMs": 17728,
+      "endMs": 17752
+    },
+    {
+      "w": "misconfigured",
+      "startMs": 17821,
+      "endMs": 18460
+    },
+    {
+      "w": "test.",
+      "startMs": 18483,
+      "endMs": 19133
+    }
+  ],
+  "file": "024699a24f262b8cb7cff7073e9b704d9011dc7004a140c3199e4fb902e506f3.mp3"
+}

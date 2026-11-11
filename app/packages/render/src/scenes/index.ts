@@ -4,6 +4,7 @@ import type { SceneProps } from "../common";
 import { Bullets } from "./Bullets";
 import { Clip } from "./Clip";
 import { Comparison } from "./Comparison";
+import { ConceptChart } from "./ConceptChart";
 import { EndCard } from "./EndCard";
 import { PersonalTake } from "./PersonalTake";
 import { QuoteCard } from "./QuoteCard";
@@ -23,4 +24,5 @@ export const TEMPLATES: Record<TemplateId, React.FC<SceneProps>> = {
   clip: Clip,
   personal_take: PersonalTake,
   end_card: EndCard,
+  concept_chart: ConceptChart,
 };

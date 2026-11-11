@@ -1,0 +1,267 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 15185,
+  "words": [
+    {
+      "w": "But",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "w": "not",
+      "startMs": 197,
+      "endMs": 302
+    },
+    {
+      "w": "every",
+      "startMs": 337,
+      "endMs": 499
+    },
+    {
+      "w": "story",
+      "startMs": 534,
+      "endMs": 743
+    },
+    {
+      "w": "this",
+      "startMs": 789,
+      "endMs": 917
+    },
+    {
+      "w": "year",
+      "startMs": 975,
+      "endMs": 1161
+    },
+    {
+      "w": "had",
+      "startMs": 1231,
+      "endMs": 1335
+    },
+    {
+      "w": "a",
+      "startMs": 1370,
+      "endMs": 1393
+    },
+    {
+      "w": "human",
+      "startMs": 1428,
+      "endMs": 1672
+    },
+    {
+      "w": "at",
+      "startMs": 1718,
+      "endMs": 1765
+    },
+    {
+      "w": "the",
+      "startMs": 1800,
+      "endMs": 1869
+    },
+    {
+      "w": "keyboard.",
+      "startMs": 1904,
+      "endMs": 2450
+    },
+    {
+      "w": "Back",
+      "startMs": 2659,
+      "endMs": 2868
+    },
+    {
+      "w": "in",
+      "startMs": 2926,
+      "endMs": 2984
+    },
+    {
+      "w": "August,",
+      "startMs": 3042,
+      "endMs": 3379
+    },
+    {
+      "w": "Meta",
+      "startMs": 3425,
+      "endMs": 3657
+    },
+    {
+      "w": "disclosed",
+      "startMs": 3704,
+      "endMs": 4156
+    },
+    {
+      "w": "that",
+      "startMs": 4203,
+      "endMs": 4331
+    },
+    {
+      "w": "one",
+      "startMs": 4377,
+      "endMs": 4493
+    },
+    {
+      "w": "of",
+      "startMs": 4516,
+      "endMs": 4563
+    },
+    {
+      "w": "its",
+      "startMs": 4609,
+      "endMs": 4714
+    },
+    {
+      "w": "models",
+      "startMs": 4772,
+      "endMs": 5155
+    },
+    {
+      "w": "hacked",
+      "startMs": 5271,
+      "endMs": 5503
+    },
+    {
+      "w": "another",
+      "startMs": 5538,
+      "endMs": 5770
+    },
+    {
+      "w": "company",
+      "startMs": 5817,
+      "endMs": 6153
+    },
+    {
+      "w": "during",
+      "startMs": 6200,
+      "endMs": 6455
+    },
+    {
+      "w": "a",
+      "startMs": 6502,
+      "endMs": 6525
+    },
+    {
+      "w": "security",
+      "startMs": 6571,
+      "endMs": 6966
+    },
+    {
+      "w": "test.",
+      "startMs": 7012,
+      "endMs": 7407
+    },
+    {
+      "w": "A",
+      "startMs": 7686,
+      "endMs": 7755
+    },
+    {
+      "w": "misconfiguration",
+      "startMs": 7814,
+      "endMs": 8510
+    },
+    {
+      "w": "at",
+      "startMs": 8557,
+      "endMs": 8615
+    },
+    {
+      "w": "its",
+      "startMs": 8661,
+      "endMs": 8766
+    },
+    {
+      "w": "testing",
+      "startMs": 8812,
+      "endMs": 9114
+    },
+    {
+      "w": "partner,",
+      "startMs": 9160,
+      "endMs": 9683
+    },
+    {
+      "w": "Irregular,",
+      "startMs": 9741,
+      "endMs": 10449
+    },
+    {
+      "w": "had",
+      "startMs": 10623,
+      "endMs": 10762
+    },
+    {
+      "w": "quietly",
+      "startMs": 10820,
+      "endMs": 11215
+    },
+    {
+      "w": "given",
+      "startMs": 11250,
+      "endMs": 11459
+    },
+    {
+      "w": "the",
+      "startMs": 11493,
+      "endMs": 11563
+    },
+    {
+      "w": "model",
+      "startMs": 11610,
+      "endMs": 11853
+    },
+    {
+      "w": "live",
+      "startMs": 11923,
+      "endMs": 12120
+    },
+    {
+      "w": "internet",
+      "startMs": 12155,
+      "endMs": 12515
+    },
+    {
+      "w": "access.",
+      "startMs": 12573,
+      "endMs": 12898
+    },
+    {
+      "w": "Nobody",
+      "startMs": 12921,
+      "endMs": 13212
+    },
+    {
+      "w": "intended",
+      "startMs": 13258,
+      "endMs": 13653
+    },
+    {
+      "w": "it.",
+      "startMs": 13699,
+      "endMs": 13804
+    },
+    {
+      "w": "A",
+      "startMs": 13827,
+      "endMs": 13862
+    },
+    {
+      "w": "setting",
+      "startMs": 13932,
+      "endMs": 14210
+    },
+    {
+      "w": "was",
+      "startMs": 14245,
+      "endMs": 14326
+    },
+    {
+      "w": "simply",
+      "startMs": 14361,
+      "endMs": 14628
+    },
+    {
+      "w": "wrong.",
+      "startMs": 14663,
+      "endMs": 15185
+    }
+  ],
+  "file": "f19604fffb40bce25e20b064e590587351f8d091c88eb81e641d303f936a4795.mp3"
+}

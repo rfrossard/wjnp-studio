@@ -5,6 +5,7 @@
  * With --stills:    writes one PNG per scene (mid-scene frame) to
  *                   episodes/<id>/out/stills/<vertical|horizontal>/<sceneId>.png
  */
+import { normalizeLoudness } from "./loudness";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
@@ -35,7 +36,7 @@ function findEpisodeDir(root: string, id: string): string {
 
 /** Copy resolvable files into a temp public dir so the bundle can serve them via staticFile(). */
 function resolveAssets(root: string, epDir: string, episode: Episode, kind: OutputKind, pub: string): ResolvedAssets {
-  const res: ResolvedAssets = { narration: {}, clips: {}, music: [] };
+  const res: ResolvedAssets = { narration: {}, clips: {}, music: [], images: {} };
   const take = (candidates: string[], name: string): string | null => {
     for (const c of candidates) {
       if (c && fs.existsSync(c) && fs.statSync(c).isFile()) {
@@ -65,6 +66,13 @@ function resolveAssets(root: string, epDir: string, episode: Episode, kind: Outp
     if (p) {
       const rel = take([path.isAbsolute(p) ? p : "", path.join(epDir, p), path.join(root, p), path.join(epDir, "cache", p), path.join(epDir, "cache", path.basename(p))], `narration/${s.id}`);
       if (rel) res.narration[s.id] = rel;
+    }
+    const ill = (s as { skin?: { illustration?: string } }).skin?.illustration;
+    if (ill && !res.images![ill]) {
+      const a = asset("illustration", ill) as { blob?: { path: string; sha256: string; mime?: string } } | null;
+      const ext = a?.blob?.mime === "image/jpeg" ? ".jpg" : a?.blob?.mime === "image/webp" ? ".webp" : ".png";
+      const rel = take(blobCandidates(a), `images/${ill}${ext}`);
+      if (rel) res.images![ill] = rel;
     }
     if (s.onScreen.template === "clip") {
       const id = s.onScreen.clipAssetId;
@@ -146,6 +154,7 @@ async function main() {
       }
     },
   });
+  normalizeLoudness(output, root);
   console.log("done", path.relative(root, output));
 }
 

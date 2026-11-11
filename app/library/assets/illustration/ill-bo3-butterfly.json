@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo3-butterfly",
+  "type": "illustration",
+  "title": "Black October v3: butterfly effect chain, an AI butterfly whose ripples grow through habits, teams, shops and a crowd with rising expectations (day)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:51:19.029966+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "a8b2b6bd573531ef3fc66e105a413bd1efc57447dcfb2c9834921be93eb538fe",
+    "path": "a8b2b6bd573531ef3fc66e105a413bd1efc57447dcfb2c9834921be93eb538fe",
+    "mime": "image/png",
+    "bytes": 2520360
+  },
+  "data": {
+    "subject": "butterfly effect chain, an AI butterfly whose ripples grow through habits, teams, shops and a crowd with rising expectations (day)",
+    "note": "background gold corrected from OKLCH hue ~74 to ~82 (spec #F3BF58)"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

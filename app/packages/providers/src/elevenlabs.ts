@@ -34,7 +34,14 @@ export class ElevenLabsTTS implements TTS {
     const key = requireKey(this.opts.apiKey, "ELEVENLABS_API_KEY");
     const f = this.opts.fetch ?? fetch;
     const fmt = this.opts.outputFormat ?? "mp3_44100_128";
-    const { spoken, spans } = applyPronunciation(req.text, this.opts.pronunciation ?? []);
+    const { spoken, spans: rawSpans } = applyPronunciation(req.text, this.opts.pronunciation ?? []);
+    // Per-voice request options ride inside settings (so they are part of the cache key) and are
+    // pulled out here: model_id, language_code, and text_prefix (an audio tag such as
+    // "[Brazilian accent] " that the model performs but does not speak).
+    const { model_id: voiceModel, language_code: languageCode, text_prefix: textPrefix, ...voiceSettings } = (req.settings ?? {}) as Record<string, unknown>;
+    const prefix = typeof textPrefix === "string" ? textPrefix : "";
+    const fullText = prefix + spoken;
+    const spans = rawSpans.map((sp) => ({ ...sp, a: sp.a + prefix.length, b: sp.b + prefix.length }));
     const url =
       `${this.opts.baseUrl ?? "https://api.elevenlabs.io"}/v1/text-to-speech/${encodeURIComponent(req.elevenVoiceId)}/with-timestamps` +
       `?output_format=${encodeURIComponent(fmt)}`;
@@ -42,9 +49,10 @@ export class ElevenLabsTTS implements TTS {
       method: "POST",
       headers: { "content-type": "application/json", "xi-api-key": key },
       body: JSON.stringify({
-        text: spoken,
-        model_id: this.opts.modelId ?? "eleven_multilingual_v2",
-        ...(req.settings ? { voice_settings: req.settings } : {}),
+        text: fullText,
+        model_id: (typeof voiceModel === "string" ? voiceModel : undefined) ?? this.opts.modelId ?? "eleven_multilingual_v2",
+        ...(typeof languageCode === "string" ? { language_code: languageCode } : {}),
+        ...(req.settings ? { voice_settings: voiceSettings } : {}),
         ...(req.seed !== undefined ? { seed: req.seed } : {}),
       }),
     });
@@ -52,7 +60,7 @@ export class ElevenLabsTTS implements TTS {
     const body = (await res.json()) as { audio_base64?: string; alignment?: Alignment | null };
     if (!body.audio_base64) throw new ProviderError("elevenlabs: response has no audio_base64");
     if (!body.alignment || !body.alignment.characters?.length) throw new ProviderError("elevenlabs: response has no alignment");
-    const words = spansToWordTimings(body.alignment, spoken, spans);
+    const words = spansToWordTimings(body.alignment, fullText, spans);
     return {
       audio: Buffer.from(body.audio_base64, "base64"),
       mime: mimeForOutputFormat(fmt),

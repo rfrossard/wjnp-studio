@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo2-dsewiki",
+  "type": "illustration",
+  "title": "Black October v2: robots pinning and passing notes on a notice board while a person removes one (day)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:31:45.651736Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "ca7d47ffbf12243cfdda440788f960070f4b7c1081135e3060a04d3a5f14c9ee",
+    "path": "ca7d47ffbf12243cfdda440788f960070f4b7c1081135e3060a04d3a5f14c9ee",
+    "mime": "image/png",
+    "bytes": 2594235
+  },
+  "data": {
+    "subject": "robots pinning and passing notes on a notice board while a person removes one (day)",
+    "note": "background gold corrected from OKLCH hue ~74 to ~82 (spec #F3BF58) to stay clear of the forbidden orange band"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

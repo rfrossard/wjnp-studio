@@ -1,0 +1,33 @@
+{
+  "id": "voice-river-s01-final",
+  "type": "voice-sample",
+  "title": "voice-river — S01, final narrator pick, no colon",
+  "tags": [
+    "narrator",
+    "english",
+    "s01"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:32:42.495Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "eed472479570136989204729f456e7e538b4bd53690d040040b313054bd15e4e",
+    "path": "eed472479570136989204729f456e7e538b4bd53690d040040b313054bd15e4e",
+    "mime": "audio/mpeg",
+    "bytes": 290942
+  },
+  "data": {
+    "elevenVoiceId": "SAz9YHcvj6GT2YYXdXww",
+    "text": "With great power comes great responsibility. Old line, drawn here like an old comic panel. I'm starting an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today, a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

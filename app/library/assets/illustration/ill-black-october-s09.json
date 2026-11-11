@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s09",
+  "type": "illustration",
+  "title": "Black October s09: human hand pulling the strings of a marionette robot (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.594616Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "0ad8910e5f55f1ab1abd644bad4e0cec25941aeef4a1e2daf7d10874a2e97908",
+    "path": "0ad8910e5f55f1ab1abd644bad4e0cec25941aeef4a1e2daf7d10874a2e97908",
+    "mime": "image/png",
+    "bytes": 2396762
+  },
+  "data": {
+    "subject": "human hand pulling the strings of a marionette robot (night)"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

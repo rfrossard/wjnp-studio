@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo3-rings",
+  "type": "illustration",
+  "title": "Black October v3: tree-ring cross section holding uncollected gems, a small figure gathering a few: years of untapped value (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:51:19.029966+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "20cece612af3f80a99e39d5b3c739cbb832dd4e9d92875c15fafe84831be96b4",
+    "path": "20cece612af3f80a99e39d5b3c739cbb832dd4e9d92875c15fafe84831be96b4",
+    "mime": "image/png",
+    "bytes": 2952550
+  },
+  "data": {
+    "subject": "tree-ring cross section holding uncollected gems, a small figure gathering a few: years of untapped value (night)",
+    "note": "night palette, measured clean"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

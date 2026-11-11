@@ -28,8 +28,8 @@ const episode = Episode.parse(golden);
 const tokens = resolveTokens();
 
 describe("every template renders to static markup in both layouts", () => {
-  it("golden fixture covers every template except clip (clip is tested with a synthetic scene)", () => {
-    expect(new Set(episode.scenes.map((s) => s.onScreen.template))).toEqual(new Set(TEMPLATE_IDS.filter((t) => t !== "clip")));
+  it("golden fixture covers every template except clip and concept_chart (both tested with synthetic scenes)", () => {
+    expect(new Set(episode.scenes.map((s) => s.onScreen.template))).toEqual(new Set(TEMPLATE_IDS.filter((t) => t !== "clip" && t !== "concept_chart")));
     expect(Object.keys(TEMPLATES).sort()).toEqual([...TEMPLATE_IDS].sort());
   });
   for (const layout of ["vertical", "horizontal"] as const) {
@@ -54,7 +54,7 @@ describe("content rules", () => {
     expect(render("s03", "vertical", ep)).toContain("99.5 pct");
     expect(render("s03")).toContain("38%");
   });
-  it("personal_take shows the My take label", () => expect(render("s08")).toMatch(/My take/));
+  it("personal_take never shows a \"My take\" label (owner rule 2026-11-10)", () => expect(render("s08")).not.toMatch(/My take/));
   it("source chip lists publishers of the claim's sources", () => {
     const html = render("s03");
     expect(html).toContain("Example University");
@@ -70,6 +70,15 @@ describe("content rules", () => {
     const withFile = renderToStaticMarkup(<SceneView scene={s} episode={ep} layout="vertical" accent="#1F7A8C" tokens={tokens} resolved={{ ...NO_ASSETS, clips: { "clip-x": "clips/clip-x.mp4" } }} />);
     expect(withFile).toContain("<video");
     expect(withFile).not.toContain("CLIP PLACEHOLDER");
+  });
+  it("concept_chart (jaws) renders in both layouts, labelled illustrative", () => {
+    const s = { ...episode.scenes[1]!, claimIds: [], onScreen: { template: "concept_chart" as const, shape: "jaws" as const, headline: "Capability is outrunning adoption", upper: "What models can do", lower: "What products capture", axis: "time", gapLabel: "Untapped value", note: "Illustrative, not data" } };
+    for (const layout of ["vertical", "horizontal"] as const) {
+      const html = renderToStaticMarkup(<SceneView scene={s} episode={episode} layout={layout} accent="#1F7A8C" tokens={tokens} resolved={NO_ASSETS} />);
+      expect(html).toContain('data-template="concept_chart"');
+      expect(html).toContain("Illustrative, not data");
+      expect(html).not.toMatch(/undefined|NaN|\[object/);
+    }
   });
   it("clip renders in both layouts", () => {
     const s = { ...episode.scenes[1]!, onScreen: { template: "clip" as const, claimId: "c-quote", clipAssetId: "clip-x", startMs: 0, endMs: 5000, attribution: "Dr. Example Person", sourceLabel: "Example Conference" } };

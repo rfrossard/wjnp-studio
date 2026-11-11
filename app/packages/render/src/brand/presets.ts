@@ -16,7 +16,7 @@ export interface PresetConfig {
   accentPlacement: AccentPlacement;
   progressThick: number;
   showMark: boolean;
-  captionStyle: "box" | "shadow";
+  captionStyle: "box" | "shadow" | "accent" | "highlight";
   defaultTone: "light" | "dark";
   displayLetterSpacing: string;
   labelUppercase: boolean;

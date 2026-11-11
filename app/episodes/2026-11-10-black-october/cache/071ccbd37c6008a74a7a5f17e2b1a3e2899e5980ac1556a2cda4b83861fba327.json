@@ -1,0 +1,342 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 20240,
+  "words": [
+    {
+      "w": "Look",
+      "startMs": 176,
+      "endMs": 240
+    },
+    {
+      "w": "at",
+      "startMs": 293,
+      "endMs": 400
+    },
+    {
+      "w": "the",
+      "startMs": 420,
+      "endMs": 480
+    },
+    {
+      "w": "clocks",
+      "startMs": 537,
+      "endMs": 880
+    },
+    {
+      "w": "in",
+      "startMs": 907,
+      "endMs": 960
+    },
+    {
+      "w": "this",
+      "startMs": 992,
+      "endMs": 1120
+    },
+    {
+      "w": "report.",
+      "startMs": 1189,
+      "endMs": 1840
+    },
+    {
+      "w": "Five",
+      "startMs": 1888,
+      "endMs": 2080
+    },
+    {
+      "w": "days",
+      "startMs": 2144,
+      "endMs": 2400
+    },
+    {
+      "w": "for",
+      "startMs": 2420,
+      "endMs": 2480
+    },
+    {
+      "w": "WorkOS",
+      "startMs": 2544,
+      "endMs": 3040
+    },
+    {
+      "w": "to",
+      "startMs": 3067,
+      "endMs": 3120
+    },
+    {
+      "w": "notice.",
+      "startMs": 3189,
+      "endMs": 3760
+    },
+    {
+      "w": "Days",
+      "startMs": 3824,
+      "endMs": 4080
+    },
+    {
+      "w": "for",
+      "startMs": 4120,
+      "endMs": 4240
+    },
+    {
+      "w": "OpenAI",
+      "startMs": 4320,
+      "endMs": 4880
+    },
+    {
+      "w": "to",
+      "startMs": 4933,
+      "endMs": 5040
+    },
+    {
+      "w": "connect",
+      "startMs": 5080,
+      "endMs": 5360
+    },
+    {
+      "w": "the",
+      "startMs": 5380,
+      "endMs": 5440
+    },
+    {
+      "w": "dots.",
+      "startMs": 5520,
+      "endMs": 6320
+    },
+    {
+      "w": "Three",
+      "startMs": 6347,
+      "endMs": 6480
+    },
+    {
+      "w": "months",
+      "startMs": 6537,
+      "endMs": 6880
+    },
+    {
+      "w": "for",
+      "startMs": 6920,
+      "endMs": 7040
+    },
+    {
+      "w": "the",
+      "startMs": 7060,
+      "endMs": 7120
+    },
+    {
+      "w": "Mythos",
+      "startMs": 7168,
+      "endMs": 7440
+    },
+    {
+      "w": "story",
+      "startMs": 7520,
+      "endMs": 7920
+    },
+    {
+      "w": "to",
+      "startMs": 7947,
+      "endMs": 8000
+    },
+    {
+      "w": "reach",
+      "startMs": 8040,
+      "endMs": 8240
+    },
+    {
+      "w": "the",
+      "startMs": 8280,
+      "endMs": 8400
+    },
+    {
+      "w": "public.",
+      "startMs": 8457,
+      "endMs": 9200
+    },
+    {
+      "w": "The",
+      "startMs": 9220,
+      "endMs": 9280
+    },
+    {
+      "w": "attacks",
+      "startMs": 9340,
+      "endMs": 9760
+    },
+    {
+      "w": "move",
+      "startMs": 9808,
+      "endMs": 10000
+    },
+    {
+      "w": "in",
+      "startMs": 10053,
+      "endMs": 10160
+    },
+    {
+      "w": "hours.",
+      "startMs": 10240,
+      "endMs": 10800
+    },
+    {
+      "w": "Our",
+      "startMs": 10840,
+      "endMs": 10960
+    },
+    {
+      "w": "understanding",
+      "startMs": 11006,
+      "endMs": 11600
+    },
+    {
+      "w": "takes",
+      "startMs": 11680,
+      "endMs": 12080
+    },
+    {
+      "w": "weeks.",
+      "startMs": 12147,
+      "endMs": 12760
+    },
+    {
+      "w": "I",
+      "startMs": 12900,
+      "endMs": 13040
+    },
+    {
+      "w": "don't",
+      "startMs": 13080,
+      "endMs": 13320
+    },
+    {
+      "w": "read",
+      "startMs": 13344,
+      "endMs": 13440
+    },
+    {
+      "w": "that",
+      "startMs": 13488,
+      "endMs": 13680
+    },
+    {
+      "w": "as",
+      "startMs": 13733,
+      "endMs": 13840
+    },
+    {
+      "w": "negligence.",
+      "startMs": 13898,
+      "endMs": 14680
+    },
+    {
+      "w": "I",
+      "startMs": 14780,
+      "endMs": 14880
+    },
+    {
+      "w": "read",
+      "startMs": 14912,
+      "endMs": 15040
+    },
+    {
+      "w": "it",
+      "startMs": 15067,
+      "endMs": 15120
+    },
+    {
+      "w": "as",
+      "startMs": 15173,
+      "endMs": 15280
+    },
+    {
+      "w": "a",
+      "startMs": 15320,
+      "endMs": 15360
+    },
+    {
+      "w": "sign",
+      "startMs": 15424,
+      "endMs": 15680
+    },
+    {
+      "w": "of",
+      "startMs": 15707,
+      "endMs": 15760
+    },
+    {
+      "w": "how",
+      "startMs": 15800,
+      "endMs": 15920
+    },
+    {
+      "w": "new",
+      "startMs": 16000,
+      "endMs": 16240
+    },
+    {
+      "w": "this",
+      "startMs": 16272,
+      "endMs": 16400
+    },
+    {
+      "w": "territory",
+      "startMs": 16448,
+      "endMs": 16880
+    },
+    {
+      "w": "still",
+      "startMs": 16920,
+      "endMs": 17120
+    },
+    {
+      "w": "is.",
+      "startMs": 17227,
+      "endMs": 17600
+    },
+    {
+      "w": "Maybe",
+      "startMs": 17693,
+      "endMs": 18160
+    },
+    {
+      "w": "that",
+      "startMs": 18192,
+      "endMs": 18320
+    },
+    {
+      "w": "gap",
+      "startMs": 18420,
+      "endMs": 18720
+    },
+    {
+      "w": "is",
+      "startMs": 18773,
+      "endMs": 18880
+    },
+    {
+      "w": "where",
+      "startMs": 18907,
+      "endMs": 19040
+    },
+    {
+      "w": "governance",
+      "startMs": 19091,
+      "endMs": 19600
+    },
+    {
+      "w": "has",
+      "startMs": 19640,
+      "endMs": 19760
+    },
+    {
+      "w": "to",
+      "startMs": 19813,
+      "endMs": 19920
+    },
+    {
+      "w": "live.",
+      "startMs": 19968,
+      "endMs": 20240
+    }
+  ],
+  "file": "071ccbd37c6008a74a7a5f17e2b1a3e2899e5980ac1556a2cda4b83861fba327.mp3"
+}

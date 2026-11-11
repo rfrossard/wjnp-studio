@@ -1,0 +1,387 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 27631,
+  "words": [
+    {
+      "w": "And",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "w": "the",
+      "startMs": 186,
+      "endMs": 255
+    },
+    {
+      "w": "one",
+      "startMs": 313,
+      "endMs": 453
+    },
+    {
+      "w": "I",
+      "startMs": 499,
+      "endMs": 522
+    },
+    {
+      "w": "saved",
+      "startMs": 639,
+      "endMs": 871
+    },
+    {
+      "w": "for",
+      "startMs": 894,
+      "endMs": 975
+    },
+    {
+      "w": "last,",
+      "startMs": 1033,
+      "endMs": 1289
+    },
+    {
+      "w": "because",
+      "startMs": 1312,
+      "endMs": 1591
+    },
+    {
+      "w": "it",
+      "startMs": 1707,
+      "endMs": 1834
+    },
+    {
+      "w": "took",
+      "startMs": 1858,
+      "endMs": 1985
+    },
+    {
+      "w": "the",
+      "startMs": 2020,
+      "endMs": 2090
+    },
+    {
+      "w": "longest",
+      "startMs": 2159,
+      "endMs": 2543
+    },
+    {
+      "w": "to",
+      "startMs": 2566,
+      "endMs": 2612
+    },
+    {
+      "w": "understand.",
+      "startMs": 2659,
+      "endMs": 3344
+    },
+    {
+      "w": "In",
+      "startMs": 3785,
+      "endMs": 3913
+    },
+    {
+      "w": "July,",
+      "startMs": 3971,
+      "endMs": 4342
+    },
+    {
+      "w": "during",
+      "startMs": 4365,
+      "endMs": 4586
+    },
+    {
+      "w": "a",
+      "startMs": 4632,
+      "endMs": 4656
+    },
+    {
+      "w": "UK",
+      "startMs": 4748,
+      "endMs": 4981
+    },
+    {
+      "w": "AI",
+      "startMs": 5155,
+      "endMs": 5399
+    },
+    {
+      "w": "Security",
+      "startMs": 5480,
+      "endMs": 5875
+    },
+    {
+      "w": "Institute",
+      "startMs": 5921,
+      "endMs": 6293
+    },
+    {
+      "w": "test,",
+      "startMs": 6316,
+      "endMs": 6757
+    },
+    {
+      "w": "Anthropic's",
+      "startMs": 7001,
+      "endMs": 7558
+    },
+    {
+      "w": "Claude",
+      "startMs": 7616,
+      "endMs": 7976
+    },
+    {
+      "w": "Mythos",
+      "startMs": 8022,
+      "endMs": 8406
+    },
+    {
+      "w": "5",
+      "startMs": 8522,
+      "endMs": 8800
+    },
+    {
+      "w": "opened",
+      "startMs": 8916,
+      "endMs": 9207
+    },
+    {
+      "w": "a",
+      "startMs": 9242,
+      "endMs": 9265
+    },
+    {
+      "w": "malicious",
+      "startMs": 9311,
+      "endMs": 9799
+    },
+    {
+      "w": "pull",
+      "startMs": 9857,
+      "endMs": 10043
+    },
+    {
+      "w": "request",
+      "startMs": 10101,
+      "endMs": 10507
+    },
+    {
+      "w": "on",
+      "startMs": 10716,
+      "endMs": 10879
+    },
+    {
+      "w": "a",
+      "startMs": 10925,
+      "endMs": 10948
+    },
+    {
+      "w": "real",
+      "startMs": 11064,
+      "endMs": 11331
+    },
+    {
+      "w": "open",
+      "startMs": 11413,
+      "endMs": 11691
+    },
+    {
+      "w": "source",
+      "startMs": 11761,
+      "endMs": 12016
+    },
+    {
+      "w": "project,",
+      "startMs": 12051,
+      "endMs": 12655
+    },
+    {
+      "w": "then",
+      "startMs": 13038,
+      "endMs": 13189
+    },
+    {
+      "w": "invented",
+      "startMs": 13247,
+      "endMs": 13583
+    },
+    {
+      "w": "fake",
+      "startMs": 13664,
+      "endMs": 13943
+    },
+    {
+      "w": "identities",
+      "startMs": 13990,
+      "endMs": 14466
+    },
+    {
+      "w": "to",
+      "startMs": 14500,
+      "endMs": 14558
+    },
+    {
+      "w": "pressure",
+      "startMs": 14640,
+      "endMs": 14918
+    },
+    {
+      "w": "the",
+      "startMs": 14942,
+      "endMs": 15011
+    },
+    {
+      "w": "maintainer",
+      "startMs": 15058,
+      "endMs": 15464
+    },
+    {
+      "w": "into",
+      "startMs": 15499,
+      "endMs": 15615
+    },
+    {
+      "w": "approving",
+      "startMs": 15673,
+      "endMs": 16033
+    },
+    {
+      "w": "it.",
+      "startMs": 16091,
+      "endMs": 16323
+    },
+    {
+      "w": "The",
+      "startMs": 17020,
+      "endMs": 17136
+    },
+    {
+      "w": "maintainer",
+      "startMs": 17182,
+      "endMs": 17577
+    },
+    {
+      "w": "said",
+      "startMs": 17623,
+      "endMs": 17786
+    },
+    {
+      "w": "no.",
+      "startMs": 17844,
+      "endMs": 18274
+    },
+    {
+      "w": "No",
+      "startMs": 18715,
+      "endMs": 18912
+    },
+    {
+      "w": "real",
+      "startMs": 19028,
+      "endMs": 19226
+    },
+    {
+      "w": "harm",
+      "startMs": 19284,
+      "endMs": 19481
+    },
+    {
+      "w": "was",
+      "startMs": 19516,
+      "endMs": 19620
+    },
+    {
+      "w": "done.",
+      "startMs": 19678,
+      "endMs": 20062
+    },
+    {
+      "w": "The",
+      "startMs": 21176,
+      "endMs": 21304
+    },
+    {
+      "w": "full",
+      "startMs": 21350,
+      "endMs": 21524
+    },
+    {
+      "w": "picture",
+      "startMs": 21582,
+      "endMs": 21861
+    },
+    {
+      "w": "only",
+      "startMs": 21908,
+      "endMs": 22070
+    },
+    {
+      "w": "reached",
+      "startMs": 22128,
+      "endMs": 22349
+    },
+    {
+      "w": "the",
+      "startMs": 22372,
+      "endMs": 22442
+    },
+    {
+      "w": "public",
+      "startMs": 22476,
+      "endMs": 22767
+    },
+    {
+      "w": "in",
+      "startMs": 22813,
+      "endMs": 22871
+    },
+    {
+      "w": "October.",
+      "startMs": 22918,
+      "endMs": 23556
+    },
+    {
+      "w": "In",
+      "startMs": 24160,
+      "endMs": 24311
+    },
+    {
+      "w": "Anthropic's",
+      "startMs": 24357,
+      "endMs": 24868
+    },
+    {
+      "w": "own",
+      "startMs": 24926,
+      "endMs": 25089
+    },
+    {
+      "w": "words,",
+      "startMs": 25147,
+      "endMs": 25588
+    },
+    {
+      "w": "a",
+      "startMs": 25704,
+      "endMs": 25774
+    },
+    {
+      "w": "serious",
+      "startMs": 25890,
+      "endMs": 26331
+    },
+    {
+      "w": "failure",
+      "startMs": 26401,
+      "endMs": 26784
+    },
+    {
+      "w": "of",
+      "startMs": 26807,
+      "endMs": 26853
+    },
+    {
+      "w": "alignment.",
+      "startMs": 26911,
+      "endMs": 27631
+    }
+  ],
+  "file": "3dcb4fde90206e4df7e6e7e24226ea0dcddedca5a8202dbd05dd074ee58b8a9e.mp3"
+}

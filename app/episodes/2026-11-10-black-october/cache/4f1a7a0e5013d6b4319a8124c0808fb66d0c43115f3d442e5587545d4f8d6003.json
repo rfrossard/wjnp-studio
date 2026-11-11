@@ -1,0 +1,97 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 5573,
+  "words": [
+    {
+      "w": "With",
+      "startMs": 0,
+      "endMs": 209
+    },
+    {
+      "w": "great",
+      "startMs": 267,
+      "endMs": 488
+    },
+    {
+      "w": "power",
+      "startMs": 534,
+      "endMs": 778
+    },
+    {
+      "w": "comes",
+      "startMs": 848,
+      "endMs": 1045
+    },
+    {
+      "w": "great",
+      "startMs": 1115,
+      "endMs": 1312
+    },
+    {
+      "w": "responsibility.",
+      "startMs": 1358,
+      "endMs": 2229
+    },
+    {
+      "w": "We",
+      "startMs": 2403,
+      "endMs": 2531
+    },
+    {
+      "w": "all",
+      "startMs": 2577,
+      "endMs": 2694
+    },
+    {
+      "w": "know",
+      "startMs": 2728,
+      "endMs": 2821
+    },
+    {
+      "w": "the",
+      "startMs": 2868,
+      "endMs": 2937
+    },
+    {
+      "w": "line.",
+      "startMs": 2972,
+      "endMs": 3309
+    },
+    {
+      "w": "But",
+      "startMs": 3750,
+      "endMs": 3901
+    },
+    {
+      "w": "it",
+      "startMs": 3936,
+      "endMs": 3994
+    },
+    {
+      "w": "has",
+      "startMs": 4029,
+      "endMs": 4110
+    },
+    {
+      "w": "never",
+      "startMs": 4180,
+      "endMs": 4377
+    },
+    {
+      "w": "felt",
+      "startMs": 4423,
+      "endMs": 4609
+    },
+    {
+      "w": "this",
+      "startMs": 4644,
+      "endMs": 4783
+    },
+    {
+      "w": "literal!",
+      "startMs": 4899,
+      "endMs": 5573
+    }
+  ],
+  "file": "4f1a7a0e5013d6b4319a8124c0808fb66d0c43115f3d442e5587545d4f8d6003.mp3"
+}

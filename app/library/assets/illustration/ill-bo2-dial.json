@@ -1,0 +1,34 @@
+{
+  "id": "ill-bo2-dial",
+  "type": "illustration",
+  "title": "Black October v2: paper hand gently easing a speed dial needle down (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-11"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T06:31:45.651736Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "62f3916ae4abae600b2457e7e80235c1613eedffe8f4b759a8f816c609a620f4",
+    "path": "62f3916ae4abae600b2457e7e80235c1613eedffe8f4b759a8f816c609a620f4",
+    "mime": "image/png",
+    "bytes": 2613834
+  },
+  "data": {
+    "subject": "paper hand gently easing a speed dial needle down (night)",
+    "note": "night palette, measured clean"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

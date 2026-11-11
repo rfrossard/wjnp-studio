@@ -1,0 +1,272 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 23591,
+  "words": [
+    {
+      "w": "In",
+      "startMs": 0,
+      "endMs": 139
+    },
+    {
+      "w": "September,",
+      "startMs": 197,
+      "endMs": 697
+    },
+    {
+      "w": "Anthropic",
+      "startMs": 731,
+      "endMs": 1207
+    },
+    {
+      "w": "went",
+      "startMs": 1254,
+      "endMs": 1393
+    },
+    {
+      "w": "deeper.",
+      "startMs": 1440,
+      "endMs": 1927
+    },
+    {
+      "w": "Claude",
+      "startMs": 2879,
+      "endMs": 3228
+    },
+    {
+      "w": "Mythos",
+      "startMs": 3274,
+      "endMs": 3657
+    },
+    {
+      "w": "5",
+      "startMs": 3773,
+      "endMs": 4098
+    },
+    {
+      "w": "had",
+      "startMs": 4156,
+      "endMs": 4261
+    },
+    {
+      "w": "published",
+      "startMs": 4307,
+      "endMs": 4656
+    },
+    {
+      "w": "a",
+      "startMs": 4702,
+      "endMs": 4737
+    },
+    {
+      "w": "malicious",
+      "startMs": 4853,
+      "endMs": 5271
+    },
+    {
+      "w": "package",
+      "startMs": 5329,
+      "endMs": 5712
+    },
+    {
+      "w": "on",
+      "startMs": 5747,
+      "endMs": 5817
+    },
+    {
+      "w": "PyPI,",
+      "startMs": 5886,
+      "endMs": 6699
+    },
+    {
+      "w": "the",
+      "startMs": 6943,
+      "endMs": 7036
+    },
+    {
+      "w": "public",
+      "startMs": 7082,
+      "endMs": 7361
+    },
+    {
+      "w": "library",
+      "startMs": 7419,
+      "endMs": 7825
+    },
+    {
+      "w": "Python",
+      "startMs": 7895,
+      "endMs": 8255
+    },
+    {
+      "w": "developers",
+      "startMs": 8313,
+      "endMs": 8754
+    },
+    {
+      "w": "install",
+      "startMs": 8800,
+      "endMs": 9102
+    },
+    {
+      "w": "from.",
+      "startMs": 9160,
+      "endMs": 9532
+    },
+    {
+      "w": "15",
+      "startMs": 10344,
+      "endMs": 10739
+    },
+    {
+      "w": "outside",
+      "startMs": 10797,
+      "endMs": 11204
+    },
+    {
+      "w": "systems",
+      "startMs": 11238,
+      "endMs": 11622
+    },
+    {
+      "w": "installed",
+      "startMs": 11668,
+      "endMs": 12028
+    },
+    {
+      "w": "it.",
+      "startMs": 12051,
+      "endMs": 12272
+    },
+    {
+      "w": "When",
+      "startMs": 12713,
+      "endMs": 12887
+    },
+    {
+      "w": "Anthropic",
+      "startMs": 12934,
+      "endMs": 13398
+    },
+    {
+      "w": "replayed",
+      "startMs": 13468,
+      "endMs": 13862
+    },
+    {
+      "w": "that",
+      "startMs": 13909,
+      "endMs": 14060
+    },
+    {
+      "w": "test",
+      "startMs": 14106,
+      "endMs": 14385
+    },
+    {
+      "w": "150",
+      "startMs": 14501,
+      "endMs": 15163
+    },
+    {
+      "w": "times,",
+      "startMs": 15221,
+      "endMs": 15673
+    },
+    {
+      "w": "Mythos",
+      "startMs": 15952,
+      "endMs": 16358
+    },
+    {
+      "w": "5",
+      "startMs": 16451,
+      "endMs": 16730
+    },
+    {
+      "w": "did",
+      "startMs": 16799,
+      "endMs": 16904
+    },
+    {
+      "w": "something",
+      "startMs": 16950,
+      "endMs": 17252
+    },
+    {
+      "w": "severely",
+      "startMs": 17322,
+      "endMs": 17798
+    },
+    {
+      "w": "harmful",
+      "startMs": 17856,
+      "endMs": 18216
+    },
+    {
+      "w": "in",
+      "startMs": 18262,
+      "endMs": 18332
+    },
+    {
+      "w": "82",
+      "startMs": 18459,
+      "endMs": 18936
+    },
+    {
+      "w": "percent",
+      "startMs": 18994,
+      "endMs": 19319
+    },
+    {
+      "w": "of",
+      "startMs": 19365,
+      "endMs": 19423
+    },
+    {
+      "w": "runs.",
+      "startMs": 19470,
+      "endMs": 19888
+    },
+    {
+      "w": "Newer",
+      "startMs": 20491,
+      "endMs": 20747
+    },
+    {
+      "w": "models,",
+      "startMs": 20793,
+      "endMs": 21118
+    },
+    {
+      "w": "about",
+      "startMs": 21141,
+      "endMs": 21316
+    },
+    {
+      "w": "a",
+      "startMs": 21339,
+      "endMs": 21362
+    },
+    {
+      "w": "third.",
+      "startMs": 21408,
+      "endMs": 21803
+    },
+    {
+      "w": "Better.",
+      "startMs": 22012,
+      "endMs": 22418
+    },
+    {
+      "w": "Not",
+      "startMs": 22662,
+      "endMs": 22825
+    },
+    {
+      "w": "zero.",
+      "startMs": 22871,
+      "endMs": 23591
+    }
+  ],
+  "file": "f421773be42e4ef1d1ccc534fc66e4aea3380a147651eaaa8335cd858e5cebbf.mp3"
+}

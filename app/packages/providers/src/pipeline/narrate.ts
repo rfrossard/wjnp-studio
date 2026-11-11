@@ -29,8 +29,11 @@ export function pickVoice(
   picked?: { narratorAssetId?: string; castAssetId?: string },
 ): PickedVoice {
   const findMenu = (assetId: string): PickedVoice | undefined => {
-    const m = voices.menu?.find((v) => v.assetId === assetId);
-    return m ? { assetId: m.assetId, elevenVoiceId: m.elevenVoiceId } : undefined;
+    // the narrator's own entry carries its settings (model, language, accent tag); a menu pick of the
+    // same voice must not silently drop them
+    if (assetId === voices.narrator.assetId) return voices.narrator;
+    const m = voices.menu?.find((v) => v.assetId === assetId) as (typeof voices.menu extends (infer T)[] | undefined ? T : never) & { settings?: PickedVoice["settings"] } | undefined;
+    return m ? { assetId: m.assetId, elevenVoiceId: m.elevenVoiceId, ...(m.settings ? { settings: m.settings } : {}) } : undefined;
   };
   const narrator: PickedVoice = (picked?.narratorAssetId && findMenu(picked.narratorAssetId)) || voices.narrator;
   if (index === 0 || index === total - 1 || scene.isOpinion) return narrator;

@@ -1,0 +1,32 @@
+{
+  "id": "voice-sarah-en-s01",
+  "type": "voice-sample",
+  "title": "voice-sarah — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:28:25.596Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "760e533565597b77a3b1abaa9ad9f5ca0d2a3ef167a21319d8802db14ee1f2bf",
+    "path": "760e533565597b77a3b1abaa9ad9f5ca0d2a3ef167a21319d8802db14ee1f2bf",
+    "mime": "audio/mpeg",
+    "bytes": 198573
+  },
+  "data": {
+    "elevenVoiceId": "EXAVITQu4vr4xnSDxMaL",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

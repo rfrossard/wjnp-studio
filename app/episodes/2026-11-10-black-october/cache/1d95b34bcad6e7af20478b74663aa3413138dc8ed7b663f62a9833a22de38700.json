@@ -1,0 +1,127 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 9520,
+  "words": [
+    {
+      "w": "On",
+      "startMs": 0,
+      "endMs": 163
+    },
+    {
+      "w": "October",
+      "startMs": 209,
+      "endMs": 534
+    },
+    {
+      "w": "21st,",
+      "startMs": 580,
+      "endMs": 1300
+    },
+    {
+      "w": "two",
+      "startMs": 1416,
+      "endMs": 1625
+    },
+    {
+      "w": "critical",
+      "startMs": 1695,
+      "endMs": 2078
+    },
+    {
+      "w": "PHP",
+      "startMs": 2159,
+      "endMs": 2473
+    },
+    {
+      "w": "flaws,",
+      "startMs": 2589,
+      "endMs": 3077
+    },
+    {
+      "w": "known",
+      "startMs": 3170,
+      "endMs": 3367
+    },
+    {
+      "w": "as",
+      "startMs": 3402,
+      "endMs": 3471
+    },
+    {
+      "w": "PHP2Shell,",
+      "startMs": 3541,
+      "endMs": 4470
+    },
+    {
+      "w": "were",
+      "startMs": 4586,
+      "endMs": 4748
+    },
+    {
+      "w": "patched",
+      "startMs": 4795,
+      "endMs": 5132
+    },
+    {
+      "w": "in",
+      "startMs": 5166,
+      "endMs": 5224
+    },
+    {
+      "w": "emergency.",
+      "startMs": 5283,
+      "endMs": 5933
+    },
+    {
+      "w": "AI",
+      "startMs": 6211,
+      "endMs": 6571
+    },
+    {
+      "w": "helped",
+      "startMs": 6641,
+      "endMs": 6838
+    },
+    {
+      "w": "find",
+      "startMs": 6885,
+      "endMs": 7082
+    },
+    {
+      "w": "them.",
+      "startMs": 7117,
+      "endMs": 7384
+    },
+    {
+      "w": "AI",
+      "startMs": 7709,
+      "endMs": 7964
+    },
+    {
+      "w": "will",
+      "startMs": 8034,
+      "endMs": 8173
+    },
+    {
+      "w": "help",
+      "startMs": 8208,
+      "endMs": 8336
+    },
+    {
+      "w": "exploit",
+      "startMs": 8394,
+      "endMs": 8766
+    },
+    {
+      "w": "them",
+      "startMs": 8800,
+      "endMs": 8916
+    },
+    {
+      "w": "too.",
+      "startMs": 8975,
+      "endMs": 9520
+    }
+  ],
+  "file": "1d95b34bcad6e7af20478b74663aa3413138dc8ed7b663f62a9833a22de38700.mp3"
+}

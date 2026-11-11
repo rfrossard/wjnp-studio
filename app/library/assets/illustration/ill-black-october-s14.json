@@ -1,0 +1,34 @@
+{
+  "id": "ill-black-october-s14",
+  "type": "illustration",
+  "title": "Black October s14: two open doors onto the same lit room, one locked and railed (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.610224Z",
+  "version": 2,
+  "state": "approved",
+  "blob": {
+    "sha256": "949704da10b73c527dc9d1543bacaccbc072d1442a29d2fe2102be1294f20052",
+    "path": "949704da10b73c527dc9d1543bacaccbc072d1442a29d2fe2102be1294f20052",
+    "mime": "image/png",
+    "bytes": 2533873
+  },
+  "data": {
+    "subject": "two open doors onto the same lit room, one locked and railed (night)",
+    "note": "v2: doors recut in slate blue and sage; v1 terracotta doors measured OKLCH hue ~32, inside the forbidden orange band"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

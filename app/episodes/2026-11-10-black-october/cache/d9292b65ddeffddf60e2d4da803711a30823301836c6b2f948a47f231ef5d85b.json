@@ -1,0 +1,167 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 12214,
+  "words": [
+    {
+      "w": "In",
+      "startMs": 0,
+      "endMs": 151
+    },
+    {
+      "w": "this",
+      "startMs": 197,
+      "endMs": 337
+    },
+    {
+      "w": "report.",
+      "startMs": 406,
+      "endMs": 940
+    },
+    {
+      "w": "Critical",
+      "startMs": 1184,
+      "endMs": 1602
+    },
+    {
+      "w": "flaws",
+      "startMs": 1683,
+      "endMs": 2032
+    },
+    {
+      "w": "found",
+      "startMs": 2101,
+      "endMs": 2415
+    },
+    {
+      "w": "with",
+      "startMs": 2461,
+      "endMs": 2577
+    },
+    {
+      "w": "the",
+      "startMs": 2601,
+      "endMs": 2670
+    },
+    {
+      "w": "help",
+      "startMs": 2717,
+      "endMs": 2902
+    },
+    {
+      "w": "of",
+      "startMs": 2961,
+      "endMs": 3019
+    },
+    {
+      "w": "AI.",
+      "startMs": 3100,
+      "endMs": 3750
+    },
+    {
+      "w": "An",
+      "startMs": 3924,
+      "endMs": 4075
+    },
+    {
+      "w": "AI",
+      "startMs": 4133,
+      "endMs": 4412
+    },
+    {
+      "w": "hacking",
+      "startMs": 4493,
+      "endMs": 4830
+    },
+    {
+      "w": "framework",
+      "startMs": 4911,
+      "endMs": 5364
+    },
+    {
+      "w": "in",
+      "startMs": 5422,
+      "endMs": 5503
+    },
+    {
+      "w": "two",
+      "startMs": 5573,
+      "endMs": 5805
+    },
+    {
+      "w": "very",
+      "startMs": 5898,
+      "endMs": 6165
+    },
+    {
+      "w": "different",
+      "startMs": 6235,
+      "endMs": 6560
+    },
+    {
+      "w": "hands.",
+      "startMs": 6594,
+      "endMs": 7140
+    },
+    {
+      "w": "A",
+      "startMs": 7465,
+      "endMs": 7558
+    },
+    {
+      "w": "gaming",
+      "startMs": 7651,
+      "endMs": 7964
+    },
+    {
+      "w": "giant's",
+      "startMs": 8034,
+      "endMs": 8394
+    },
+    {
+      "w": "customer",
+      "startMs": 8452,
+      "endMs": 8916
+    },
+    {
+      "w": "records.",
+      "startMs": 8986,
+      "endMs": 9567
+    },
+    {
+      "w": "And",
+      "startMs": 9741,
+      "endMs": 9880
+    },
+    {
+      "w": "the",
+      "startMs": 9927,
+      "endMs": 9996
+    },
+    {
+      "w": "largest",
+      "startMs": 10054,
+      "endMs": 10472
+    },
+    {
+      "w": "crypto",
+      "startMs": 10519,
+      "endMs": 10867
+    },
+    {
+      "w": "theft",
+      "startMs": 10925,
+      "endMs": 11215
+    },
+    {
+      "w": "on",
+      "startMs": 11285,
+      "endMs": 11401
+    },
+    {
+      "w": "record.",
+      "startMs": 11482,
+      "endMs": 12214
+    }
+  ],
+  "file": "d9292b65ddeffddf60e2d4da803711a30823301836c6b2f948a47f231ef5d85b.mp3"
+}

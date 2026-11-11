@@ -1,0 +1,267 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 20480,
+  "words": [
+    {
+      "w": "Picture",
+      "startMs": 0,
+      "endMs": 383
+    },
+    {
+      "w": "two",
+      "startMs": 418,
+      "endMs": 569
+    },
+    {
+      "w": "curves.",
+      "startMs": 639,
+      "endMs": 1149
+    },
+    {
+      "w": "On",
+      "startMs": 1660,
+      "endMs": 1834
+    },
+    {
+      "w": "top,",
+      "startMs": 1892,
+      "endMs": 2183
+    },
+    {
+      "w": "what",
+      "startMs": 2218,
+      "endMs": 2403
+    },
+    {
+      "w": "models",
+      "startMs": 2461,
+      "endMs": 2752
+    },
+    {
+      "w": "can",
+      "startMs": 2798,
+      "endMs": 2914
+    },
+    {
+      "w": "do,",
+      "startMs": 2961,
+      "endMs": 3204
+    },
+    {
+      "w": "climbing",
+      "startMs": 3251,
+      "endMs": 3657
+    },
+    {
+      "w": "almost",
+      "startMs": 3727,
+      "endMs": 4017
+    },
+    {
+      "w": "exponentially.",
+      "startMs": 4075,
+      "endMs": 4923
+    },
+    {
+      "w": "Below,",
+      "startMs": 5433,
+      "endMs": 5793
+    },
+    {
+      "w": "how",
+      "startMs": 5828,
+      "endMs": 5944
+    },
+    {
+      "w": "much",
+      "startMs": 5991,
+      "endMs": 6153
+    },
+    {
+      "w": "of",
+      "startMs": 6188,
+      "endMs": 6246
+    },
+    {
+      "w": "that",
+      "startMs": 6293,
+      "endMs": 6444
+    },
+    {
+      "w": "our",
+      "startMs": 6502,
+      "endMs": 6664
+    },
+    {
+      "w": "products",
+      "startMs": 6745,
+      "endMs": 7175
+    },
+    {
+      "w": "and",
+      "startMs": 7210,
+      "endMs": 7291
+    },
+    {
+      "w": "organizations",
+      "startMs": 7349,
+      "endMs": 8081
+    },
+    {
+      "w": "actually",
+      "startMs": 8139,
+      "endMs": 8440
+    },
+    {
+      "w": "capture,",
+      "startMs": 8487,
+      "endMs": 9067
+    },
+    {
+      "w": "growing",
+      "startMs": 9242,
+      "endMs": 9578
+    },
+    {
+      "w": "slowly.",
+      "startMs": 9625,
+      "endMs": 10205
+    },
+    {
+      "w": "The",
+      "startMs": 11018,
+      "endMs": 11134
+    },
+    {
+      "w": "gap",
+      "startMs": 11192,
+      "endMs": 11389
+    },
+    {
+      "w": "keeps",
+      "startMs": 11447,
+      "endMs": 11680
+    },
+    {
+      "w": "opening,",
+      "startMs": 11738,
+      "endMs": 12144
+    },
+    {
+      "w": "like",
+      "startMs": 12190,
+      "endMs": 12341
+    },
+    {
+      "w": "an",
+      "startMs": 12365,
+      "endMs": 12423
+    },
+    {
+      "w": "alligator's",
+      "startMs": 12481,
+      "endMs": 12957
+    },
+    {
+      "w": "jaws.",
+      "startMs": 13003,
+      "endMs": 13537
+    },
+    {
+      "w": "Most",
+      "startMs": 14838,
+      "endMs": 15047
+    },
+    {
+      "w": "of",
+      "startMs": 15070,
+      "endMs": 15116
+    },
+    {
+      "w": "the",
+      "startMs": 15139,
+      "endMs": 15209
+    },
+    {
+      "w": "conversation",
+      "startMs": 15244,
+      "endMs": 15848
+    },
+    {
+      "w": "is",
+      "startMs": 15906,
+      "endMs": 15975
+    },
+    {
+      "w": "about",
+      "startMs": 16022,
+      "endMs": 16243
+    },
+    {
+      "w": "the",
+      "startMs": 16277,
+      "endMs": 16347
+    },
+    {
+      "w": "top",
+      "startMs": 16382,
+      "endMs": 16614
+    },
+    {
+      "w": "curve.",
+      "startMs": 16684,
+      "endMs": 17148
+    },
+    {
+      "w": "The",
+      "startMs": 17589,
+      "endMs": 17705
+    },
+    {
+      "w": "bigger",
+      "startMs": 17752,
+      "endMs": 17984
+    },
+    {
+      "w": "opportunity",
+      "startMs": 18030,
+      "endMs": 18472
+    },
+    {
+      "w": "might",
+      "startMs": 18518,
+      "endMs": 18657
+    },
+    {
+      "w": "be",
+      "startMs": 18692,
+      "endMs": 18762
+    },
+    {
+      "w": "closing",
+      "startMs": 18820,
+      "endMs": 19157
+    },
+    {
+      "w": "the",
+      "startMs": 19203,
+      "endMs": 19273
+    },
+    {
+      "w": "gap",
+      "startMs": 19319,
+      "endMs": 19540
+    },
+    {
+      "w": "underneath",
+      "startMs": 19598,
+      "endMs": 19958
+    },
+    {
+      "w": "it.",
+      "startMs": 20027,
+      "endMs": 20480
+    }
+  ],
+  "file": "e8efa6d2e2ba580654ac38c50d868286361e801d3cdb5f51fafaba20d467ccb7.mp3"
+}

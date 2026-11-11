@@ -1,0 +1,217 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 16000,
+  "words": [
+    {
+      "w": "This",
+      "startMs": 227,
+      "endMs": 240
+    },
+    {
+      "w": "was",
+      "startMs": 300,
+      "endMs": 480
+    },
+    {
+      "w": "the",
+      "startMs": 520,
+      "endMs": 640
+    },
+    {
+      "w": "first",
+      "startMs": 680,
+      "endMs": 880
+    },
+    {
+      "w": "of",
+      "startMs": 933,
+      "endMs": 1040
+    },
+    {
+      "w": "this",
+      "startMs": 1072,
+      "endMs": 1200
+    },
+    {
+      "w": "series,",
+      "startMs": 1269,
+      "endMs": 1760
+    },
+    {
+      "w": "\"What's",
+      "startMs": 1840,
+      "endMs": 2160
+    },
+    {
+      "w": "just",
+      "startMs": 2208,
+      "endMs": 2400
+    },
+    {
+      "w": "now",
+      "startMs": 2460,
+      "endMs": 2640
+    },
+    {
+      "w": "possible?\"",
+      "startMs": 2693,
+      "endMs": 3520
+    },
+    {
+      "w": "More",
+      "startMs": 3600,
+      "endMs": 3920
+    },
+    {
+      "w": "of",
+      "startMs": 3947,
+      "endMs": 4000
+    },
+    {
+      "w": "these",
+      "startMs": 4040,
+      "endMs": 4240
+    },
+    {
+      "w": "coming,",
+      "startMs": 4297,
+      "endMs": 4800
+    },
+    {
+      "w": "on",
+      "startMs": 4853,
+      "endMs": 4960
+    },
+    {
+      "w": "emerging",
+      "startMs": 5004,
+      "endMs": 5360
+    },
+    {
+      "w": "technologies,",
+      "startMs": 5415,
+      "endMs": 6160
+    },
+    {
+      "w": "its",
+      "startMs": 6280,
+      "endMs": 6640
+    },
+    {
+      "w": "research",
+      "startMs": 6702,
+      "endMs": 7200
+    },
+    {
+      "w": "and",
+      "startMs": 7260,
+      "endMs": 7440
+    },
+    {
+      "w": "scale.",
+      "startMs": 7520,
+      "endMs": 8000
+    },
+    {
+      "w": "If",
+      "startMs": 8240,
+      "endMs": 8720
+    },
+    {
+      "w": "this",
+      "startMs": 8768,
+      "endMs": 8960
+    },
+    {
+      "w": "made",
+      "startMs": 9008,
+      "endMs": 9200
+    },
+    {
+      "w": "you",
+      "startMs": 9220,
+      "endMs": 9280
+    },
+    {
+      "w": "think",
+      "startMs": 9307,
+      "endMs": 9440
+    },
+    {
+      "w": "twice,",
+      "startMs": 9520,
+      "endMs": 10160
+    },
+    {
+      "w": "follow",
+      "startMs": 10194,
+      "endMs": 10400
+    },
+    {
+      "w": "along,",
+      "startMs": 10467,
+      "endMs": 11280
+    },
+    {
+      "w": "and",
+      "startMs": 11320,
+      "endMs": 11440
+    },
+    {
+      "w": "let's",
+      "startMs": 11460,
+      "endMs": 11680
+    },
+    {
+      "w": "keep",
+      "startMs": 11712,
+      "endMs": 11840
+    },
+    {
+      "w": "asking",
+      "startMs": 11897,
+      "endMs": 12240
+    },
+    {
+      "w": "the",
+      "startMs": 12260,
+      "endMs": 12320
+    },
+    {
+      "w": "uncomfortable",
+      "startMs": 12366,
+      "endMs": 12960
+    },
+    {
+      "w": "questions",
+      "startMs": 13008,
+      "endMs": 13440
+    },
+    {
+      "w": "together.",
+      "startMs": 13484,
+      "endMs": 13920
+    },
+    {
+      "w": "What's",
+      "startMs": 14112,
+      "endMs": 14960
+    },
+    {
+      "w": "just",
+      "startMs": 15008,
+      "endMs": 15200
+    },
+    {
+      "w": "now",
+      "startMs": 15260,
+      "endMs": 15440
+    },
+    {
+      "w": "possible?",
+      "startMs": 15493,
+      "endMs": 16000
+    }
+  ],
+  "file": "f036f1c2e84843f9bb7d120fd9b702414a21c2a942743ff0edb973c49bd98d2e.mp3"
+}

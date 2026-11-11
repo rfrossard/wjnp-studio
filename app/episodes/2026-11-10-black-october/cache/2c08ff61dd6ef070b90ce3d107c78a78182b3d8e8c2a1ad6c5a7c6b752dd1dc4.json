@@ -1,0 +1,247 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 19598,
+  "words": [
+    {
+      "w": "Our",
+      "startMs": 0,
+      "endMs": 221
+    },
+    {
+      "w": "first",
+      "startMs": 337,
+      "endMs": 685
+    },
+    {
+      "w": "story.",
+      "startMs": 766,
+      "endMs": 1370
+    },
+    {
+      "w": "On",
+      "startMs": 2670,
+      "endMs": 2844
+    },
+    {
+      "w": "October",
+      "startMs": 2879,
+      "endMs": 3251
+    },
+    {
+      "w": "21st,",
+      "startMs": 3309,
+      "endMs": 3936
+    },
+    {
+      "w": "developers",
+      "startMs": 3994,
+      "endMs": 4516
+    },
+    {
+      "w": "rushed",
+      "startMs": 4632,
+      "endMs": 4911
+    },
+    {
+      "w": "out",
+      "startMs": 4946,
+      "endMs": 5074
+    },
+    {
+      "w": "emergency",
+      "startMs": 5132,
+      "endMs": 5677
+    },
+    {
+      "w": "fixes",
+      "startMs": 5747,
+      "endMs": 6107
+    },
+    {
+      "w": "for",
+      "startMs": 6165,
+      "endMs": 6281
+    },
+    {
+      "w": "two",
+      "startMs": 6339,
+      "endMs": 6560
+    },
+    {
+      "w": "critical",
+      "startMs": 6641,
+      "endMs": 7047
+    },
+    {
+      "w": "PHP",
+      "startMs": 7129,
+      "endMs": 7581
+    },
+    {
+      "w": "flaws,",
+      "startMs": 7755,
+      "endMs": 8382
+    },
+    {
+      "w": "known",
+      "startMs": 8557,
+      "endMs": 8789
+    },
+    {
+      "w": "together",
+      "startMs": 8835,
+      "endMs": 9183
+    },
+    {
+      "w": "as",
+      "startMs": 9242,
+      "endMs": 9323
+    },
+    {
+      "w": "PHP2Shell.",
+      "startMs": 9392,
+      "endMs": 10635
+    },
+    {
+      "w": "They",
+      "startMs": 11076,
+      "endMs": 11227
+    },
+    {
+      "w": "let",
+      "startMs": 11273,
+      "endMs": 11401
+    },
+    {
+      "w": "an",
+      "startMs": 11436,
+      "endMs": 11482
+    },
+    {
+      "w": "attacker",
+      "startMs": 11517,
+      "endMs": 11889
+    },
+    {
+      "w": "run",
+      "startMs": 11958,
+      "endMs": 12132
+    },
+    {
+      "w": "code",
+      "startMs": 12214,
+      "endMs": 12492
+    },
+    {
+      "w": "on",
+      "startMs": 12527,
+      "endMs": 12585
+    },
+    {
+      "w": "a",
+      "startMs": 12632,
+      "endMs": 12655
+    },
+    {
+      "w": "server",
+      "startMs": 12713,
+      "endMs": 13050
+    },
+    {
+      "w": "without",
+      "startMs": 13096,
+      "endMs": 13386
+    },
+    {
+      "w": "ever",
+      "startMs": 13444,
+      "endMs": 13665
+    },
+    {
+      "w": "logging",
+      "startMs": 13735,
+      "endMs": 14083
+    },
+    {
+      "w": "in.",
+      "startMs": 14153,
+      "endMs": 14524
+    },
+    {
+      "w": "AI",
+      "startMs": 14907,
+      "endMs": 15232
+    },
+    {
+      "w": "helped",
+      "startMs": 15302,
+      "endMs": 15546
+    },
+    {
+      "w": "find",
+      "startMs": 15581,
+      "endMs": 15801
+    },
+    {
+      "w": "them.",
+      "startMs": 15836,
+      "endMs": 16161
+    },
+    {
+      "w": "The",
+      "startMs": 16544,
+      "endMs": 16660
+    },
+    {
+      "w": "uncomfortable",
+      "startMs": 16718,
+      "endMs": 17229
+    },
+    {
+      "w": "part",
+      "startMs": 17264,
+      "endMs": 17450
+    },
+    {
+      "w": "is",
+      "startMs": 17485,
+      "endMs": 17554
+    },
+    {
+      "w": "that",
+      "startMs": 17601,
+      "endMs": 17717
+    },
+    {
+      "w": "AI",
+      "startMs": 17775,
+      "endMs": 18030
+    },
+    {
+      "w": "can",
+      "startMs": 18088,
+      "endMs": 18193
+    },
+    {
+      "w": "help",
+      "startMs": 18251,
+      "endMs": 18390
+    },
+    {
+      "w": "exploit",
+      "startMs": 18448,
+      "endMs": 18797
+    },
+    {
+      "w": "them",
+      "startMs": 18831,
+      "endMs": 18947
+    },
+    {
+      "w": "too.",
+      "startMs": 18994,
+      "endMs": 19598
+    }
+  ],
+  "file": "2c08ff61dd6ef070b90ce3d107c78a78182b3d8e8c2a1ad6c5a7c6b752dd1dc4.mp3"
+}

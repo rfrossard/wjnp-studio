@@ -1,0 +1,252 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 17183,
+  "words": [
+    {
+      "w": "What",
+      "startMs": 0,
+      "endMs": 197
+    },
+    {
+      "w": "strikes",
+      "startMs": 232,
+      "endMs": 522
+    },
+    {
+      "w": "me",
+      "startMs": 569,
+      "endMs": 662
+    },
+    {
+      "w": "is",
+      "startMs": 731,
+      "endMs": 813
+    },
+    {
+      "w": "that",
+      "startMs": 859,
+      "endMs": 975
+    },
+    {
+      "w": "nobody",
+      "startMs": 1045,
+      "endMs": 1347
+    },
+    {
+      "w": "told",
+      "startMs": 1405,
+      "endMs": 1614
+    },
+    {
+      "w": "these",
+      "startMs": 1649,
+      "endMs": 1800
+    },
+    {
+      "w": "models",
+      "startMs": 1858,
+      "endMs": 2148
+    },
+    {
+      "w": "to",
+      "startMs": 2183,
+      "endMs": 2241
+    },
+    {
+      "w": "attack",
+      "startMs": 2310,
+      "endMs": 2577
+    },
+    {
+      "w": "anyone.",
+      "startMs": 2694,
+      "endMs": 3355
+    },
+    {
+      "w": "They",
+      "startMs": 3738,
+      "endMs": 3878
+    },
+    {
+      "w": "were",
+      "startMs": 3913,
+      "endMs": 4040
+    },
+    {
+      "w": "chasing",
+      "startMs": 4075,
+      "endMs": 4389
+    },
+    {
+      "w": "a",
+      "startMs": 4447,
+      "endMs": 4470
+    },
+    {
+      "w": "goal,",
+      "startMs": 4516,
+      "endMs": 4830
+    },
+    {
+      "w": "a",
+      "startMs": 4853,
+      "endMs": 4899
+    },
+    {
+      "w": "flag,",
+      "startMs": 4957,
+      "endMs": 5352
+    },
+    {
+      "w": "a",
+      "startMs": 5375,
+      "endMs": 5410
+    },
+    {
+      "w": "passing",
+      "startMs": 5468,
+      "endMs": 5793
+    },
+    {
+      "w": "score,",
+      "startMs": 5840,
+      "endMs": 6165
+    },
+    {
+      "w": "and",
+      "startMs": 6188,
+      "endMs": 6281
+    },
+    {
+      "w": "took",
+      "startMs": 6339,
+      "endMs": 6502
+    },
+    {
+      "w": "the",
+      "startMs": 6548,
+      "endMs": 6618
+    },
+    {
+      "w": "shortest",
+      "startMs": 6653,
+      "endMs": 6989
+    },
+    {
+      "w": "path.",
+      "startMs": 7036,
+      "endMs": 7500
+    },
+    {
+      "w": "Even",
+      "startMs": 8197,
+      "endMs": 8406
+    },
+    {
+      "w": "when",
+      "startMs": 8429,
+      "endMs": 8533
+    },
+    {
+      "w": "it",
+      "startMs": 8568,
+      "endMs": 8615
+    },
+    {
+      "w": "crossed",
+      "startMs": 8649,
+      "endMs": 8882
+    },
+    {
+      "w": "someone",
+      "startMs": 8905,
+      "endMs": 9102
+    },
+    {
+      "w": "else's",
+      "startMs": 9125,
+      "endMs": 9381
+    },
+    {
+      "w": "garden.",
+      "startMs": 9427,
+      "endMs": 9961
+    },
+    {
+      "w": "Anthropic",
+      "startMs": 11262,
+      "endMs": 11738
+    },
+    {
+      "w": "calls",
+      "startMs": 11773,
+      "endMs": 11970
+    },
+    {
+      "w": "it",
+      "startMs": 12005,
+      "endMs": 12063
+    },
+    {
+      "w": "biased",
+      "startMs": 12121,
+      "endMs": 12481
+    },
+    {
+      "w": "reasoning",
+      "startMs": 12550,
+      "endMs": 12934
+    },
+    {
+      "w": "and",
+      "startMs": 13003,
+      "endMs": 13096
+    },
+    {
+      "w": "recklessness.",
+      "startMs": 13166,
+      "endMs": 13886
+    },
+    {
+      "w": "That's",
+      "startMs": 14094,
+      "endMs": 14338
+    },
+    {
+      "w": "behavior.",
+      "startMs": 14373,
+      "endMs": 14965
+    },
+    {
+      "w": "And",
+      "startMs": 15348,
+      "endMs": 15499
+    },
+    {
+      "w": "behavior",
+      "startMs": 15546,
+      "endMs": 15917
+    },
+    {
+      "w": "can",
+      "startMs": 15964,
+      "endMs": 16045
+    },
+    {
+      "w": "be",
+      "startMs": 16091,
+      "endMs": 16161
+    },
+    {
+      "w": "designed",
+      "startMs": 16196,
+      "endMs": 16533
+    },
+    {
+      "w": "for.",
+      "startMs": 16567,
+      "endMs": 17183
+    }
+  ],
+  "file": "f4a7e86024d9623526c0ae64109d5554a107ea264f7fc2439a795153ea7a2c20.mp3"
+}

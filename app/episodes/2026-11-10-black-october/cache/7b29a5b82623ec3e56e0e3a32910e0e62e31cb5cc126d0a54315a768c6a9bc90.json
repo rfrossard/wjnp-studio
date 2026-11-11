@@ -1,0 +1,267 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 23452,
+  "words": [
+    {
+      "w": "Next,",
+      "startMs": 0,
+      "endMs": 418
+    },
+    {
+      "w": "a",
+      "startMs": 453,
+      "endMs": 511
+    },
+    {
+      "w": "campaign",
+      "startMs": 580,
+      "endMs": 1022
+    },
+    {
+      "w": "that",
+      "startMs": 1057,
+      "endMs": 1161
+    },
+    {
+      "w": "began",
+      "startMs": 1196,
+      "endMs": 1498
+    },
+    {
+      "w": "before",
+      "startMs": 1567,
+      "endMs": 1950
+    },
+    {
+      "w": "October.",
+      "startMs": 1997,
+      "endMs": 2728
+    },
+    {
+      "w": "Since",
+      "startMs": 3170,
+      "endMs": 3437
+    },
+    {
+      "w": "September,",
+      "startMs": 3471,
+      "endMs": 4203
+    },
+    {
+      "w": "a",
+      "startMs": 4354,
+      "endMs": 4423
+    },
+    {
+      "w": "China",
+      "startMs": 4505,
+      "endMs": 4818
+    },
+    {
+      "w": "aligned",
+      "startMs": 4853,
+      "endMs": 5166
+    },
+    {
+      "w": "group",
+      "startMs": 5213,
+      "endMs": 5433
+    },
+    {
+      "w": "has",
+      "startMs": 5480,
+      "endMs": 5596
+    },
+    {
+      "w": "used",
+      "startMs": 5677,
+      "endMs": 5921
+    },
+    {
+      "w": "an",
+      "startMs": 5956,
+      "endMs": 6026
+    },
+    {
+      "w": "open",
+      "startMs": 6084,
+      "endMs": 6374
+    },
+    {
+      "w": "source",
+      "startMs": 6455,
+      "endMs": 6792
+    },
+    {
+      "w": "AI",
+      "startMs": 6861,
+      "endMs": 7187
+    },
+    {
+      "w": "agent",
+      "startMs": 7245,
+      "endMs": 7535
+    },
+    {
+      "w": "framework",
+      "startMs": 7581,
+      "endMs": 8034
+    },
+    {
+      "w": "called",
+      "startMs": 8081,
+      "endMs": 8336
+    },
+    {
+      "w": "ARTEX",
+      "startMs": 8417,
+      "endMs": 8986
+    },
+    {
+      "w": "to",
+      "startMs": 9427,
+      "endMs": 9543
+    },
+    {
+      "w": "automate",
+      "startMs": 9636,
+      "endMs": 10043
+    },
+    {
+      "w": "the",
+      "startMs": 10066,
+      "endMs": 10136
+    },
+    {
+      "w": "tedious",
+      "startMs": 10194,
+      "endMs": 10600
+    },
+    {
+      "w": "parts",
+      "startMs": 10658,
+      "endMs": 10913
+    },
+    {
+      "w": "of",
+      "startMs": 10948,
+      "endMs": 10995
+    },
+    {
+      "w": "hacking.",
+      "startMs": 11064,
+      "endMs": 11622
+    },
+    {
+      "w": "Reconnaissance,",
+      "startMs": 12005,
+      "endMs": 12910
+    },
+    {
+      "w": "password",
+      "startMs": 13084,
+      "endMs": 13526
+    },
+    {
+      "w": "spraying,",
+      "startMs": 13560,
+      "endMs": 14083
+    },
+    {
+      "w": "abuse",
+      "startMs": 14164,
+      "endMs": 14582
+    },
+    {
+      "w": "of",
+      "startMs": 14617,
+      "endMs": 14675
+    },
+    {
+      "w": "login",
+      "startMs": 14745,
+      "endMs": 15105
+    },
+    {
+      "w": "tokens.",
+      "startMs": 15174,
+      "endMs": 15836
+    },
+    {
+      "w": "Over",
+      "startMs": 16115,
+      "endMs": 16358
+    },
+    {
+      "w": "2,250",
+      "startMs": 16440,
+      "endMs": 17659
+    },
+    {
+      "w": "Microsoft",
+      "startMs": 17775,
+      "endMs": 18495
+    },
+    {
+      "w": "365",
+      "startMs": 18576,
+      "endMs": 19389
+    },
+    {
+      "w": "tenants",
+      "startMs": 19458,
+      "endMs": 19772
+    },
+    {
+      "w": "reached.",
+      "startMs": 19830,
+      "endMs": 20201
+    },
+    {
+      "w": "Privileged",
+      "startMs": 20526,
+      "endMs": 20968
+    },
+    {
+      "w": "access",
+      "startMs": 21037,
+      "endMs": 21397
+    },
+    {
+      "w": "in",
+      "startMs": 21432,
+      "endMs": 21490
+    },
+    {
+      "w": "under",
+      "startMs": 21536,
+      "endMs": 21699
+    },
+    {
+      "w": "three",
+      "startMs": 21745,
+      "endMs": 21954
+    },
+    {
+      "w": "hours,",
+      "startMs": 21989,
+      "endMs": 22326
+    },
+    {
+      "w": "in",
+      "startMs": 22349,
+      "endMs": 22419
+    },
+    {
+      "w": "some",
+      "startMs": 22465,
+      "endMs": 22628
+    },
+    {
+      "w": "cases.",
+      "startMs": 22663,
+      "endMs": 23452
+    }
+  ],
+  "file": "7b29a5b82623ec3e56e0e3a32910e0e62e31cb5cc126d0a54315a768c6a9bc90.mp3"
+}

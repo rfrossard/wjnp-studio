@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s08",
+  "type": "illustration",
+  "title": "Black October s08: open vault, coin stream, net catching half",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.590741Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "2061f92dd20ef1185d126b469520e1d62eaab1426623217e8ad9c05af85d01b1",
+    "path": "2061f92dd20ef1185d126b469520e1d62eaab1426623217e8ad9c05af85d01b1",
+    "mime": "image/png",
+    "bytes": 2756566
+  },
+  "data": {
+    "subject": "open vault, coin stream, net catching half"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

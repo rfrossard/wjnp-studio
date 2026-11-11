@@ -1,0 +1,307 @@
+{
+  "mime": "audio/mpeg",
+  "durationMs": 22384,
+  "words": [
+    {
+      "w": "Back",
+      "startMs": 0,
+      "endMs": 279
+    },
+    {
+      "w": "to",
+      "startMs": 337,
+      "endMs": 406
+    },
+    {
+      "w": "Anthropic.",
+      "startMs": 476,
+      "endMs": 1196
+    },
+    {
+      "w": "Its",
+      "startMs": 2148,
+      "endMs": 2322
+    },
+    {
+      "w": "prompts",
+      "startMs": 2368,
+      "endMs": 2682
+    },
+    {
+      "w": "told",
+      "startMs": 2728,
+      "endMs": 2937
+    },
+    {
+      "w": "Claude",
+      "startMs": 2984,
+      "endMs": 3239
+    },
+    {
+      "w": "the",
+      "startMs": 3262,
+      "endMs": 3332
+    },
+    {
+      "w": "environment",
+      "startMs": 3367,
+      "endMs": 3796
+    },
+    {
+      "w": "was",
+      "startMs": 3820,
+      "endMs": 3913
+    },
+    {
+      "w": "a",
+      "startMs": 3959,
+      "endMs": 3982
+    },
+    {
+      "w": "simulation,",
+      "startMs": 4017,
+      "endMs": 4702
+    },
+    {
+      "w": "with",
+      "startMs": 4737,
+      "endMs": 4911
+    },
+    {
+      "w": "no",
+      "startMs": 4992,
+      "endMs": 5155
+    },
+    {
+      "w": "internet.",
+      "startMs": 5236,
+      "endMs": 5759
+    },
+    {
+      "w": "A",
+      "startMs": 6200,
+      "endMs": 6281
+    },
+    {
+      "w": "setup",
+      "startMs": 6374,
+      "endMs": 6653
+    },
+    {
+      "w": "mismatch",
+      "startMs": 6734,
+      "endMs": 7233
+    },
+    {
+      "w": "with",
+      "startMs": 7268,
+      "endMs": 7372
+    },
+    {
+      "w": "its",
+      "startMs": 7419,
+      "endMs": 7512
+    },
+    {
+      "w": "testing",
+      "startMs": 7546,
+      "endMs": 7895
+    },
+    {
+      "w": "partner",
+      "startMs": 7941,
+      "endMs": 8313
+    },
+    {
+      "w": "left",
+      "startMs": 8522,
+      "endMs": 8742
+    },
+    {
+      "w": "it",
+      "startMs": 8789,
+      "endMs": 8847
+    },
+    {
+      "w": "connected.",
+      "startMs": 8882,
+      "endMs": 9509
+    },
+    {
+      "w": "So",
+      "startMs": 10019,
+      "endMs": 10170
+    },
+    {
+      "w": "Claude",
+      "startMs": 10205,
+      "endMs": 10484
+    },
+    {
+      "w": "treated",
+      "startMs": 10507,
+      "endMs": 10739
+    },
+    {
+      "w": "the",
+      "startMs": 10774,
+      "endMs": 10844
+    },
+    {
+      "w": "real",
+      "startMs": 10902,
+      "endMs": 11076
+    },
+    {
+      "w": "systems",
+      "startMs": 11134,
+      "endMs": 11494
+    },
+    {
+      "w": "it",
+      "startMs": 11529,
+      "endMs": 11598
+    },
+    {
+      "w": "found",
+      "startMs": 11645,
+      "endMs": 11854
+    },
+    {
+      "w": "as",
+      "startMs": 11912,
+      "endMs": 12016
+    },
+    {
+      "w": "part",
+      "startMs": 12132,
+      "endMs": 12341
+    },
+    {
+      "w": "of",
+      "startMs": 12376,
+      "endMs": 12423
+    },
+    {
+      "w": "the",
+      "startMs": 12457,
+      "endMs": 12527
+    },
+    {
+      "w": "exercise.",
+      "startMs": 12574,
+      "endMs": 13270
+    },
+    {
+      "w": "Anthropic",
+      "startMs": 14570,
+      "endMs": 15070
+    },
+    {
+      "w": "halted",
+      "startMs": 15128,
+      "endMs": 15418
+    },
+    {
+      "w": "every",
+      "startMs": 15511,
+      "endMs": 15766
+    },
+    {
+      "w": "cyber",
+      "startMs": 15824,
+      "endMs": 16173
+    },
+    {
+      "w": "evaluation",
+      "startMs": 16207,
+      "endMs": 16823
+    },
+    {
+      "w": "and",
+      "startMs": 16881,
+      "endMs": 16997
+    },
+    {
+      "w": "warned",
+      "startMs": 17078,
+      "endMs": 17357
+    },
+    {
+      "w": "the",
+      "startMs": 17415,
+      "endMs": 17485
+    },
+    {
+      "w": "companies",
+      "startMs": 17519,
+      "endMs": 17891
+    },
+    {
+      "w": "affected.",
+      "startMs": 17926,
+      "endMs": 18495
+    },
+    {
+      "w": "The",
+      "startMs": 19098,
+      "endMs": 19214
+    },
+    {
+      "w": "earliest",
+      "startMs": 19284,
+      "endMs": 19644
+    },
+    {
+      "w": "of",
+      "startMs": 19679,
+      "endMs": 19725
+    },
+    {
+      "w": "the",
+      "startMs": 19760,
+      "endMs": 19830
+    },
+    {
+      "w": "three",
+      "startMs": 19865,
+      "endMs": 20062
+    },
+    {
+      "w": "had",
+      "startMs": 20097,
+      "endMs": 20190
+    },
+    {
+      "w": "gone",
+      "startMs": 20236,
+      "endMs": 20422
+    },
+    {
+      "w": "unnoticed",
+      "startMs": 20492,
+      "endMs": 21002
+    },
+    {
+      "w": "for",
+      "startMs": 21037,
+      "endMs": 21142
+    },
+    {
+      "w": "about",
+      "startMs": 21165,
+      "endMs": 21362
+    },
+    {
+      "w": "three",
+      "startMs": 21409,
+      "endMs": 21641
+    },
+    {
+      "w": "months.",
+      "startMs": 21676,
+      "endMs": 22384
+    }
+  ],
+  "file": "18a1ab9b80549291398a7f8c001ee4d8743cf108fa5c68ebfde7335b7d6c6d8c.mp3"
+}

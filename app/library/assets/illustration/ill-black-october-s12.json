@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s12",
+  "type": "illustration",
+  "title": "Black October s12: robot with masks pushing a document; person raising a hand, no (night)",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.604296Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "b091c51f83542092f947bf9337e1de2f26f2bcd07a1bf1d1e5469c6847ad4947",
+    "path": "b091c51f83542092f947bf9337e1de2f26f2bcd07a1bf1d1e5469c6847ad4947",
+    "mime": "image/png",
+    "bytes": 2730399
+  },
+  "data": {
+    "subject": "robot with masks pushing a document; person raising a hand, no (night)"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

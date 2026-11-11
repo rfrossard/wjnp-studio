@@ -1923,5 +1923,75 @@
     "brandSafe": true,
     "note": "Palette adapted to the personal brand: cyan, red and yellow; no purple, no orange.",
     "preview": "synthwave.gif"
+  },
+  {
+    "id": "papercut",
+    "name": "Papercut collage",
+    "family": "illustrative",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 2,
+    "formality": 2,
+    "topics": [
+      "sustainability",
+      "energy",
+      "society",
+      "explainer",
+      "future",
+      "reflection",
+      "news",
+      "weekly",
+      "recap"
+    ],
+    "templates": [
+      "statement",
+      "bullets",
+      "stat",
+      "comparison",
+      "timeline",
+      "quote_card",
+      "personal_take"
+    ],
+    "strongFor": [
+      "statement",
+      "stat",
+      "personal_take"
+    ],
+    "bestFor": [
+      "warm explainers",
+      "reflective takes",
+      "stories for a broad audience"
+    ],
+    "avoidFor": [
+      "code and UI demos",
+      "breaking-news urgency"
+    ],
+    "transitions": {
+      "in": [
+        "cut",
+        "dissolve"
+      ],
+      "out": [
+        "cut",
+        "dissolve"
+      ]
+    },
+    "baton": "the sky keeps drifting across the cut; only the text changes",
+    "requiredTraits": [
+      "flat cut-paper shapes with soft drop shadows",
+      "paper grain",
+      "sun or stars, drifting clouds",
+      "layered hills over a water band that carries progress and captions",
+      "heavy rounded sans, never mono",
+      "day variant for reporting, night variant for reflection"
+    ],
+    "gate": {
+      "status": "draft",
+      "score": 4
+    },
+    "brandSafe": true,
+    "skin": "papercut",
+    "references": "brand/references/papercut/",
+    "note": "Owner reference 2026-11-10. The references' orange paper and lavender roofs are inside the forbidden hue bands, so day uses butter-gold paper; every colour checked with hexToOklchHue. Applied per scene with scene.skin = {kind: 'papercut', variant: 'day'|'night'}. Gate is draft until a critic from another model family reviews it."
   }
 ]

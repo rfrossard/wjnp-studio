@@ -1,0 +1,32 @@
+{
+  "id": "voice-bill-en-s01",
+  "type": "voice-sample",
+  "title": "voice-bill — S01 line, English",
+  "tags": [
+    "narrator-candidate",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS, premade voice; personal-brand use only."
+  },
+  "createdAt": "2026-11-10T17:26:56.257Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "58a0edb1ce7ae89550c3fa150e5361dc35d9cdd27b6e407b2f7acfae7d9ee0cf",
+    "path": "58a0edb1ce7ae89550c3fa150e5361dc35d9cdd27b6e407b2f7acfae7d9ee0cf",
+    "mime": "audio/mpeg",
+    "bytes": 230756
+  },
+  "data": {
+    "elevenVoiceId": "pqHfZKP75CvOlQylNhV4",
+    "text": "I'm starting: an experimental series of short videos about my personal views on what AI and emerging tech are making possible. Today: a month security researchers are calling Black October."
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

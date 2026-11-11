@@ -1,0 +1,31 @@
+{
+  "id": "voice-mark-en-sample",
+  "type": "voice-sample",
+  "title": "voice-mark, Eleven v3, episode lines",
+  "tags": [
+    "narrator",
+    "english"
+  ],
+  "origin": {
+    "kind": "generated"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "ElevenLabs TTS"
+  },
+  "createdAt": "2026-11-11T04:31:24.264083+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "8b45b95af8fcfade6707f4e264178abe03690fc04ad6f152f8d3d0007bfec354",
+    "path": "8b45b95af8fcfade6707f4e264178abe03690fc04ad6f152f8d3d0007bfec354",
+    "mime": "audio/mpeg",
+    "bytes": 246638
+  },
+  "data": {
+    "elevenVoiceId": "1SM7GgM6IMuvQlz2BwM3"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

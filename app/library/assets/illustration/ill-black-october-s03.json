@@ -1,0 +1,33 @@
+{
+  "id": "ill-black-october-s03",
+  "type": "illustration",
+  "title": "Black October s03: investigation board: bug, robot, controller, coins",
+  "tags": [
+    "papercut",
+    "black-october"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-sol)",
+    "date": "2026-11-10"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-11T01:16:24.574247Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "e9120171ad4a2e8926ccbb8df648de858ed5fa156f5d21f6a0a20ede3ad5df7c",
+    "path": "e9120171ad4a2e8926ccbb8df648de858ed5fa156f5d21f6a0a20ede3ad5df7c",
+    "mime": "image/png",
+    "bytes": 3045663
+  },
+  "data": {
+    "subject": "investigation board: bug, robot, controller, coins"
+  },
+  "usedIn": [
+    "2026-11-10-black-october"
+  ]
+}

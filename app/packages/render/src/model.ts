@@ -7,6 +7,7 @@ export type OutputKind = "master" | "desktop" | "cut";
 export type ResolvedAssets = {
   narration: Record<string, string>; // sceneId -> public file
   clips: Record<string, string>; // clipAssetId -> public file
+  images?: Record<string, string>; // illustration asset id -> public file
   music: string[]; // public files, in episode.audio.musicAssetIds order
 };
 

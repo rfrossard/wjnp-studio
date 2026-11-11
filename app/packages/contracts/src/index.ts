@@ -291,6 +291,20 @@ export const OnScreen = z.discriminatedUnion("template", [
   }),
   z.object({ template: z.literal("personal_take"), headline: short(80), body: short(200).optional() }),
   z.object({ template: z.literal("end_card"), question: short(120) }),
+  /**
+   * A conceptual chart: a shape that explains an idea, never data. "jaws": two curves over time that
+   * open apart (upper accelerates, lower grows slowly), the gap shaded. Always labelled illustrative.
+   */
+  z.object({
+    template: z.literal("concept_chart"),
+    shape: z.enum(["jaws"]),
+    headline: short(80),
+    upper: short(40),
+    lower: short(40),
+    axis: short(24).default("time"),
+    gapLabel: short(40).optional(),
+    note: short(40).default("Illustrative, not data"),
+  }),
 ]);
 export type OnScreen = z.infer<typeof OnScreen>;
 export type TemplateId = OnScreen["template"];
@@ -305,6 +319,7 @@ export const TEMPLATE_IDS = [
   "clip",
   "personal_take",
   "end_card",
+  "concept_chart",
 ] as const satisfies readonly TemplateId[];
 
 export const StyleId = z.enum([
@@ -459,10 +474,29 @@ export const Scene = z.object({
   visualAssetIds: z.array(Id).default([]),
   /** which brief message this scene serves (m1..m3), if any */
   messageId: Id.optional(),
-  /** marks interpretation/opinion; shows the "My take" label and triggers the compliance lint */
+  /** marks interpretation/opinion; uses the personal_take template (no "My take" label since 2026-11-10) and triggers the compliance lint */
   isOpinion: z.boolean().default(false),
   /** included in the short WhatsApp cut */
   inCut: z.boolean().default(false),
+  /**
+   * Optional visual treatment layered on the template. "comic": paper panel, halftone, speech
+   * balloon (text = balloon line, dateline = caption box). "newscast": lower third (text = story
+   * slug, dateline = date tag) plus the episode-wide ticker built from every newscast slug.
+   * "papercut": layered cut-paper backdrop (paper grain, sun or stars, clouds, hills, water band
+   * under the captions), continuous across consecutive papercut scenes.
+   * Generic look only; never imitates a real broadcaster.
+   */
+  skin: z
+    .object({
+      kind: z.enum(["comic", "newscast", "papercut"]),
+      /** papercut only: "day" (warm paper sky, sun, clouds) or "night" (navy sky, stars) */
+      variant: z.enum(["day", "night"]).optional(),
+      /** papercut only: library asset id (type "illustration") drawn as the scene's picture */
+      illustration: z.string().min(1).max(120).optional(),
+      text: z.string().min(1).max(90).optional(),
+      dateline: z.string().min(1).max(40).optional(),
+    })
+    .optional(),
   durationFrames: z.number().int().positive().optional(), // derived from narration audio
   gate: GateResult.optional(),
   state: ObjectState.default("draft"),
@@ -575,7 +609,7 @@ export const Episode = z.object({
     profile: z.literal("personal"),
     accent: Accent,
     styles: z.array(StyleId).min(DESIGN_RULES.minStyles).max(DESIGN_RULES.maxStyles),
-    captionStyle: z.enum(["box", "shadow"]).default("box"),
+    captionStyle: z.enum(["box", "shadow", "accent", "highlight"]).default("highlight"), // highlight: owner default since 2026-11-10
     preset: DesignPresetId.default("signal"),
     narratorTone: NarratorTone.default("conversational"),
     /** Override specific preset properties; null = use preset default */
