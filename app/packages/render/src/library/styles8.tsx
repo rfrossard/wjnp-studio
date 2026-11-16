@@ -6,6 +6,8 @@
  */
 import React from "react";
 import { AbsoluteFill, Easing, Sequence, useCurrentFrame } from "remotion";
+import { SciDoc } from "./scidoc";
+import { Isometric } from "./isometric";
 import { loadFont as loadClayFont } from "@remotion/google-fonts/Baloo2";
 
 const { fontFamily: CLAY_FONT } = loadClayFont("normal", { weights: ["700"] });
@@ -388,7 +390,7 @@ export const Synthwave: React.FC<LibProps> = ({ dur }) => {
   );
 };
 
-export const LIB_STYLES = { tron: Tron, ascii: Ascii, crt: Crt, risograph: Riso, blueprint: Blueprint, origami: Origami, claymation: Clay, synthwave: Synthwave } as const;
+export const LIB_STYLES = { tron: Tron, ascii: Ascii, crt: Crt, risograph: Riso, blueprint: Blueprint, origami: Origami, claymation: Clay, synthwave: Synthwave, scidoc: SciDoc, isometric: Isometric } as const;
 export type LibStyleId = keyof typeof LIB_STYLES;
 
 /** Neutral slates on both sides, so every entry and exit is shown against drawn content (handoff contract). */

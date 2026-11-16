@@ -6,7 +6,7 @@ import { bundle } from "@remotion/bundler";
 import { renderMedia, renderStill, selectComposition } from "@remotion/renderer";
 const here = path.dirname(fileURLToPath(import.meta.url));
 const out = path.resolve(process.argv[2] ?? "lib-out");
-const ids = process.argv.slice(3).length ? process.argv.slice(3) : ["tron", "ascii", "crt", "risograph", "blueprint", "origami", "claymation", "synthwave"];
+const ids = process.argv.slice(3).length ? process.argv.slice(3) : ["tron", "ascii", "crt", "risograph", "blueprint", "origami", "claymation", "synthwave", "scidoc", "isometric"];
 fs.mkdirSync(out, { recursive: true });
 const serveUrl = await bundle({ entryPoint: path.join(here, "..", "src", "index.ts") });
 for (const id of ids) {

@@ -1993,5 +1993,146 @@
     "skin": "papercut",
     "references": "brand/references/papercut/",
     "note": "Owner reference 2026-11-10. The references' orange paper and lavender roofs are inside the forbidden hue bands, so day uses butter-gold paper; every colour checked with hexToOklchHue. Applied per scene with scene.skin = {kind: 'papercut', variant: 'day'|'night'}. Gate is draft until a critic from another model family reviews it."
+  },
+  {
+    "id": "scidoc",
+    "name": "Science documentary (Veritasium-like)",
+    "family": "explainer",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 3,
+    "formality": 3,
+    "topics": [
+      "science",
+      "physics",
+      "discovery",
+      "history",
+      "experiment",
+      "research",
+      "quantum",
+      "space",
+      "energy",
+      "why",
+      "paradox",
+      "law"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "stat",
+      "comparison",
+      "timeline"
+    ],
+    "strongFor": [
+      "statement",
+      "timeline"
+    ],
+    "bestFor": [
+      "how a discovery happened",
+      "a counterintuitive result",
+      "one law shown three ways"
+    ],
+    "avoidFor": [
+      "product announcements",
+      "dense lists",
+      "UI demos"
+    ],
+    "transitions": {
+      "in": [
+        "wash",
+        "dissolve"
+      ],
+      "out": [
+        "focus-pull",
+        "dissolve"
+      ]
+    },
+    "baton": "one object (here the pendulum bob) keeps its place and phase from painting to diagram to simulation",
+    "requiredTraits": [
+      "three registers in one scene: painterly history, flat vector diagram, 3D simulation",
+      "one baton object continuous in position and phase across all three",
+      "hand-drawn line that boils, watercolour wash and paper grain in the historical register",
+      "formulas typeset in serif italics, never mono",
+      "graph and physical system in the same phase",
+      "simulation computed, with perspective, depth shading and ground shadows",
+      "registers cross-resolve, never a hard cut"
+    ],
+    "gate": {
+      "status": "draft",
+      "score": 4
+    },
+    "brandSafe": true,
+    "note": "Owner request 2026-11-15. Inspired by the register mix of popular-science channels; no channel branding, logo, host or footage is reproduced. Author: GPT (ChatGPT subscription); critic: Claude."
+  },
+  {
+    "id": "isometric",
+    "name": "Isometric diorama",
+    "family": "illustrative",
+    "engine": "wjnp",
+    "needs": [],
+    "energy": 3,
+    "formality": 2,
+    "topics": [
+      "work",
+      "office",
+      "team",
+      "organization",
+      "company",
+      "workflow",
+      "agents",
+      "operations",
+      "city",
+      "factory",
+      "ecosystem",
+      "platform"
+    ],
+    "templates": [
+      "title_hook",
+      "statement",
+      "stat",
+      "comparison",
+      "bullets",
+      "timeline"
+    ],
+    "strongFor": [
+      "statement",
+      "bullets"
+    ],
+    "bestFor": [
+      "how a place or an organization works",
+      "many actors in one system",
+      "before and after of a workspace"
+    ],
+    "avoidFor": [
+      "formulas",
+      "breaking-news urgency",
+      "portraits"
+    ],
+    "transitions": {
+      "in": [
+        "assemble",
+        "dissolve"
+      ],
+      "out": [
+        "lift",
+        "dissolve"
+      ]
+    },
+    "baton": "the floor grid stays; the room on it is taken apart and rebuilt",
+    "requiredTraits": [
+      "true 2:1 isometric projection, no perspective",
+      "cutaway room on a dark ground: two back walls, front walls removed",
+      "dark outline on every object",
+      "three flat tones per object: top, left, right",
+      "checkerboard floor",
+      "correct depth order, no overlap errors",
+      "small life in the scene: screens, plants and lamps keep moving"
+    ],
+    "gate": {
+      "status": "draft",
+      "score": 4
+    },
+    "brandSafe": true,
+    "note": "Owner reference image 2026-11-15 (third-party generated, watermarked: kept out of the repo). Its orange walls and chairs are inside the forbidden hue band, so the accent wall is muted red and wood is kept yellowish. No people. Author: GPT (ChatGPT subscription); critic: Claude."
   }
 ]
