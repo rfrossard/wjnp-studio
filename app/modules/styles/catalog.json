@@ -2017,10 +2017,8 @@
       "law"
     ],
     "templates": [
-      "title_hook",
       "statement",
       "stat",
-      "comparison",
       "timeline"
     ],
     "strongFor": [
@@ -2087,12 +2085,9 @@
       "platform"
     ],
     "templates": [
-      "title_hook",
       "statement",
-      "stat",
-      "comparison",
       "bullets",
-      "timeline"
+      "comparison"
     ],
     "strongFor": [
       "statement",
