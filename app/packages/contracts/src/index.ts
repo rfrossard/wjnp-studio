@@ -644,7 +644,14 @@ export const Episode = z.object({
     .object({
       mode: z.literal("silent"),
       beats: z
-        .array(z.object({ sceneId: Id, caption: z.string().min(1).max(70), highlight: z.string().max(30).optional(), seconds: z.number().min(2).max(10) }))
+        .array(
+          z.union([
+            // replay an existing scene, silent, with one plain caption
+            z.object({ kind: z.literal("scene").default("scene"), sceneId: Id, caption: z.string().min(1).max(70), highlight: z.string().max(30).optional(), seconds: z.number().min(2).max(10) }),
+            // a new beat for the teaser: one provocative line on the papercut look, with its own illustration
+            z.object({ kind: z.literal("card"), text: z.string().min(1).max(80), illustration: z.string().min(1).max(120), variant: z.enum(["day", "night"]).default("night"), seconds: z.number().min(2).max(10) }),
+          ]),
+        )
         .min(4)
         .max(16),
     })

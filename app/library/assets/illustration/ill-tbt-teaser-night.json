@@ -1,0 +1,34 @@
+{
+  "id": "ill-tbt-teaser-night",
+  "type": "illustration",
+  "title": "Task by task teaser: robot working alone at night, one hollow sheet",
+  "tags": [
+    "papercut",
+    "night",
+    "teaser"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T23:37:29.436364Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "3c0522187fbcd9a86dadbef30a5c8cf0b92a5b1bdb3b7e502944426892000ced",
+    "path": "3c0522187fbcd9a86dadbef30a5c8cf0b92a5b1bdb3b7e502944426892000ced",
+    "mime": "image/png",
+    "bytes": 2382483
+  },
+  "data": {
+    "subject": "robot working alone at night, one hollow sheet"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

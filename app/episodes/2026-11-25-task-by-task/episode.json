@@ -4908,82 +4908,67 @@
     "mode": "silent",
     "beats": [
       {
-        "sceneId": "s01b",
-        "caption": "A new series: What's just now possible? Episode 2",
-        "highlight": "Episode 2",
-        "seconds": 5
-      },
-      {
-        "sceneId": "s01",
-        "caption": "This week, Apple is hiring to build its own AI agent",
-        "highlight": "its own AI agent",
+        "kind": "card",
+        "text": "New this week on What's just now possible?",
+        "illustration": "ill-task-by-task-s10",
+        "variant": "night",
         "seconds": 6
       },
       {
-        "sceneId": "s02",
-        "caption": "Start bottom up: a job is a bundle of tasks",
-        "highlight": "a bundle of tasks",
-        "seconds": 6
-      },
-      {
-        "sceneId": "s03",
-        "caption": "79 tasks people do are missing from the official catalog",
-        "highlight": "79 tasks",
-        "seconds": 6
-      },
-      {
-        "sceneId": "s04",
-        "caption": "Task maps should be redrawn often, not every few years",
-        "highlight": "redrawn often",
-        "seconds": 5
-      },
-      {
-        "sceneId": "s05",
-        "caption": "AI agents took 88.3% less time, but some made up data",
-        "highlight": "made up data",
-        "seconds": 6
-      },
-      {
-        "sceneId": "s06",
-        "caption": "Orchestrate: each task goes to whoever does it better",
-        "highlight": "whoever does it better",
+        "kind": "card",
+        "text": "Your job title says one thing. Your week says another.",
+        "illustration": "ill-tbt-teaser-badge",
+        "variant": "night",
         "seconds": 7
       },
       {
-        "sceneId": "s07",
-        "caption": "AI as a helper: 24.3% faster. Whole tasks: 17.7% slower.",
-        "highlight": "17.7% slower",
-        "seconds": 6
+        "kind": "card",
+        "text": "What if your next teammate never sleeps, and sometimes makes things up?",
+        "illustration": "ill-tbt-teaser-night",
+        "variant": "night",
+        "seconds": 7
       },
       {
-        "sceneId": "s07b",
-        "caption": "A whole report run with AI, no expert hand-offs",
-        "highlight": "no expert hand-offs",
-        "seconds": 6
+        "kind": "scene",
+        "sceneId": "s01b",
+        "caption": "How will people and AI actually work together?",
+        "highlight": "actually work together",
+        "seconds": 7
       },
       {
-        "sceneId": "s08",
-        "caption": "A designed hand-off: 29% more cancers found",
-        "highlight": "29% more cancers found",
-        "seconds": 6
+        "kind": "scene",
+        "sceneId": "s06",
+        "caption": "Who should do each task? Probably not who you think.",
+        "highlight": "not who you think",
+        "seconds": 8
       },
       {
-        "sceneId": "s09",
-        "caption": "Upskill people. Engineer agents. Own every hand-off.",
-        "highlight": "Own every hand-off",
-        "seconds": 6
+        "kind": "card",
+        "text": "The real risk isn't the agent. It's the handoff nobody owns.",
+        "illustration": "ill-tbt-teaser-gap",
+        "variant": "night",
+        "seconds": 7
       },
       {
-        "sceneId": "s10",
-        "caption": "What if teams were built around that loop?",
-        "highlight": "that loop",
-        "seconds": 6
+        "kind": "card",
+        "text": "What if your org chart was redrawn every week?",
+        "illustration": "ill-tbt-teaser-orgchart",
+        "variant": "night",
+        "seconds": 7
       },
       {
+        "kind": "card",
+        "text": "Which of your tasks would you give away tomorrow?",
+        "illustration": "ill-tbt-teaser-cards",
+        "variant": "night",
+        "seconds": 7
+      },
+      {
+        "kind": "scene",
         "sceneId": "s11",
         "caption": "Full episode tomorrow, on my profile",
         "highlight": "tomorrow",
-        "seconds": 7
+        "seconds": 8
       }
     ]
   },

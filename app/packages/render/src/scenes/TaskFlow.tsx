@@ -76,7 +76,8 @@ export const TaskFlow: React.FC<SceneProps> = ({ scene, geo, theme, tokens }) =>
   if (o.template !== "task_flow") return null;
   const c = geo.content;
   const total = sceneFrames(scene);
-  const n = o.occupations.length;
+  // a short glimpse (teaser beat under 10 s) shows only the first occupation, fully drawn
+  const n = total < 300 ? 1 : o.occupations.length;
   const slot = total / n;
   const idx = Math.min(n - 1, Math.floor(frame / slot));
   const occ = o.occupations[idx]!;

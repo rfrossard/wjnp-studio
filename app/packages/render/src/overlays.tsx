@@ -78,6 +78,7 @@ export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" |
   }, [scene, innerW, innerH, cfg.max, cfg.min, cfg.maxChars]);
   const chunk = activeChunk(chunks, frame);
   const sc = (scene as { shortCaption?: { text: string; highlight?: string } }).shortCaption;
+  if (sc && !sc.text) return null; // teaser card: the line is on the card itself
   if (sc) {
     // silent short: one plain caption per beat, the key phrase on an accent chip, no karaoke
     const size = geo.isV ? 46 : 40;
