@@ -20,6 +20,7 @@ export const OUTPUTS = {
   master: { aspect: "9:16", width: 1080, height: 1920, safeArea: "4:5" },
   desktop: { aspect: "16:9", width: 1920, height: 1080, safeArea: "16:9" },
   cut: { aspect: "9:16", width: 1080, height: 1920, safeArea: "4:5" },
+  "cut-horizontal": { aspect: "16:9", width: 1920, height: 1080, safeArea: "16:9" },
 } as const;
 export type OutputName = keyof typeof OUTPUTS;
 
@@ -634,6 +635,20 @@ export const Episode = z.object({
   sources: z.array(Source).default([]),
   claims: z.array(Claim).default([]),
   scenes: z.array(Scene).default([]),
+  /**
+   * Silent short (owner rules 2026-11-11): music only, no narration, no narration captions. Each beat
+   * replays an existing scene for `seconds` with one plain caption saying what the viewer sees.
+   * Rendered as `cut` (9:16) and `cut-horizontal` (16:9). Total 60 to 90 s, ends on the end card.
+   */
+  short: z
+    .object({
+      mode: z.literal("silent"),
+      beats: z
+        .array(z.object({ sceneId: Id, caption: z.string().min(1).max(70), highlight: z.string().max(30).optional(), seconds: z.number().min(2).max(10) }))
+        .min(4)
+        .max(16),
+    })
+    .optional(),
   design: z.object({
     profile: z.literal("personal"),
     accent: Accent,

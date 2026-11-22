@@ -77,6 +77,22 @@ export const Captions: React.FC<SceneProps & { captionStyle?: "box" | "shadow" |
     return { chunks, fontSize };
   }, [scene, innerW, innerH, cfg.max, cfg.min, cfg.maxChars]);
   const chunk = activeChunk(chunks, frame);
+  const sc = (scene as { shortCaption?: { text: string; highlight?: string } }).shortCaption;
+  if (sc) {
+    // silent short: one plain caption per beat, the key phrase on an accent chip, no karaoke
+    const size = geo.isV ? 46 : 40;
+    const parts = sc.highlight && sc.text.includes(sc.highlight) ? sc.text.split(sc.highlight) : [sc.text];
+    const appear = Math.min(1, frame / 8);
+    return (
+      <div style={{ position: "absolute", left: geo.captions.x, top: geo.captions.y, width: geo.captions.w, height: geo.captions.h, display: "flex", alignItems: "center", justifyContent: "center", opacity: appear }}>
+        <div style={{ fontFamily: tokens.type.text, fontWeight: 700, fontSize: size, lineHeight: 1.25, color: NEUTRALS.paper, textAlign: "center", textShadow: "0 2px 10px rgba(0,0,0,0.5)", padding: "0 32px" }}>
+          {parts[0]}
+          {parts.length > 1 ? <span style={{ background: theme.accent, color: NEUTRALS.ink, borderRadius: 6, padding: "0 10px", textShadow: "none", whiteSpace: "nowrap" }}>{sc.highlight}</span> : null}
+          {parts.length > 1 ? parts.slice(1).join(sc.highlight) : null}
+        </div>
+      </div>
+    );
+  }
 
   if (captionStyle === "shadow") {
     // No box — white text with a multi-layer shadow so it reads on any background color.

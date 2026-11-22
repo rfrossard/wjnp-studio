@@ -1,7 +1,7 @@
 import { DURATION_RULES, FPS, type Claim, type Episode, type Scene, type Source } from "@wjnp/contracts";
 import type { DesignTokens } from "./brand/tokens";
 
-export type OutputKind = "master" | "desktop" | "cut";
+export type OutputKind = "master" | "desktop" | "cut" | "cut-horizontal";
 
 /** Files resolved by scripts/render.ts (names inside the bundle's public dir). Absent => placeholders / silence. */
 export type ResolvedAssets = {
@@ -33,7 +33,19 @@ export function sceneFrames(scene: Scene): number {
 
 export function scenesFor(episode: Episode, kind: OutputKind): Scene[] {
   const all = [...episode.scenes].sort((a, b) => a.order - b.order);
-  return kind === "cut" ? all.filter((s) => s.inCut) : all;
+  if (kind === "cut" || kind === "cut-horizontal") {
+    const short = (episode as { short?: { beats: { sceneId: string; caption: string; highlight?: string; seconds: number }[] } }).short;
+    if (short?.beats?.length) {
+      // each beat is a silent copy of its scene, with its own id so no narration is found for it
+      return short.beats.flatMap((b, k) => {
+        const src = all.find((s) => s.id === b.sceneId);
+        if (!src) return [];
+        return [{ ...src, id: `${src.id}-b${k}`, order: k, durationFrames: Math.round(b.seconds * FPS), narration: { ...src.narration, audio: undefined }, shortCaption: { text: b.caption, highlight: b.highlight } } as Scene];
+      });
+    }
+    return all.filter((s) => s.inCut);
+  }
+  return all;
 }
 
 export function totalFrames(scenes: Scene[]): number {

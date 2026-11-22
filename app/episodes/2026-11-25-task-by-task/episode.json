@@ -199,7 +199,7 @@
     {
       "id": "s-deloitte-dewr",
       "url": "https://www.dewr.gov.au/assuring-integrity-targeted-compliance-framework/resources/targeted-compliance-framework-assurance-review-final-report",
-      "title": "Targeted Compliance Framework Assurance Review – Final Report",
+      "title": "Targeted Compliance Framework Assurance Review \u2013 Final Report",
       "publisher": "Department of Employment and Workplace Relations (Australia)",
       "publishedAt": "2025-10-03",
       "capturedAt": "2026-11-22T05:46:41+00:00",
@@ -273,7 +273,7 @@
       "evidence": [
         {
           "sourceId": "s-wang-arxiv",
-          "quote": "agents deliver results 88.3% faster and cost 90.4–96.2% less than humans"
+          "quote": "agents deliver results 88.3% faster and cost 90.4\u201396.2% less than humans"
         },
         {
           "sourceId": "s-wang-ppcland",
@@ -295,7 +295,7 @@
       "text": "AI augmentation (AI as a helper inside the human's workflow) sped people up by 24.3%; AI automation (handing whole tasks to AI) slowed them by 17.7%, due to verification and debugging overhead.",
       "kind": "number",
       "value": {
-        "display": "+24.3% / −17.7%"
+        "display": "+24.3% / \u221217.7%"
       },
       "evidence": [
         {
@@ -308,7 +308,7 @@
         },
         {
           "sourceId": "s-wang-towardsai",
-          "quote": "Teams attempting automation — delegating whole tasks end-to-end — experience ~−18% efficiency due to verification and debugging overhead."
+          "quote": "Teams attempting automation \u2014 delegating whole tasks end-to-end \u2014 experience ~\u221218% efficiency due to verification and debugging overhead."
         }
       ],
       "verdict": "verified",
@@ -613,11 +613,11 @@
       "press": [
         {
           "image": "press-engadget-apple",
-          "credit": "Engadget · Nov 19, 2026"
+          "credit": "Engadget \u00b7 Nov 19, 2026"
         },
         {
           "image": "press-cnbc-apple",
-          "credit": "CNBC · Nov 2026"
+          "credit": "CNBC \u00b7 Nov 2026"
         }
       ],
       "durationFrames": 429,
@@ -1257,7 +1257,7 @@
         "template": "stat",
         "claimId": "c-tasknet-79",
         "label": "tasks workers do that the official US catalog doesn't list",
-        "context": "Step 1 · Map every task · 132 workers, 6 occupations"
+        "context": "Step 1 \u00b7 Map every task \u00b7 132 workers, 6 occupations"
       },
       "narration": {
         "voiceId": "voice-mark",
@@ -1616,7 +1616,7 @@
       "style": "editorial_data",
       "onScreen": {
         "template": "timeline",
-        "headline": "Step 2 · Watch how tasks change",
+        "headline": "Step 2 \u00b7 Watch how tasks change",
         "steps": [
           {
             "label": "Map",
@@ -1951,7 +1951,7 @@
         "template": "stat",
         "claimId": "c-agents-faster",
         "label": "less time than professionals, but weaker work and some made-up data",
-        "context": "Step 3 · Who does each task better?"
+        "context": "Step 3 \u00b7 Who does each task better?"
       },
       "narration": {
         "voiceId": "voice-mark",
@@ -2335,7 +2335,7 @@
       "style": "editorial_data",
       "onScreen": {
         "template": "task_flow",
-        "headline": "Step 4 · Orchestrate",
+        "headline": "Step 4 \u00b7 Orchestrate",
         "occupations": [
           {
             "name": "Consultant",
@@ -3556,7 +3556,7 @@
       "press": [
         {
           "image": "press-fortune-deloitte",
-          "credit": "Fortune · Oct 7, 2025"
+          "credit": "Fortune \u00b7 Oct 7, 2025"
         }
       ],
       "durationFrames": 842,
@@ -3948,7 +3948,7 @@
       "press": [
         {
           "image": "press-appliedrad-masai",
-          "credit": "Applied Radiology · Feb 11, 2025"
+          "credit": "Applied Radiology \u00b7 Feb 11, 2025"
         }
       ],
       "durationFrames": 798,
@@ -4903,5 +4903,98 @@
   },
   "approvals": {
     "brief": "2026-11-22T05:57:13.248Z"
+  },
+  "short": {
+    "mode": "silent",
+    "beats": [
+      {
+        "sceneId": "s01b",
+        "caption": "A new series: What's just now possible? Episode 2",
+        "highlight": "Episode 2",
+        "seconds": 5
+      },
+      {
+        "sceneId": "s01",
+        "caption": "This week, Apple is hiring to build its own AI agent",
+        "highlight": "its own AI agent",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s02",
+        "caption": "Start bottom up: a job is a bundle of tasks",
+        "highlight": "a bundle of tasks",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s03",
+        "caption": "79 tasks people do are missing from the official catalog",
+        "highlight": "79 tasks",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s04",
+        "caption": "Task maps should be redrawn often, not every few years",
+        "highlight": "redrawn often",
+        "seconds": 5
+      },
+      {
+        "sceneId": "s05",
+        "caption": "AI agents took 88.3% less time, but some made up data",
+        "highlight": "made up data",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s06",
+        "caption": "Orchestrate: each task goes to whoever does it better",
+        "highlight": "whoever does it better",
+        "seconds": 7
+      },
+      {
+        "sceneId": "s07",
+        "caption": "AI as a helper: 24.3% faster. Whole tasks: 17.7% slower.",
+        "highlight": "17.7% slower",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s07b",
+        "caption": "A whole report run with AI, no expert hand-offs",
+        "highlight": "no expert hand-offs",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s08",
+        "caption": "A designed hand-off: 29% more cancers found",
+        "highlight": "29% more cancers found",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s09",
+        "caption": "Upskill people. Engineer agents. Own every hand-off.",
+        "highlight": "Own every hand-off",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s10",
+        "caption": "What if teams were built around that loop?",
+        "highlight": "that loop",
+        "seconds": 6
+      },
+      {
+        "sceneId": "s11",
+        "caption": "Full episode tomorrow, on my profile",
+        "highlight": "tomorrow",
+        "seconds": 7
+      }
+    ]
+  },
+  "post": {
+    "text": "Apple is hiring to build its own AI agent. Agents are coming to everyday work, yet very few people are talking about the hard part: how people and AI will actually work together, day to day.\n\nMost of the debate starts at the top. Which occupations will AI be better at? What should the org chart look like? In this episode I try the other way in, from the bottom up, in four steps.\n\n1. Map every task. A Stanford team found 79 tasks people actually do that the official US task catalog doesn't list.\n2. Watch how those tasks change over time.\n3. Ask, task by task, who does it better. In a Carnegie Mellon and Stanford study, AI agents took 88.3% less time than professionals, but some of them made up data.\n4. Orchestrate the hand-offs between people and agents.\n\nThe hand-offs are where the new problems live, and the design is never done. Upskill people for the tasks they do best. Engineer agents for theirs, with better harnesses, guardrails, evaluation and governance. And give every hand-off an owner.\n\nSo here's what I keep wondering. What if we built teams around that loop?\n\nEpisode 2 of What's just now possible?, my personal point of view on emerging tech, made with AI and curated, written and directed by me.\n\nWhich of your tasks would you hand to an agent tomorrow?",
+    "hashtags": [
+      "#AI",
+      "#FutureOfWork",
+      "#AIAgents"
+    ],
+    "firstComment": "Desktop version: [YouTube link]\n\nSources: Bloomberg and Engadget on Apple's AI agent (Nov 19, 2026). TaskNet by the Stanford Digital Economy Lab with Mercor and the O*NET Center (NBER, Oct 2026). Wang et al., \"How Do AI Agents Do Human Work?\", Carnegie Mellon and Stanford (arXiv, 2025). The Deloitte report: AP, The Register, Fortune and Australia's Department of Employment and Workplace Relations (Oct 2025). The MASAI trial: The Lancet Digital Health (2025) and The Lancet (2026).",
+    "disclaimer": "Views are my own."
   }
 }

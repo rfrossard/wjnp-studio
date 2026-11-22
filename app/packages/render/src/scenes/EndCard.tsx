@@ -47,8 +47,10 @@ export const EndCard: React.FC<SceneProps> = ({ scene, episode, geo, theme, toke
       <div style={{ position: "absolute", left: c.x, top: c.y, width: c.w, height: c.h, display: "flex", flexDirection: "column", justifyContent: "space-between" }}>
         {identity(c.w)}
         <Rule tokens={tokens} delay={2} color={theme.accent} length={c.w} thickness={6} />
-        <Enter i={2} tokens={tokens} style={{ flex: 1, display: "flex", alignItems: "center" }}>
-          <FitText text={o.question} width={c.w} height={420} maxFont={96} minFont={40} role="display" tokens={tokens} color={theme.fg} lineHeight={1.08} />
+        {/* the question gets only the room left between the identity and the QR, with a clear gap above
+            the QR (owner fix 2026-11-22: the question overlapped the QR in the papercut end card) */}
+        <Enter i={2} tokens={tokens} style={{ flex: 1, display: "flex", alignItems: "flex-start", margin: "36px 0 48px", minHeight: 0 }}>
+          <FitText text={o.question} width={c.w} height={Math.max(180, Math.min(340, c.h - 110 - 30 - qrSize - 84 - 40))} maxFont={96} minFont={40} role="display" tokens={tokens} color={theme.fg} lineHeight={1.08} />
         </Enter>
         <div style={{ display: "flex", gap: 40, alignItems: "flex-end" }}>
           {qr}

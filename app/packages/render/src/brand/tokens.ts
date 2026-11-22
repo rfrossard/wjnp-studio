@@ -91,6 +91,7 @@ export const OUTPUT_SIZES = {
   master: { width: 1080, height: 1920 },
   desktop: { width: 1920, height: 1080 },
   cut: { width: 1080, height: 1920 },
+  "cut-horizontal": { width: 1920, height: 1080 },
 } as const;
 
 export function mix(a: string, b: string, t: number): string {

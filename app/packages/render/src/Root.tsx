@@ -24,6 +24,7 @@ const make = (kind: OutputKind, layout: Layout): React.FC<RenderProps> => {
 const Master = make("master", "vertical");
 const Desktop = make("desktop", "horizontal");
 const Cut = make("cut", "vertical");
+const CutH = make("cut-horizontal", "horizontal");
 
 export const RemotionRoot: React.FC = () => {
   const defaults: RenderProps = { episode: GOLDEN_EPISODE };
@@ -33,6 +34,7 @@ export const RemotionRoot: React.FC = () => {
       <Composition id="master" component={Master} width={1080} height={1920} durationInFrames={totalFrames(scenesFor(GOLDEN_EPISODE, "master"))} calculateMetadata={meta("master")} {...common} />
       <Composition id="desktop" component={Desktop} width={1920} height={1080} durationInFrames={totalFrames(scenesFor(GOLDEN_EPISODE, "desktop"))} calculateMetadata={meta("desktop")} {...common} />
       <Composition id="cut" component={Cut} width={1080} height={1920} durationInFrames={totalFrames(scenesFor(GOLDEN_EPISODE, "cut"))} calculateMetadata={meta("cut")} {...common} />
+      <Composition id="cut-horizontal" component={CutH} width={1920} height={1080} durationInFrames={totalFrames(scenesFor(GOLDEN_EPISODE, "cut"))} calculateMetadata={meta("cut-horizontal")} {...common} />
       {(Object.keys(LIB_STYLES) as LibStyleId[]).map((id) => (
         <Composition key={id} id={`lib-${id}`} component={LibStyleDemo} defaultProps={{ id }} width={1920} height={1080} fps={30} durationInFrames={LIB_DUR + 2 * SLATE} />
       ))}

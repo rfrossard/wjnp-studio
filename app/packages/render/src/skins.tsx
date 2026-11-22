@@ -87,7 +87,8 @@ export function skinGeometry(geo: Geometry, scene: Scene): Geometry {
   if (kind === "papercut") {
     // with no illustration (a chart, a pure statement) the text may use the whole sheet above the strip
     const hasPicture = Boolean((scene as { skin?: { illustration?: string } }).skin?.illustration);
-    if (!hasPicture) {
+    // vertical end card uses the whole sheet: question at the top, QR at the bottom (owner fix 2026-11-22)
+    if (!hasPicture || (geo.isV && scene.onScreen.template === "end_card")) {
       const { bandTop } = papercutLayout(geo);
       return { ...geo, content: { ...geo.content, h: bandTop - (geo.isV ? 50 : 36) - geo.content.y } };
     }
