@@ -74,6 +74,13 @@ function resolveAssets(root: string, epDir: string, episode: Episode, kind: Outp
       const rel = take(blobCandidates(a), `images/${ill}${ext}`);
       if (rel) res.images![ill] = rel;
     }
+    for (const pr of ((s as { press?: { image: string }[] }).press ?? [])) {
+      if (res.images![pr.image]) continue;
+      const a = (asset("visual", pr.image) ?? asset("illustration", pr.image)) as { blob?: { path: string; sha256: string; mime?: string } } | null;
+      const ext = a?.blob?.mime === "image/jpeg" ? ".jpg" : a?.blob?.mime === "image/webp" ? ".webp" : ".png";
+      const rel = take(blobCandidates(a), `images/${pr.image}${ext}`);
+      if (rel) res.images![pr.image] = rel;
+    }
     if (s.onScreen.template === "clip") {
       const id = s.onScreen.clipAssetId;
       const rel = take(blobCandidates(asset("clip", id)), `clips/${id}`);
@@ -117,16 +124,22 @@ async function main() {
 
   if (stills) {
     // vertical stills from the 9:16 master, horizontal stills from the 16:9 desktop composition; all scenes.
-    for (const [compId, layoutDir] of [["master", "vertical"], ["desktop", "horizontal"]] as const) {
+    // review helpers: WJNP_STILL_FRAC=0.2 (where in each scene), WJNP_STILL_ONLY=s01,s06, WJNP_STILL_LAYOUT=vertical
+    const frac = Number(process.env.WJNP_STILL_FRAC ?? "0.5");
+    const only = (process.env.WJNP_STILL_ONLY ?? "").split(",").filter(Boolean);
+    const layouts = ([["master", "vertical"], ["desktop", "horizontal"]] as const).filter(([, l]) => !process.env.WJNP_STILL_LAYOUT || process.env.WJNP_STILL_LAYOUT === l);
+    const suffix = process.env.WJNP_STILL_FRAC ? `@${frac}` : "";
+    for (const [compId, layoutDir] of layouts) {
       const composition = await selectComposition({ serveUrl, id: compId, inputProps, browserExecutable, chromiumOptions });
       const dir = path.join(outDir, "stills", layoutDir);
       fs.mkdirSync(dir, { recursive: true });
       let at = 0;
       for (const s of scenesFor(episode, compId)) {
         const dur = sceneFrames(s);
-        const frame = at + Math.floor(dur / 2);
+        const frame = at + Math.floor(dur * frac);
         at += dur;
-        const output = path.join(dir, `${s.id}.png`);
+        if (only.length && !only.includes(s.id)) continue;
+        const output = path.join(dir, `${s.id}${suffix}.png`);
         await renderStill({ composition, serveUrl, output, frame, inputProps, browserExecutable, chromiumOptions, imageFormat: "png" });
         console.log("still", path.relative(root, output));
       }

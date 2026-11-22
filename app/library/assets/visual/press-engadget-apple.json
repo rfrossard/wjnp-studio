@@ -1,0 +1,32 @@
+{
+  "id": "press-engadget-apple",
+  "type": "visual",
+  "title": "Press clipping: Engadget \u00b7 Nov 19, 2026",
+  "tags": [
+    "press",
+    "clipping"
+  ],
+  "origin": {
+    "kind": "screenshot",
+    "note": "Supplied by Beto; cropped to headline, no faces, no outlet logo block"
+  },
+  "license": {
+    "kind": "fair_use",
+    "note": "Short headline excerpt shown with attribution for commentary; owner approved 2026-11-21."
+  },
+  "createdAt": "2026-11-22T06:05:28.578329Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "8567ff1ac6922e65220f92c796a54e3b020452cec8c121bfc43b435e67418a08",
+    "path": "8567ff1ac6922e65220f92c796a54e3b020452cec8c121bfc43b435e67418a08",
+    "mime": "image/png",
+    "bytes": 115817
+  },
+  "data": {
+    "credit": "Engadget \u00b7 Nov 19, 2026"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

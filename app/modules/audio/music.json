@@ -47,6 +47,30 @@
       "mood": "Clean corporate synth pad and soft bass, polished, neutral",
       "prompt": "Clean corporate-style synth pad with soft bass, polished and neutral, light motion, no drums, instrumental, no vocals, loopable background music for a professional business video",
       "seconds": 60
+    },
+    {
+      "id": "music-fault-line",
+      "name": "Fault Line",
+      "tone": "measured",
+      "mood": "Low cello drone and sparse piano, serious and reflective",
+      "prompt": "Low sustained cello drone with sparse, slow felt piano notes, serious and reflective, subtle tension without drama, no drums, no vocals, instrumental, loopable background music for a thoughtful documentary about technology and work",
+      "seconds": 60
+    },
+    {
+      "id": "music-undertow",
+      "name": "Undertow",
+      "tone": "measured",
+      "mood": "Dark ambient pad with a slow pulse, quietly tense",
+      "prompt": "Dark warm ambient synth pad with a slow soft heartbeat-like pulse, quietly tense and forward-moving, minimal, no drums, no vocals, instrumental, loopable background music for a serious explainer video",
+      "seconds": 60
+    },
+    {
+      "id": "music-vigil",
+      "name": "Vigil",
+      "tone": "measured",
+      "mood": "Slow string ensemble and soft piano, hopeful seriousness",
+      "prompt": "Slow string ensemble with soft piano, serious but quietly hopeful, gentle swells, no percussion, no vocals, instrumental, loopable background music for a reflective documentary",
+      "seconds": 60
     }
   ]
 }

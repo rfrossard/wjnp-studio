@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s10",
+  "type": "illustration",
+  "title": "Task by task s10: team of people and agents redesigning a task flow",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "871994b369a2059762c9c7e096d68fd228f28a4537ab66a31cc171c0d86c9661",
+    "path": "871994b369a2059762c9c7e096d68fd228f28a4537ab66a31cc171c0d86c9661",
+    "mime": "image/png",
+    "bytes": 2399455
+  },
+  "data": {
+    "subject": "team of people and agents redesigning a task flow"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s03",
+  "type": "illustration",
+  "title": "Task by task s03: official map with new task cards pinned in the margin",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "a0d263ba13c560cec74336a1490b5cc07ea80992e34f9f79c4a212a48414f926",
+    "path": "a0d263ba13c560cec74336a1490b5cc07ea80992e34f9f79c4a212a48414f926",
+    "mime": "image/png",
+    "bytes": 2705822
+  },
+  "data": {
+    "subject": "official map with new task cards pinned in the margin"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

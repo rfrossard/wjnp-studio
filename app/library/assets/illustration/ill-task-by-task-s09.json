@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s09",
+  "type": "illustration",
+  "title": "Task by task s09: iteration loop with upskilling ladder and guardrailed agent path",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "1309038adb278eb3aae6e8be23d44569513fecb7544fb484d6ea5bc316f9d696",
+    "path": "1309038adb278eb3aae6e8be23d44569513fecb7544fb484d6ea5bc316f9d696",
+    "mime": "image/png",
+    "bytes": 2308979
+  },
+  "data": {
+    "subject": "iteration loop with upskilling ladder and guardrailed agent path"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

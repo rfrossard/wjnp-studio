@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s08",
+  "type": "illustration",
+  "title": "Task by task s08: designed hand-off in screening, robot flags, human decides",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "c7bce0df32c4b4ad63a2e0a955fa51c8e27fb8f1da6924e7ca67b34c8dde74f0",
+    "path": "c7bce0df32c4b4ad63a2e0a955fa51c8e27fb8f1da6924e7ca67b34c8dde74f0",
+    "mime": "image/png",
+    "bytes": 2397547
+  },
+  "data": {
+    "subject": "designed hand-off in screening, robot flags, human decides"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

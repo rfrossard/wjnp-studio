@@ -18,7 +18,7 @@ export const Timeline: React.FC<SceneProps> = ({ scene, geo, theme, tokens }) =>
     const rowH = bodyH / n;
     const textW = c.w - 150;
     const labFont = 38;
-    const font = fitShared(o.steps.map((s) => s.text), textW, rowH - labFont * 1.4 - 24, { maxFont: 62, minFont: 28, lineHeight: 1.2 });
+    const font = fitShared(o.steps.map((s) => s.text), textW, rowH - labFont * 1.4 - 24, { maxFont: 62, minFont: geo.isV ? 30 : 22, lineHeight: 1.2 });
     return (
       <div style={{ position: "absolute", left: c.x, top: c.y, width: c.w, height: c.h, display: "flex", flexDirection: "column", gap: 36 }}>
         {head}

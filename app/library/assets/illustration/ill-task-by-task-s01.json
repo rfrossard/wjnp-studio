@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s01",
+  "type": "illustration",
+  "title": "Task by task s01: cobalt paper robot using a computer",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "cdad7827b8b4c70cbe3d42c929cc75927d951a1f4f5192c6381e213376da10ed",
+    "path": "cdad7827b8b4c70cbe3d42c929cc75927d951a1f4f5192c6381e213376da10ed",
+    "mime": "image/png",
+    "bytes": 2311399
+  },
+  "data": {
+    "subject": "cobalt paper robot using a computer"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

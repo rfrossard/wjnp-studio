@@ -24,7 +24,7 @@ export interface PresetConfig {
 }
 
 const SYS = {
-  serif: `"Source Serif 4","Charter","Bitstream Charter",Georgia,"Liberation Serif",serif`,
+  serif: `"Source Serif 4","Lora","Charter","Bitstream Charter",Georgia,"Liberation Serif",serif`,
   mono:  `"JetBrains Mono","SF Mono","Fira Mono","Menlo","Consolas","Liberation Mono",monospace`,
   sans:  `"Inter","Helvetica Neue",Arial,"Liberation Sans",sans-serif`,
 };

@@ -1,0 +1,31 @@
+{
+  "id": "music-undertow",
+  "type": "music",
+  "title": "Undertow",
+  "tags": [
+    "music",
+    "measured",
+    "serious"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ElevenLabs Music (music_v1), 120 s"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated instrumental track (ElevenLabs Music); no vocals, personal-brand use only."
+  },
+  "createdAt": "2026-11-22T05:57:33.037553Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "ac45bac4f61ab60d17d76a4f8b3600d8bd0220e4e781e519c13632caf0696b03",
+    "path": "ac45bac4f61ab60d17d76a4f8b3600d8bd0220e4e781e519c13632caf0696b03",
+    "mime": "audio/mpeg",
+    "bytes": 1920566
+  },
+  "data": {},
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

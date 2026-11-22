@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s07",
+  "type": "illustration",
+  "title": "Task by task s07: failed hand-off, report falling with hollow footnotes",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "9f8ae413b7abe12e46b5a90932eaf17e2bcf6e011e6c7cc46383899f402a0899",
+    "path": "9f8ae413b7abe12e46b5a90932eaf17e2bcf6e011e6c7cc46383899f402a0899",
+    "mime": "image/png",
+    "bytes": 2415274
+  },
+  "data": {
+    "subject": "failed hand-off, report falling with hollow footnotes"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

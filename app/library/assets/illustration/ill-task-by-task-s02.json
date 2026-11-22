@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s02",
+  "type": "illustration",
+  "title": "Task by task s02: org chart flipping into task cards",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "e37a24d7c37ef0a3c170bcaeccb22fcee3b78c9373626a060ffe867aec13b4d2",
+    "path": "e37a24d7c37ef0a3c170bcaeccb22fcee3b78c9373626a060ffe867aec13b4d2",
+    "mime": "image/png",
+    "bytes": 2186345
+  },
+  "data": {
+    "subject": "org chart flipping into task cards"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

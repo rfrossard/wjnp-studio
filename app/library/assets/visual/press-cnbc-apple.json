@@ -1,0 +1,32 @@
+{
+  "id": "press-cnbc-apple",
+  "type": "visual",
+  "title": "Press clipping: CNBC \u00b7 Nov 2026",
+  "tags": [
+    "press",
+    "clipping"
+  ],
+  "origin": {
+    "kind": "screenshot",
+    "note": "Supplied by Beto; cropped to headline, no faces, no outlet logo block"
+  },
+  "license": {
+    "kind": "fair_use",
+    "note": "Short headline excerpt shown with attribution for commentary; owner approved 2026-11-21."
+  },
+  "createdAt": "2026-11-22T06:05:28.578329Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "ddc9087f3126d652feeea5faa4eaa825d4f5cc1403cfce6f246a6899c84bb74d",
+    "path": "ddc9087f3126d652feeea5faa4eaa825d4f5cc1403cfce6f246a6899c84bb74d",
+    "mime": "image/png",
+    "bytes": 482280
+  },
+  "data": {
+    "credit": "CNBC \u00b7 Nov 2026"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

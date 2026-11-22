@@ -1,0 +1,32 @@
+{
+  "id": "ill-task-by-task-handoff",
+  "type": "illustration",
+  "title": "Task by task: relay hand-off between a paper hand and a robot hand, clocks on the seam",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-18"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T06:05:28.578329Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "aec47237b2d5ae19f494ca3f865e3f2840bce043c87cd742789c1feee5ff1e47",
+    "path": "aec47237b2d5ae19f494ca3f865e3f2840bce043c87cd742789c1feee5ff1e47",
+    "mime": "image/png",
+    "bytes": 2408176
+  },
+  "data": {},
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

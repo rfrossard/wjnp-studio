@@ -1,0 +1,32 @@
+{
+  "id": "press-appliedrad-masai",
+  "type": "visual",
+  "title": "Press clipping: Applied Radiology \u00b7 Feb 11, 2025",
+  "tags": [
+    "press",
+    "clipping"
+  ],
+  "origin": {
+    "kind": "screenshot",
+    "note": "Supplied by Beto; cropped to headline, no faces, no outlet logo block"
+  },
+  "license": {
+    "kind": "fair_use",
+    "note": "Short headline excerpt shown with attribution for commentary; owner approved 2026-11-21."
+  },
+  "createdAt": "2026-11-22T06:05:28.578329Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "7b31a009406993d38ff1e264a0efa9c1fff19954fa63a8dfc30bab88588137e1",
+    "path": "7b31a009406993d38ff1e264a0efa9c1fff19954fa63a8dfc30bab88588137e1",
+    "mime": "image/png",
+    "bytes": 84588
+  },
+  "data": {
+    "credit": "Applied Radiology \u00b7 Feb 11, 2025"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

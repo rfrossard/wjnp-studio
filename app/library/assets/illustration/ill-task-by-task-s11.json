@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s11",
+  "type": "illustration",
+  "title": "Task by task s11: person and robot on a hill under a star",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "e4e273e80ba0797f2e3f105304ed9c4559b68c2b9c3648909ee7af4761ac06d1",
+    "path": "e4e273e80ba0797f2e3f105304ed9c4559b68c2b9c3648909ee7af4761ac06d1",
+    "mime": "image/png",
+    "bytes": 2253632
+  },
+  "data": {
+    "subject": "person and robot on a hill under a star"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

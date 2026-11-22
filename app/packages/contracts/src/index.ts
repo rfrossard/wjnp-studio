@@ -295,6 +295,25 @@ export const OnScreen = z.discriminatedUnion("template", [
    * A conceptual chart: a shape that explains an idea, never data. "jaws": two curves over time that
    * open apart (upper accelerates, lower grows slowly), the gap shaded. Always labelled illustrative.
    */
+  /**
+   * Task flow (owner reference 2026-11-21, the "seven occupations, one method" scene): one or two
+   * occupations, each a sequence of tasks drawn on two lanes, person and agent. A task is marked by
+   * who does it better; the agent lane runs shorter, which shows the time saved. Always illustrative.
+   */
+  z.object({
+    template: z.literal("task_flow"),
+    headline: short(70).optional(),
+    occupations: z
+      .array(
+        z.object({
+          name: short(32),
+          tasks: z.array(z.object({ label: short(32), best: z.enum(["human", "agent"]) })).min(3).max(7),
+        }),
+      )
+      .min(1)
+      .max(2),
+    note: short(40).default("Illustrative split"),
+  }),
   z.object({
     template: z.literal("concept_chart"),
     shape: z.enum(["jaws"]),
@@ -320,6 +339,7 @@ export const TEMPLATE_IDS = [
   "personal_take",
   "end_card",
   "concept_chart",
+  "task_flow",
 ] as const satisfies readonly TemplateId[];
 
 export const StyleId = z.enum([
@@ -496,6 +516,15 @@ export const Scene = z.object({
       text: z.string().min(1).max(90).optional(),
       dateline: z.string().min(1).max(40).optional(),
     })
+    .optional(),
+  /**
+   * Press clippings (owner request 2026-11-21): screenshots of headlines shown as paper clippings
+   * over the scene, one after another in the first part of the scene. `image` is a library asset id
+   * (type "visual"); `credit` is printed under it. Crop out faces and logos before importing.
+   */
+  press: z
+    .array(z.object({ image: z.string().min(1).max(120), credit: z.string().min(1).max(60) }))
+    .max(3)
     .optional(),
   durationFrames: z.number().int().positive().optional(), // derived from narration audio
   gate: GateResult.optional(),

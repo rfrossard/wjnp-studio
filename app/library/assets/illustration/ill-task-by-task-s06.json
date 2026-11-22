@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s06",
+  "type": "illustration",
+  "title": "Task by task s06: loom weaving cream and cobalt threads",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "ff338b0eca0a9e804701e8579aed2608d65b45ef5c05cf30e8a20b5bb3af7446",
+    "path": "ff338b0eca0a9e804701e8579aed2608d65b45ef5c05cf30e8a20b5bb3af7446",
+    "mime": "image/png",
+    "bytes": 2489694
+  },
+  "data": {
+    "subject": "loom weaving cream and cobalt threads"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

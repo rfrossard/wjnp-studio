@@ -1,0 +1,32 @@
+{
+  "id": "press-fortune-deloitte",
+  "type": "visual",
+  "title": "Press clipping: Fortune \u00b7 Oct 7, 2025",
+  "tags": [
+    "press",
+    "clipping"
+  ],
+  "origin": {
+    "kind": "screenshot",
+    "note": "Supplied by Beto; cropped to headline, no faces, no outlet logo block"
+  },
+  "license": {
+    "kind": "fair_use",
+    "note": "Short headline excerpt shown with attribution for commentary; owner approved 2026-11-21."
+  },
+  "createdAt": "2026-11-22T06:05:28.578329Z",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "35e4dffa0884f6bac9061fdb02a265681aaf72a9a49ee46f25c0f18a501ec18c",
+    "path": "35e4dffa0884f6bac9061fdb02a265681aaf72a9a49ee46f25c0f18a501ec18c",
+    "mime": "image/png",
+    "bytes": 81664
+  },
+  "data": {
+    "credit": "Fortune \u00b7 Oct 7, 2025"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

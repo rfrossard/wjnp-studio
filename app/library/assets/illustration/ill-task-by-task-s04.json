@@ -1,0 +1,34 @@
+{
+  "id": "ill-task-by-task-s04",
+  "type": "illustration",
+  "title": "Task by task s04: film strip where task cards appear and fade",
+  "tags": [
+    "papercut",
+    "night",
+    "task-by-task"
+  ],
+  "origin": {
+    "kind": "generated",
+    "tool": "ChatGPT subscription image generation (gpt-6.1-terra)",
+    "date": "2026-11-22"
+  },
+  "license": {
+    "kind": "generated",
+    "note": "Generated for Beto's personal channel; no logos, text or real people by prompt."
+  },
+  "createdAt": "2026-11-22T05:45:41+00:00",
+  "version": 1,
+  "state": "approved",
+  "blob": {
+    "sha256": "213a53909fd453be04ac1285f291b00f31faad3fdbc078d5c82ff9f4a8902db3",
+    "path": "213a53909fd453be04ac1285f291b00f31faad3fdbc078d5c82ff9f4a8902db3",
+    "mime": "image/png",
+    "bytes": 2386483
+  },
+  "data": {
+    "subject": "film strip where task cards appear and fade"
+  },
+  "usedIn": [
+    "2026-11-25-task-by-task"
+  ]
+}

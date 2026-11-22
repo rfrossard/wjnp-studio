@@ -12,6 +12,7 @@ import { Statement } from "./Statement";
 import { Stat } from "./Stat";
 import { Timeline } from "./Timeline";
 import { TitleHook } from "./TitleHook";
+import { TaskFlow } from "./TaskFlow";
 
 export const TEMPLATES: Record<TemplateId, React.FC<SceneProps>> = {
   title_hook: TitleHook,
@@ -25,4 +26,5 @@ export const TEMPLATES: Record<TemplateId, React.FC<SceneProps>> = {
   personal_take: PersonalTake,
   end_card: EndCard,
   concept_chart: ConceptChart,
+  task_flow: TaskFlow,
 };

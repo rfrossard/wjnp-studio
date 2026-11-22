@@ -13,6 +13,7 @@ import { TRANSITION_FRAMES } from "./Transition";
 import { TEMPLATES } from "./scenes";
 import { ComicOverlay, ComicPanel, NewscastLowerThird, NewscastTicker, newscastBlocks, skinGeometry, skinOf } from "./skins";
 import { PapercutBackdrop, papercutVariant } from "./papercut";
+import { PressClippings } from "./press";
 
 const illustrationSrc = (scene: Scene, resolved: ResolvedAssets): string | undefined => {
   const id = (scene as { skin?: { illustration?: string } }).skin?.illustration;
@@ -50,7 +51,9 @@ export const SceneView: React.FC<{
   const bandTheme = variant ? makeTheme("dark", accent) : theme;
   // comic lettering is a heavy sans, never the preset's mono display face
   // comic and papercut are hand-made looks: a heavy sans, never the preset's mono display face
-  const sTokens = kind === "comic" || kind === "papercut" ? { ...tokens, type: { ...tokens.type, display: tokens.type.text } } : tokens;
+  // papercut keeps a serif display face (Studio preset); only a mono display face is swapped for the text face
+  const monoDisplay = /mono|menlo|consolas|courier/i.test(tokens.type.display.split(",")[0] ?? "");
+  const sTokens = kind === "comic" || (kind === "papercut" && monoDisplay) ? { ...tokens, type: { ...tokens.type, display: tokens.type.text } } : tokens;
   const props: SceneProps = { scene, episode, layout, geo, theme, tokens: sTokens, resolved };
   const T = TEMPLATES[scene.onScreen.template];
   const narr = resolved.narration[scene.id];
@@ -59,6 +62,7 @@ export const SceneView: React.FC<{
       {kind === "comic" ? <ComicPanel geo={geo} accent={accent} /> : null}
       {variant ? <PapercutBackdrop geo={geo} variant={variant} globalFrom={globalFrom} image={illustrationSrc(scene, resolved)} /> : null}
       <T {...props} />
+      <PressClippings scene={scene} geo={geo} resolved={resolved} tokens={sTokens} />
       {kind === "comic" ? <ComicOverlay scene={scene} geo={geo} tokens={sTokens} /> : null}
       {kind === "newscast" ? <NewscastLowerThird scene={scene} episode={episode} geo={geo} theme={theme} tokens={tokens} /> : null}
       <SourceChip {...props} />
