@@ -1,15 +1,14 @@
 {
   "narrator": {
-    "assetId": "voice-roberto",
-    "elevenVoiceId": "vmkubLTlwMyFKgNqlYes",
+    "assetId": "voice-mark",
+    "elevenVoiceId": "1SM7GgM6IMuvQlz2BwM3",
     "settings": {
       "stability": 0.5,
       "similarity_boost": 0.75,
       "model_id": "eleven_v3",
-      "language_code": "en",
-      "text_prefix": "[Brazilian accent] "
+      "language_code": "en"
     },
-    "note": "Instant clone trained on Portuguese samples. Narrates English with Eleven v3, language_code en and a [Brazilian accent] tag (Beto's pick, option C2, 2026-11-10); multilingual_v2 gave an accent he does not have. A clone from English audio would still be closer."
+    "note": "Default narrator is Mark (native American English), Beto's pick on 2026-11-10 after the clone kept a non-native accent. The clone (voice-roberto) stays in the menu."
   },
   "cast": [
     {

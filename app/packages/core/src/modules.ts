@@ -119,7 +119,7 @@ export const DEFAULT_ACCENTS: Accent[] = [
 export const DEFAULT_DESIGN_TOKENS: DesignTokensFile = { accents: DEFAULT_ACCENTS };
 
 export const DEFAULT_VOICES: VoicesFile = {
-  narrator: { assetId: "voice-roberto" },
+  narrator: { assetId: "voice-mark" },
   cast: [],
   menu: [],
 };

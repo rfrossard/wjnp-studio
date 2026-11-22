@@ -82,7 +82,10 @@ export const TaskFlow: React.FC<SceneProps> = ({ scene, geo, theme, tokens }) =>
   const occ = o.occupations[idx]!;
   const local = frame - idx * slot;
   // cross-fade between occupations
-  const fade = n > 1 ? Math.min(interpolate(local, [0, 10], [0, 1], { extrapolateRight: "clamp" }), interpolate(local, [slot - 10, slot], [1, 0], { extrapolateLeft: "clamp" })) : 1;
+  // cross-fade only at the switch between occupations; the last one stays drawn up to the join
+  const fadeIn = idx > 0 ? interpolate(local, [0, 10], [0, 1], { extrapolateRight: "clamp" }) : 1;
+  const fadeOut = idx < n - 1 ? interpolate(local, [slot - 10, slot], [1, 0], { extrapolateLeft: "clamp" }) : 1;
+  const fade = Math.min(fadeIn, fadeOut);
   const base = idx * slot; // card delays are relative to the occupation's own start
   const step = Math.max(6, Math.min(16, Math.floor((slot * 0.45) / occ.tasks.length)));
 
