@@ -404,241 +404,196 @@
       },
       "narration": {
         "voiceId": "voice-mark",
-        "text": "This week, Bloomberg reported that Apple is hiring to build its own AI agent. One designed to browse the web, control apps, and write code on your behalf. A race OpenAI, Anthropic and Meta are already in. And inside every company, the same conversation starts again.",
+        "text": "This week, Bloomberg reported that Apple is hiring to build its own AI agent. One designed to browse the web, control apps, and write code on your behalf. A race OpenAI, Anthropic and Meta are already in.",
         "audio": {
-          "textSha256": "7698e459e961bda912d3788157c740937b9344c641c8eb998d8eff2d4958f29a",
-          "path": "episodes/2026-11-25-task-by-task/cache/7698e459e961bda912d3788157c740937b9344c641c8eb998d8eff2d4958f29a.mp3",
-          "durationMs": 16240,
+          "textSha256": "f6947d77dbf860db0b171b075f24ea719b7ba58d135c9b5cfe37567a62bd6822",
+          "path": "episodes/2026-11-25-task-by-task/cache/f6947d77dbf860db0b171b075f24ea719b7ba58d135c9b5cfe37567a62bd6822.mp3",
+          "durationMs": 13280,
           "words": [
             {
               "w": "This",
               "startMs": 0,
-              "endMs": 160
+              "endMs": 320
             },
             {
               "w": "week,",
-              "startMs": 208,
-              "endMs": 560
+              "startMs": 368,
+              "endMs": 720
             },
             {
               "w": "Bloomberg",
-              "startMs": 608,
-              "endMs": 1040
+              "startMs": 768,
+              "endMs": 1200
             },
             {
               "w": "reported",
-              "startMs": 1084,
-              "endMs": 1440
+              "startMs": 1253,
+              "endMs": 1680
             },
             {
               "w": "that",
-              "startMs": 1472,
-              "endMs": 1600
+              "startMs": 1712,
+              "endMs": 1840
             },
             {
               "w": "Apple",
-              "startMs": 1667,
-              "endMs": 2000
-            },
-            {
-              "w": "is",
-              "startMs": 2053,
+              "startMs": 1893,
               "endMs": 2160
             },
             {
+              "w": "is",
+              "startMs": 2240,
+              "endMs": 2400
+            },
+            {
               "w": "hiring",
-              "startMs": 2217,
-              "endMs": 2560
+              "startMs": 2457,
+              "endMs": 2800
             },
             {
               "w": "to",
-              "startMs": 2587,
-              "endMs": 2640
-            },
-            {
-              "w": "build",
-              "startMs": 2693,
+              "startMs": 2853,
               "endMs": 2960
             },
             {
-              "w": "its",
-              "startMs": 3020,
+              "w": "build",
+              "startMs": 3000,
               "endMs": 3200
             },
             {
+              "w": "its",
+              "startMs": 3240,
+              "endMs": 3360
+            },
+            {
               "w": "own",
-              "startMs": 3300,
-              "endMs": 3600
+              "startMs": 3440,
+              "endMs": 3680
             },
             {
               "w": "AI",
-              "startMs": 3707,
-              "endMs": 3920
+              "startMs": 3813,
+              "endMs": 4080
             },
             {
               "w": "agent.",
-              "startMs": 3987,
-              "endMs": 4640
+              "startMs": 4147,
+              "endMs": 4560
             },
             {
               "w": "One",
-              "startMs": 4720,
-              "endMs": 4960
+              "startMs": 4700,
+              "endMs": 5120
             },
             {
               "w": "designed",
-              "startMs": 4996,
-              "endMs": 5280
+              "startMs": 5173,
+              "endMs": 5600
             },
             {
               "w": "to",
-              "startMs": 5307,
-              "endMs": 5360
-            },
-            {
-              "w": "browse",
-              "startMs": 5406,
-              "endMs": 5680
-            },
-            {
-              "w": "the",
-              "startMs": 5700,
+              "startMs": 5653,
               "endMs": 5760
             },
             {
-              "w": "web,",
-              "startMs": 5840,
-              "endMs": 6400
-            },
-            {
-              "w": "control",
-              "startMs": 6450,
-              "endMs": 6800
-            },
-            {
-              "w": "apps,",
-              "startMs": 6880,
-              "endMs": 7280
-            },
-            {
-              "w": "and",
-              "startMs": 7300,
-              "endMs": 7360
-            },
-            {
-              "w": "write",
-              "startMs": 7413,
-              "endMs": 7680
-            },
-            {
-              "w": "code",
-              "startMs": 7760,
-              "endMs": 8080
-            },
-            {
-              "w": "on",
-              "startMs": 8107,
-              "endMs": 8160
-            },
-            {
-              "w": "your",
-              "startMs": 8192,
-              "endMs": 8320
-            },
-            {
-              "w": "behalf.",
-              "startMs": 8377,
-              "endMs": 9040
-            },
-            {
-              "w": "A",
-              "startMs": 9160,
-              "endMs": 9280
-            },
-            {
-              "w": "race",
-              "startMs": 9344,
-              "endMs": 9600
-            },
-            {
-              "w": "OpenAI,",
-              "startMs": 9664,
-              "endMs": 10320
-            },
-            {
-              "w": "Anthropic",
-              "startMs": 10368,
-              "endMs": 10880
-            },
-            {
-              "w": "and",
-              "startMs": 10920,
-              "endMs": 11040
-            },
-            {
-              "w": "Meta",
-              "startMs": 11104,
-              "endMs": 11360
-            },
-            {
-              "w": "are",
-              "startMs": 11440,
-              "endMs": 11680
-            },
-            {
-              "w": "already",
-              "startMs": 11720,
-              "endMs": 12000
-            },
-            {
-              "w": "in.",
-              "startMs": 12080,
-              "endMs": 12560
-            },
-            {
-              "w": "And",
-              "startMs": 12700,
-              "endMs": 13120
-            },
-            {
-              "w": "inside",
-              "startMs": 13166,
-              "endMs": 13440
-            },
-            {
-              "w": "every",
-              "startMs": 13493,
-              "endMs": 13760
-            },
-            {
-              "w": "company,",
-              "startMs": 13800,
-              "endMs": 14240
+              "w": "browse",
+              "startMs": 5806,
+              "endMs": 6080
             },
             {
               "w": "the",
-              "startMs": 14280,
-              "endMs": 14400
+              "startMs": 6120,
+              "endMs": 6240
             },
             {
-              "w": "same",
-              "startMs": 14464,
-              "endMs": 14720
+              "w": "web,",
+              "startMs": 6300,
+              "endMs": 6800
             },
             {
-              "w": "conversation",
-              "startMs": 14763,
-              "endMs": 15280
+              "w": "control",
+              "startMs": 6850,
+              "endMs": 7200
             },
             {
-              "w": "starts",
-              "startMs": 15360,
-              "endMs": 15840
+              "w": "apps,",
+              "startMs": 7264,
+              "endMs": 7760
             },
             {
-              "w": "again.",
-              "startMs": 15893,
-              "endMs": 16240
+              "w": "and",
+              "startMs": 7780,
+              "endMs": 7840
+            },
+            {
+              "w": "write",
+              "startMs": 7880,
+              "endMs": 8080
+            },
+            {
+              "w": "code",
+              "startMs": 8160,
+              "endMs": 8480
+            },
+            {
+              "w": "on",
+              "startMs": 8533,
+              "endMs": 8640
+            },
+            {
+              "w": "your",
+              "startMs": 8688,
+              "endMs": 8880
+            },
+            {
+              "w": "behalf.",
+              "startMs": 8937,
+              "endMs": 9560
+            },
+            {
+              "w": "A",
+              "startMs": 9700,
+              "endMs": 9840
+            },
+            {
+              "w": "race",
+              "startMs": 9904,
+              "endMs": 10160
+            },
+            {
+              "w": "OpenAI,",
+              "startMs": 10240,
+              "endMs": 11040
+            },
+            {
+              "w": "Anthropic",
+              "startMs": 11088,
+              "endMs": 11600
+            },
+            {
+              "w": "and",
+              "startMs": 11640,
+              "endMs": 11760
+            },
+            {
+              "w": "Meta",
+              "startMs": 11824,
+              "endMs": 12080
+            },
+            {
+              "w": "are",
+              "startMs": 12160,
+              "endMs": 12400
+            },
+            {
+              "w": "already",
+              "startMs": 12440,
+              "endMs": 12720
+            },
+            {
+              "w": "in.",
+              "startMs": 12800,
+              "endMs": 13280
             }
           ]
         }
@@ -665,12 +620,245 @@
           "credit": "CNBC · Nov 2026"
         }
       ],
-      "durationFrames": 518,
+      "durationFrames": 429,
+      "state": "draft"
+    },
+    {
+      "id": "s01b",
+      "order": 1,
+      "style": "editorial_data",
+      "onScreen": {
+        "template": "statement",
+        "headline": "How will people and AI actually work together?",
+        "body": "A hard conversation few people are having."
+      },
+      "narration": {
+        "voiceId": "voice-mark",
+        "text": "So agents are coming to everyday work. Yet there's a hard conversation very few people are having. Not what AI can do, but how people and AI will actually work together, day to day. That's what this episode is about.",
+        "audio": {
+          "textSha256": "5da67ba288db4c8114ad723a5ccbf92dcc922a814602d7ac728c3df17c128e5e",
+          "path": "episodes/2026-11-25-task-by-task/cache/5da67ba288db4c8114ad723a5ccbf92dcc922a814602d7ac728c3df17c128e5e.mp3",
+          "durationMs": 12480,
+          "words": [
+            {
+              "w": "So",
+              "startMs": 0,
+              "endMs": 240
+            },
+            {
+              "w": "agents",
+              "startMs": 286,
+              "endMs": 560
+            },
+            {
+              "w": "are",
+              "startMs": 600,
+              "endMs": 720
+            },
+            {
+              "w": "coming",
+              "startMs": 754,
+              "endMs": 960
+            },
+            {
+              "w": "to",
+              "startMs": 1013,
+              "endMs": 1120
+            },
+            {
+              "w": "everyday",
+              "startMs": 1156,
+              "endMs": 1440
+            },
+            {
+              "w": "work.",
+              "startMs": 1504,
+              "endMs": 1840
+            },
+            {
+              "w": "Yet",
+              "startMs": 1960,
+              "endMs": 2320
+            },
+            {
+              "w": "there's",
+              "startMs": 2360,
+              "endMs": 2640
+            },
+            {
+              "w": "a",
+              "startMs": 2680,
+              "endMs": 2720
+            },
+            {
+              "w": "hard",
+              "startMs": 2768,
+              "endMs": 2960
+            },
+            {
+              "w": "conversation",
+              "startMs": 3009,
+              "endMs": 3600
+            },
+            {
+              "w": "very",
+              "startMs": 3680,
+              "endMs": 4000
+            },
+            {
+              "w": "few",
+              "startMs": 4060,
+              "endMs": 4240
+            },
+            {
+              "w": "people",
+              "startMs": 4286,
+              "endMs": 4560
+            },
+            {
+              "w": "are",
+              "startMs": 4600,
+              "endMs": 4720
+            },
+            {
+              "w": "having.",
+              "startMs": 4766,
+              "endMs": 5120
+            },
+            {
+              "w": "Not",
+              "startMs": 5280,
+              "endMs": 5760
+            },
+            {
+              "w": "what",
+              "startMs": 5808,
+              "endMs": 6000
+            },
+            {
+              "w": "AI",
+              "startMs": 6107,
+              "endMs": 6320
+            },
+            {
+              "w": "can",
+              "startMs": 6360,
+              "endMs": 6480
+            },
+            {
+              "w": "do,",
+              "startMs": 6560,
+              "endMs": 7040
+            },
+            {
+              "w": "but",
+              "startMs": 7060,
+              "endMs": 7120
+            },
+            {
+              "w": "how",
+              "startMs": 7160,
+              "endMs": 7280
+            },
+            {
+              "w": "people",
+              "startMs": 7337,
+              "endMs": 7680
+            },
+            {
+              "w": "and",
+              "startMs": 7720,
+              "endMs": 7840
+            },
+            {
+              "w": "AI",
+              "startMs": 8000,
+              "endMs": 8320
+            },
+            {
+              "w": "will",
+              "startMs": 8368,
+              "endMs": 8560
+            },
+            {
+              "w": "actually",
+              "startMs": 8604,
+              "endMs": 8960
+            },
+            {
+              "w": "work",
+              "startMs": 9024,
+              "endMs": 9280
+            },
+            {
+              "w": "together,",
+              "startMs": 9316,
+              "endMs": 9920
+            },
+            {
+              "w": "day",
+              "startMs": 9960,
+              "endMs": 10080
+            },
+            {
+              "w": "to",
+              "startMs": 10133,
+              "endMs": 10240
+            },
+            {
+              "w": "day.",
+              "startMs": 10280,
+              "endMs": 10480
+            },
+            {
+              "w": "That's",
+              "startMs": 10608,
+              "endMs": 11200
+            },
+            {
+              "w": "what",
+              "startMs": 11248,
+              "endMs": 11440
+            },
+            {
+              "w": "this",
+              "startMs": 11472,
+              "endMs": 11600
+            },
+            {
+              "w": "episode",
+              "startMs": 11650,
+              "endMs": 12000
+            },
+            {
+              "w": "is",
+              "startMs": 12027,
+              "endMs": 12080
+            },
+            {
+              "w": "about.",
+              "startMs": 12133,
+              "endMs": 12480
+            }
+          ]
+        }
+      },
+      "claimIds": [],
+      "visualAssetIds": [],
+      "messageId": "m1",
+      "isOpinion": false,
+      "inCut": false,
+      "skin": {
+        "kind": "papercut",
+        "variant": "night",
+        "illustration": "ill-task-by-task-s06"
+      },
+      "durationFrames": 405,
       "state": "draft"
     },
     {
       "id": "s02",
-      "order": 1,
+      "order": 2,
       "style": "editorial_data",
       "onScreen": {
         "template": "statement",
@@ -679,376 +867,371 @@
       },
       "narration": {
         "voiceId": "voice-mark",
-        "text": "It's almost always top-down. Which occupations will AI be better at? Which areas should we redesign first? What should the new org chart look like? Those discussions will happen. But there's another way to look at it, from the bottom up. Forget the job title for a moment. Start with the tasks. Because a job is a bundle of tasks, and AI doesn't take the bundle. It takes tasks, one at a time.",
+        "text": "When companies do talk about it, they usually start at the top. Which occupations will AI be better at? Which areas should we redesign first? What should the org chart look like? Those questions matter. But there's a richer way in, from the bottom up. A job is a bundle of tasks, and AI doesn't take the bundle. It takes tasks, one at a time. So let's start there, in four steps.",
         "audio": {
-          "textSha256": "0c041c2f7dbdd088c317822e2a197e7a48597bedab2b6f6c77b5ccfdbd9e2e14",
-          "path": "episodes/2026-11-25-task-by-task/cache/0c041c2f7dbdd088c317822e2a197e7a48597bedab2b6f6c77b5ccfdbd9e2e14.mp3",
-          "durationMs": 22640,
+          "textSha256": "bc4f1c4d1acf67ade7c4e3a8a155dcc09fe1561df93bb25c0363a362991f2e6e",
+          "path": "episodes/2026-11-25-task-by-task/cache/bc4f1c4d1acf67ade7c4e3a8a155dcc09fe1561df93bb25c0363a362991f2e6e.mp3",
+          "durationMs": 21600,
           "words": [
             {
-              "w": "It's",
+              "w": "When",
               "startMs": 0,
-              "endMs": 160
+              "endMs": 80
             },
             {
-              "w": "almost",
-              "startMs": 206,
+              "w": "companies",
+              "startMs": 120,
               "endMs": 480
             },
             {
-              "w": "always",
-              "startMs": 537,
+              "w": "do",
+              "startMs": 533,
+              "endMs": 640
+            },
+            {
+              "w": "talk",
+              "startMs": 688,
               "endMs": 880
             },
             {
-              "w": "top-down.",
-              "startMs": 980,
-              "endMs": 1600
-            },
-            {
-              "w": "Which",
-              "startMs": 1720,
-              "endMs": 2320
-            },
-            {
-              "w": "occupations",
-              "startMs": 2367,
-              "endMs": 2880
-            },
-            {
-              "w": "will",
-              "startMs": 2912,
-              "endMs": 3040
-            },
-            {
-              "w": "AI",
-              "startMs": 3120,
-              "endMs": 3280
-            },
-            {
-              "w": "be",
-              "startMs": 3307,
-              "endMs": 3360
-            },
-            {
-              "w": "better",
-              "startMs": 3394,
-              "endMs": 3600
-            },
-            {
-              "w": "at?",
-              "startMs": 3653,
-              "endMs": 4240
-            },
-            {
-              "w": "Which",
-              "startMs": 4267,
-              "endMs": 4400
-            },
-            {
-              "w": "areas",
-              "startMs": 4467,
-              "endMs": 4800
-            },
-            {
-              "w": "should",
-              "startMs": 4834,
-              "endMs": 5040
-            },
-            {
-              "w": "we",
-              "startMs": 5067,
-              "endMs": 5120
-            },
-            {
-              "w": "redesign",
-              "startMs": 5173,
-              "endMs": 5600
-            },
-            {
-              "w": "first?",
-              "startMs": 5667,
-              "endMs": 6400
-            },
-            {
-              "w": "What",
-              "startMs": 6432,
-              "endMs": 6560
-            },
-            {
-              "w": "should",
-              "startMs": 6583,
-              "endMs": 6720
-            },
-            {
-              "w": "the",
-              "startMs": 6740,
-              "endMs": 6800
-            },
-            {
-              "w": "new",
-              "startMs": 6840,
-              "endMs": 6960
-            },
-            {
-              "w": "org",
-              "startMs": 7040,
-              "endMs": 7280
-            },
-            {
-              "w": "chart",
-              "startMs": 7320,
-              "endMs": 7520
-            },
-            {
-              "w": "look",
-              "startMs": 7552,
-              "endMs": 7680
-            },
-            {
-              "w": "like?",
-              "startMs": 7728,
-              "endMs": 8240
-            },
-            {
-              "w": "Those",
-              "startMs": 8320,
-              "endMs": 8720
-            },
-            {
-              "w": "discussions",
-              "startMs": 8760,
-              "endMs": 9200
-            },
-            {
-              "w": "will",
-              "startMs": 9232,
-              "endMs": 9360
-            },
-            {
-              "w": "happen.",
-              "startMs": 9417,
-              "endMs": 9761
-            },
-            {
-              "w": "But",
-              "startMs": 9920,
-              "endMs": 10400
-            },
-            {
-              "w": "there's",
-              "startMs": 10413,
-              "endMs": 10560
-            },
-            {
-              "w": "another",
-              "startMs": 10590,
-              "endMs": 10800
-            },
-            {
-              "w": "way",
-              "startMs": 10840,
-              "endMs": 10960
-            },
-            {
-              "w": "to",
-              "startMs": 11013,
-              "endMs": 11120
-            },
-            {
-              "w": "look",
-              "startMs": 11152,
-              "endMs": 11280
-            },
-            {
-              "w": "at",
-              "startMs": 11307,
-              "endMs": 11360
+              "w": "about",
+              "startMs": 920,
+              "endMs": 1120
             },
             {
               "w": "it,",
-              "startMs": 11387,
-              "endMs": 11760
+              "startMs": 1147,
+              "endMs": 1520
             },
             {
-              "w": "from",
-              "startMs": 11792,
-              "endMs": 11920
+              "w": "they",
+              "startMs": 1552,
+              "endMs": 1680
             },
             {
-              "w": "the",
-              "startMs": 11940,
-              "endMs": 12000
+              "w": "usually",
+              "startMs": 1730,
+              "endMs": 2080
             },
             {
-              "w": "bottom",
-              "startMs": 12057,
-              "endMs": 12400
-            },
-            {
-              "w": "up.",
-              "startMs": 12453,
-              "endMs": 12880
-            },
-            {
-              "w": "Forget",
-              "startMs": 12949,
-              "endMs": 13360
-            },
-            {
-              "w": "the",
-              "startMs": 13380,
-              "endMs": 13440
-            },
-            {
-              "w": "job",
-              "startMs": 13500,
-              "endMs": 13680
-            },
-            {
-              "w": "title",
-              "startMs": 13720,
-              "endMs": 13920
-            },
-            {
-              "w": "for",
-              "startMs": 13960,
-              "endMs": 14080
-            },
-            {
-              "w": "a",
-              "startMs": 14120,
-              "endMs": 14160
-            },
-            {
-              "w": "moment.",
-              "startMs": 14194,
-              "endMs": 14680
-            },
-            {
-              "w": "Start",
-              "startMs": 14727,
-              "endMs": 14960
-            },
-            {
-              "w": "with",
-              "startMs": 15024,
-              "endMs": 15280
-            },
-            {
-              "w": "the",
-              "startMs": 15340,
-              "endMs": 15520
-            },
-            {
-              "w": "tasks.",
-              "startMs": 15600,
-              "endMs": 16320
-            },
-            {
-              "w": "Because",
-              "startMs": 16360,
-              "endMs": 16640
-            },
-            {
-              "w": "a",
-              "startMs": 16680,
-              "endMs": 16720
-            },
-            {
-              "w": "job",
-              "startMs": 16800,
-              "endMs": 17040
-            },
-            {
-              "w": "is",
-              "startMs": 17093,
-              "endMs": 17200
-            },
-            {
-              "w": "a",
-              "startMs": 17240,
-              "endMs": 17280
-            },
-            {
-              "w": "bundle",
-              "startMs": 17326,
-              "endMs": 17600
-            },
-            {
-              "w": "of",
-              "startMs": 17653,
-              "endMs": 17760
-            },
-            {
-              "w": "tasks,",
-              "startMs": 17827,
-              "endMs": 18480
-            },
-            {
-              "w": "and",
-              "startMs": 18500,
-              "endMs": 18560
-            },
-            {
-              "w": "AI",
-              "startMs": 18667,
-              "endMs": 18880
-            },
-            {
-              "w": "doesn't",
-              "startMs": 18907,
-              "endMs": 19120
-            },
-            {
-              "w": "take",
-              "startMs": 19168,
-              "endMs": 19360
-            },
-            {
-              "w": "the",
-              "startMs": 19400,
-              "endMs": 19520
-            },
-            {
-              "w": "bundle.",
-              "startMs": 19577,
-              "endMs": 19921
-            },
-            {
-              "w": "It",
-              "startMs": 20027,
-              "endMs": 20240
-            },
-            {
-              "w": "takes",
-              "startMs": 20293,
-              "endMs": 20560
-            },
-            {
-              "w": "tasks,",
-              "startMs": 20653,
-              "endMs": 21440
-            },
-            {
-              "w": "one",
-              "startMs": 21520,
-              "endMs": 21760
+              "w": "start",
+              "startMs": 2133,
+              "endMs": 2400
             },
             {
               "w": "at",
-              "startMs": 21813,
-              "endMs": 21920
+              "startMs": 2427,
+              "endMs": 2480
+            },
+            {
+              "w": "the",
+              "startMs": 2500,
+              "endMs": 2560
+            },
+            {
+              "w": "top.",
+              "startMs": 2640,
+              "endMs": 2960
+            },
+            {
+              "w": "Which",
+              "startMs": 3067,
+              "endMs": 3600
+            },
+            {
+              "w": "occupations",
+              "startMs": 3647,
+              "endMs": 4160
+            },
+            {
+              "w": "will",
+              "startMs": 4192,
+              "endMs": 4320
+            },
+            {
+              "w": "AI",
+              "startMs": 4400,
+              "endMs": 4560
+            },
+            {
+              "w": "be",
+              "startMs": 4613,
+              "endMs": 4720
+            },
+            {
+              "w": "better",
+              "startMs": 4754,
+              "endMs": 4960
+            },
+            {
+              "w": "at?",
+              "startMs": 5040,
+              "endMs": 5680
+            },
+            {
+              "w": "Which",
+              "startMs": 5707,
+              "endMs": 5840
+            },
+            {
+              "w": "areas",
+              "startMs": 5907,
+              "endMs": 6240
+            },
+            {
+              "w": "should",
+              "startMs": 6274,
+              "endMs": 6480
+            },
+            {
+              "w": "we",
+              "startMs": 6533,
+              "endMs": 6640
+            },
+            {
+              "w": "redesign",
+              "startMs": 6693,
+              "endMs": 7120
+            },
+            {
+              "w": "first?",
+              "startMs": 7187,
+              "endMs": 8000
+            },
+            {
+              "w": "What",
+              "startMs": 8032,
+              "endMs": 8160
+            },
+            {
+              "w": "should",
+              "startMs": 8183,
+              "endMs": 8320
+            },
+            {
+              "w": "the",
+              "startMs": 8340,
+              "endMs": 8400
+            },
+            {
+              "w": "org",
+              "startMs": 8440,
+              "endMs": 8560
+            },
+            {
+              "w": "chart",
+              "startMs": 8600,
+              "endMs": 8800
+            },
+            {
+              "w": "look",
+              "startMs": 8832,
+              "endMs": 8960
+            },
+            {
+              "w": "like?",
+              "startMs": 9008,
+              "endMs": 9360
+            },
+            {
+              "w": "Those",
+              "startMs": 9453,
+              "endMs": 9920
+            },
+            {
+              "w": "questions",
+              "startMs": 9968,
+              "endMs": 10400
+            },
+            {
+              "w": "matter.",
+              "startMs": 10446,
+              "endMs": 10800
+            },
+            {
+              "w": "But",
+              "startMs": 10920,
+              "endMs": 11280
+            },
+            {
+              "w": "there's",
+              "startMs": 11307,
+              "endMs": 11520
             },
             {
               "w": "a",
-              "startMs": 21960,
-              "endMs": 22000
+              "startMs": 11560,
+              "endMs": 11600
+            },
+            {
+              "w": "richer",
+              "startMs": 11634,
+              "endMs": 11840
+            },
+            {
+              "w": "way",
+              "startMs": 11900,
+              "endMs": 12080
+            },
+            {
+              "w": "in,",
+              "startMs": 12160,
+              "endMs": 12560
+            },
+            {
+              "w": "from",
+              "startMs": 12592,
+              "endMs": 12720
+            },
+            {
+              "w": "the",
+              "startMs": 12740,
+              "endMs": 12800
+            },
+            {
+              "w": "bottom",
+              "startMs": 12846,
+              "endMs": 13120
+            },
+            {
+              "w": "up.",
+              "startMs": 13227,
+              "endMs": 13520
+            },
+            {
+              "w": "A",
+              "startMs": 13800,
+              "endMs": 14080
+            },
+            {
+              "w": "job",
+              "startMs": 14140,
+              "endMs": 14320
+            },
+            {
+              "w": "is",
+              "startMs": 14347,
+              "endMs": 14400
+            },
+            {
+              "w": "a",
+              "startMs": 14440,
+              "endMs": 14480
+            },
+            {
+              "w": "bundle",
+              "startMs": 14514,
+              "endMs": 14720
+            },
+            {
+              "w": "of",
+              "startMs": 14773,
+              "endMs": 14880
+            },
+            {
+              "w": "tasks,",
+              "startMs": 14960,
+              "endMs": 15520
+            },
+            {
+              "w": "and",
+              "startMs": 15560,
+              "endMs": 15680
+            },
+            {
+              "w": "AI",
+              "startMs": 15760,
+              "endMs": 15920
+            },
+            {
+              "w": "doesn't",
+              "startMs": 15960,
+              "endMs": 16240
+            },
+            {
+              "w": "take",
+              "startMs": 16272,
+              "endMs": 16400
+            },
+            {
+              "w": "the",
+              "startMs": 16420,
+              "endMs": 16480
+            },
+            {
+              "w": "bundle.",
+              "startMs": 16526,
+              "endMs": 16880
+            },
+            {
+              "w": "It",
+              "startMs": 17013,
+              "endMs": 17280
+            },
+            {
+              "w": "takes",
+              "startMs": 17333,
+              "endMs": 17600
+            },
+            {
+              "w": "tasks,",
+              "startMs": 17680,
+              "endMs": 18400
+            },
+            {
+              "w": "one",
+              "startMs": 18440,
+              "endMs": 18560
+            },
+            {
+              "w": "at",
+              "startMs": 18613,
+              "endMs": 18720
+            },
+            {
+              "w": "a",
+              "startMs": 18760,
+              "endMs": 18800
             },
             {
               "w": "time.",
-              "startMs": 22048,
-              "endMs": 22640
+              "startMs": 18864,
+              "endMs": 19400
+            },
+            {
+              "w": "So",
+              "startMs": 19493,
+              "endMs": 19680
+            },
+            {
+              "w": "let's",
+              "startMs": 19700,
+              "endMs": 19840
+            },
+            {
+              "w": "start",
+              "startMs": 19893,
+              "endMs": 20160
+            },
+            {
+              "w": "there,",
+              "startMs": 20200,
+              "endMs": 20640
+            },
+            {
+              "w": "in",
+              "startMs": 20667,
+              "endMs": 20720
+            },
+            {
+              "w": "four",
+              "startMs": 20784,
+              "endMs": 21040
+            },
+            {
+              "w": "steps.",
+              "startMs": 21107,
+              "endMs": 21600
             }
           ]
         }
@@ -1063,12 +1246,12 @@
         "variant": "night",
         "illustration": "ill-task-by-task-s02"
       },
-      "durationFrames": 710,
+      "durationFrames": 678,
       "state": "draft"
     },
     {
       "id": "s03",
-      "order": 2,
+      "order": 3,
       "style": "editorial_data",
       "onScreen": {
         "template": "stat",
@@ -1429,7 +1612,7 @@
     },
     {
       "id": "s04",
-      "order": 3,
+      "order": 4,
       "style": "editorial_data",
       "onScreen": {
         "template": "timeline",
@@ -1762,7 +1945,7 @@
     },
     {
       "id": "s05",
-      "order": 4,
+      "order": 5,
       "style": "editorial_data",
       "onScreen": {
         "template": "stat",
@@ -2148,7 +2331,7 @@
     },
     {
       "id": "s06",
-      "order": 5,
+      "order": 6,
       "style": "editorial_data",
       "onScreen": {
         "template": "task_flow",
@@ -2658,7 +2841,7 @@
     },
     {
       "id": "s07",
-      "order": 6,
+      "order": 7,
       "style": "editorial_data",
       "onScreen": {
         "template": "stat",
@@ -2924,7 +3107,7 @@
     },
     {
       "id": "s07b",
-      "order": 7,
+      "order": 8,
       "style": "editorial_data",
       "onScreen": {
         "template": "stat",
@@ -2934,301 +3117,336 @@
       },
       "narration": {
         "voiceId": "voice-mark",
-        "text": "And in 2025, Deloitte delivered a report to the Australian government, a contract worth about 290,000 US dollars. It had references that didn't exist and a made-up court quote. The corrected version disclosed that generative AI had been used, and Deloitte agreed to refund part of the fee. The errors made it all the way to the client.",
+        "text": "Here's what that looks like in real life. In 2025, Deloitte delivered a report to the Australian government, a contract worth about 290,000 US dollars. It had references that didn't exist and a made-up court quote. The corrected version disclosed that generative AI had been used, and Deloitte agreed to refund part of the fee. The errors made it all the way to the client.",
         "audio": {
-          "textSha256": "6778e1516f26cd74fc2b56ada1b3793708ad617f376a8a521e215b9b4dadfa2f",
-          "path": "episodes/2026-11-25-task-by-task/cache/6778e1516f26cd74fc2b56ada1b3793708ad617f376a8a521e215b9b4dadfa2f.mp3",
-          "durationMs": 22080,
+          "textSha256": "09440f62556092d171e63714e05ad01d3d1202e814ed07408005b37e1b99d033",
+          "path": "episodes/2026-11-25-task-by-task/cache/09440f62556092d171e63714e05ad01d3d1202e814ed07408005b37e1b99d033.mp3",
+          "durationMs": 20320,
           "words": [
             {
-              "w": "And",
+              "w": "Here's",
               "startMs": 0,
-              "endMs": 80
+              "endMs": 160
             },
             {
-              "w": "in",
-              "startMs": 133,
+              "w": "what",
+              "startMs": 176,
               "endMs": 240
             },
             {
-              "w": "2025,",
-              "startMs": 320,
-              "endMs": 1280
+              "w": "that",
+              "startMs": 272,
+              "endMs": 400
             },
             {
-              "w": "Deloitte",
-              "startMs": 1320,
+              "w": "looks",
+              "startMs": 440,
+              "endMs": 640
+            },
+            {
+              "w": "like",
+              "startMs": 688,
+              "endMs": 880
+            },
+            {
+              "w": "in",
+              "startMs": 933,
+              "endMs": 1040
+            },
+            {
+              "w": "real",
+              "startMs": 1072,
+              "endMs": 1200
+            },
+            {
+              "w": "life.",
+              "startMs": 1264,
               "endMs": 1600
             },
             {
-              "w": "delivered",
-              "startMs": 1640,
-              "endMs": 2000
+              "w": "In",
+              "startMs": 1787,
+              "endMs": 2160
             },
             {
-              "w": "a",
-              "startMs": 2040,
-              "endMs": 2080
-            },
-            {
-              "w": "report",
-              "startMs": 2137,
-              "endMs": 2480
-            },
-            {
-              "w": "to",
-              "startMs": 2533,
-              "endMs": 2640
-            },
-            {
-              "w": "the",
-              "startMs": 2660,
-              "endMs": 2720
-            },
-            {
-              "w": "Australian",
-              "startMs": 2771,
-              "endMs": 3280
-            },
-            {
-              "w": "government,",
-              "startMs": 3316,
-              "endMs": 4160
-            },
-            {
-              "w": "a",
-              "startMs": 4200,
-              "endMs": 4240
-            },
-            {
-              "w": "contract",
-              "startMs": 4302,
-              "endMs": 4800
-            },
-            {
-              "w": "worth",
-              "startMs": 4840,
-              "endMs": 5040
-            },
-            {
-              "w": "about",
-              "startMs": 5080,
-              "endMs": 5280
-            },
-            {
-              "w": "290,000",
-              "startMs": 5360,
-              "endMs": 6960
-            },
-            {
-              "w": "US",
-              "startMs": 7067,
-              "endMs": 7280
-            },
-            {
-              "w": "dollars.",
-              "startMs": 7330,
-              "endMs": 7840
-            },
-            {
-              "w": "It",
-              "startMs": 8053,
-              "endMs": 8480
-            },
-            {
-              "w": "had",
-              "startMs": 8520,
-              "endMs": 8640
-            },
-            {
-              "w": "references",
-              "startMs": 8691,
-              "endMs": 9200
-            },
-            {
-              "w": "that",
-              "startMs": 9232,
-              "endMs": 9360
-            },
-            {
-              "w": "didn't",
-              "startMs": 9408,
-              "endMs": 9680
-            },
-            {
-              "w": "exist",
-              "startMs": 9747,
-              "endMs": 10080
-            },
-            {
-              "w": "and",
-              "startMs": 10260,
-              "endMs": 10800
-            },
-            {
-              "w": "a",
-              "startMs": 10840,
-              "endMs": 10880
-            },
-            {
-              "w": "made-up",
-              "startMs": 10944,
-              "endMs": 11440
-            },
-            {
-              "w": "court",
-              "startMs": 11507,
-              "endMs": 11840
-            },
-            {
-              "w": "quote.",
-              "startMs": 11893,
-              "endMs": 12320
-            },
-            {
-              "w": "The",
-              "startMs": 12520,
-              "endMs": 13120
-            },
-            {
-              "w": "corrected",
-              "startMs": 13160,
-              "endMs": 13520
-            },
-            {
-              "w": "version",
-              "startMs": 13570,
-              "endMs": 13920
-            },
-            {
-              "w": "disclosed",
-              "startMs": 13984,
-              "endMs": 14560
-            },
-            {
-              "w": "that",
-              "startMs": 14592,
-              "endMs": 14720
-            },
-            {
-              "w": "generative",
-              "startMs": 14760,
-              "endMs": 15200
-            },
-            {
-              "w": "AI",
-              "startMs": 15307,
-              "endMs": 15520
-            },
-            {
-              "w": "had",
-              "startMs": 15560,
-              "endMs": 15680
-            },
-            {
-              "w": "been",
-              "startMs": 15712,
-              "endMs": 15840
-            },
-            {
-              "w": "used,",
-              "startMs": 15920,
-              "endMs": 16640
-            },
-            {
-              "w": "and",
-              "startMs": 16660,
-              "endMs": 16720
+              "w": "2025,",
+              "startMs": 2240,
+              "endMs": 3120
             },
             {
               "w": "Deloitte",
-              "startMs": 16780,
-              "endMs": 17120
+              "startMs": 3160,
+              "endMs": 3440
             },
             {
-              "w": "agreed",
-              "startMs": 17189,
-              "endMs": 17600
+              "w": "delivered",
+              "startMs": 3472,
+              "endMs": 3760
+            },
+            {
+              "w": "a",
+              "startMs": 3800,
+              "endMs": 3840
+            },
+            {
+              "w": "report",
+              "startMs": 3897,
+              "endMs": 4240
             },
             {
               "w": "to",
-              "startMs": 17627,
-              "endMs": 17680
-            },
-            {
-              "w": "refund",
-              "startMs": 17760,
-              "endMs": 18240
-            },
-            {
-              "w": "part",
-              "startMs": 18304,
-              "endMs": 18560
-            },
-            {
-              "w": "of",
-              "startMs": 18587,
-              "endMs": 18640
+              "startMs": 4267,
+              "endMs": 4320
             },
             {
               "w": "the",
-              "startMs": 18660,
-              "endMs": 18720
+              "startMs": 4340,
+              "endMs": 4400
             },
             {
-              "w": "fee.",
-              "startMs": 18780,
-              "endMs": 19120
+              "w": "Australian",
+              "startMs": 4444,
+              "endMs": 4880
+            },
+            {
+              "w": "government,",
+              "startMs": 4916,
+              "endMs": 5600
+            },
+            {
+              "w": "a",
+              "startMs": 5640,
+              "endMs": 5680
+            },
+            {
+              "w": "contract",
+              "startMs": 5733,
+              "endMs": 6160
+            },
+            {
+              "w": "worth",
+              "startMs": 6200,
+              "endMs": 6400
+            },
+            {
+              "w": "about",
+              "startMs": 6453,
+              "endMs": 6720
+            },
+            {
+              "w": "290,000",
+              "startMs": 7200,
+              "endMs": 8000
+            },
+            {
+              "w": "US",
+              "startMs": 8107,
+              "endMs": 8320
+            },
+            {
+              "w": "dollars.",
+              "startMs": 8370,
+              "endMs": 9040
+            },
+            {
+              "w": "It",
+              "startMs": 9147,
+              "endMs": 9360
+            },
+            {
+              "w": "had",
+              "startMs": 9400,
+              "endMs": 9520
+            },
+            {
+              "w": "references",
+              "startMs": 9564,
+              "endMs": 10000
+            },
+            {
+              "w": "that",
+              "startMs": 10032,
+              "endMs": 10160
+            },
+            {
+              "w": "didn't",
+              "startMs": 10192,
+              "endMs": 10400
+            },
+            {
+              "w": "exist",
+              "startMs": 10467,
+              "endMs": 10800
+            },
+            {
+              "w": "and",
+              "startMs": 10880,
+              "endMs": 11120
+            },
+            {
+              "w": "a",
+              "startMs": 11200,
+              "endMs": 11280
+            },
+            {
+              "w": "made-up",
+              "startMs": 11328,
+              "endMs": 11680
+            },
+            {
+              "w": "court",
+              "startMs": 11733,
+              "endMs": 12000
+            },
+            {
+              "w": "quote.",
+              "startMs": 12053,
+              "endMs": 12480
             },
             {
               "w": "The",
-              "startMs": 19300,
-              "endMs": 19840
+              "startMs": 12600,
+              "endMs": 12960
             },
             {
-              "w": "errors",
-              "startMs": 19897,
-              "endMs": 20240
+              "w": "corrected",
+              "startMs": 12992,
+              "endMs": 13280
             },
             {
-              "w": "made",
-              "startMs": 20272,
-              "endMs": 20400
+              "w": "version",
+              "startMs": 13320,
+              "endMs": 13600
             },
             {
-              "w": "it",
-              "startMs": 20480,
-              "endMs": 20640
+              "w": "disclosed",
+              "startMs": 13648,
+              "endMs": 14080
             },
             {
-              "w": "all",
-              "startMs": 20700,
-              "endMs": 20880
+              "w": "that",
+              "startMs": 14112,
+              "endMs": 14240
             },
             {
-              "w": "the",
-              "startMs": 20920,
-              "endMs": 21040
+              "w": "generative",
+              "startMs": 14280,
+              "endMs": 14640
             },
             {
-              "w": "way",
-              "startMs": 21100,
-              "endMs": 21280
+              "w": "AI",
+              "startMs": 14747,
+              "endMs": 14960
+            },
+            {
+              "w": "had",
+              "startMs": 15000,
+              "endMs": 15120
+            },
+            {
+              "w": "been",
+              "startMs": 15152,
+              "endMs": 15280
+            },
+            {
+              "w": "used,",
+              "startMs": 15344,
+              "endMs": 15840
+            },
+            {
+              "w": "and",
+              "startMs": 15860,
+              "endMs": 15920
+            },
+            {
+              "w": "Deloitte",
+              "startMs": 15960,
+              "endMs": 16240
+            },
+            {
+              "w": "agreed",
+              "startMs": 16297,
+              "endMs": 16640
             },
             {
               "w": "to",
-              "startMs": 21333,
-              "endMs": 21440
+              "startMs": 16667,
+              "endMs": 16720
+            },
+            {
+              "w": "refund",
+              "startMs": 16777,
+              "endMs": 17120
+            },
+            {
+              "w": "part",
+              "startMs": 17168,
+              "endMs": 17360
+            },
+            {
+              "w": "of",
+              "startMs": 17387,
+              "endMs": 17440
             },
             {
               "w": "the",
-              "startMs": 21460,
-              "endMs": 21520
+              "startMs": 17460,
+              "endMs": 17520
+            },
+            {
+              "w": "fee.",
+              "startMs": 17580,
+              "endMs": 18000
+            },
+            {
+              "w": "The",
+              "startMs": 18100,
+              "endMs": 18400
+            },
+            {
+              "w": "errors",
+              "startMs": 18457,
+              "endMs": 18800
+            },
+            {
+              "w": "made",
+              "startMs": 18832,
+              "endMs": 18960
+            },
+            {
+              "w": "it",
+              "startMs": 19013,
+              "endMs": 19120
+            },
+            {
+              "w": "all",
+              "startMs": 19160,
+              "endMs": 19280
+            },
+            {
+              "w": "the",
+              "startMs": 19300,
+              "endMs": 19360
+            },
+            {
+              "w": "way",
+              "startMs": 19400,
+              "endMs": 19520
+            },
+            {
+              "w": "to",
+              "startMs": 19573,
+              "endMs": 19680
+            },
+            {
+              "w": "the",
+              "startMs": 19700,
+              "endMs": 19760
             },
             {
               "w": "client.",
-              "startMs": 21577,
-              "endMs": 22080
+              "startMs": 19806,
+              "endMs": 20320
             }
           ]
         }
@@ -3251,12 +3469,12 @@
           "credit": "Fortune · Oct 7, 2025"
         }
       ],
-      "durationFrames": 693,
+      "durationFrames": 640,
       "state": "draft"
     },
     {
       "id": "s08",
-      "order": 8,
+      "order": 9,
       "style": "editorial_data",
       "onScreen": {
         "template": "stat",
@@ -3648,7 +3866,7 @@
     },
     {
       "id": "s09",
-      "order": 9,
+      "order": 10,
       "style": "editorial_data",
       "onScreen": {
         "template": "personal_take",
@@ -3657,11 +3875,11 @@
       },
       "narration": {
         "voiceId": "voice-mark",
-        "text": "So the work never ends with the first design. You run the flow, you see where it breaks, and you fix it. Again and again. And each side improves in its own way. For the human tasks, upskilling focused on what people do best. Framing, judgment, empathy, persuasion, and checking what AI produces. For the agent tasks, engineering. Better harnesses, guardrails, evaluation and governance. And for every hand-off, a clear owner.",
+        "text": "So designing the flow is not a one-time project. You run the flow, you see where it breaks, and you fix it. Again and again. And each side improves in its own way. For the human tasks, upskilling focused on what people do best. Framing, judgment, empathy, persuasion, and checking what AI produces. For the agent tasks, engineering. Better harnesses, guardrails, evaluation and governance. And for every hand-off, a clear owner.",
         "audio": {
-          "textSha256": "90c63fdb50855125c8b9043aef969382f73fc0901477fbf11bece286a14404e7",
-          "path": "episodes/2026-11-25-task-by-task/cache/90c63fdb50855125c8b9043aef969382f73fc0901477fbf11bece286a14404e7.mp3",
-          "durationMs": 26560,
+          "textSha256": "af5dede53200eadf0fd569411bb18c485436fc95c521d3b723d5b277feeee899",
+          "path": "episodes/2026-11-25-task-by-task/cache/af5dede53200eadf0fd569411bb18c485436fc95c521d3b723d5b277feeee899.mp3",
+          "durationMs": 27440,
           "words": [
             {
               "w": "So",
@@ -3669,354 +3887,354 @@
               "endMs": 80
             },
             {
-              "w": "the",
-              "startMs": 100,
-              "endMs": 160
-            },
-            {
-              "w": "work",
-              "startMs": 208,
-              "endMs": 400
-            },
-            {
-              "w": "never",
-              "startMs": 440,
+              "w": "designing",
+              "startMs": 136,
               "endMs": 640
             },
             {
-              "w": "ends",
-              "startMs": 720,
+              "w": "the",
+              "startMs": 660,
+              "endMs": 720
+            },
+            {
+              "w": "flow",
+              "startMs": 784,
               "endMs": 1040
             },
             {
-              "w": "with",
-              "startMs": 1056,
-              "endMs": 1120
+              "w": "is",
+              "startMs": 1120,
+              "endMs": 1280
             },
             {
-              "w": "the",
-              "startMs": 1140,
-              "endMs": 1200
-            },
-            {
-              "w": "first",
-              "startMs": 1240,
-              "endMs": 1440
-            },
-            {
-              "w": "design.",
-              "startMs": 1497,
-              "endMs": 2080
-            },
-            {
-              "w": "You",
-              "startMs": 2140,
-              "endMs": 2320
-            },
-            {
-              "w": "run",
-              "startMs": 2360,
-              "endMs": 2480
-            },
-            {
-              "w": "the",
-              "startMs": 2500,
-              "endMs": 2560
-            },
-            {
-              "w": "flow,",
-              "startMs": 2624,
-              "endMs": 3040
-            },
-            {
-              "w": "you",
-              "startMs": 3080,
-              "endMs": 3200
-            },
-            {
-              "w": "see",
-              "startMs": 3240,
-              "endMs": 3360
-            },
-            {
-              "w": "where",
-              "startMs": 3373,
-              "endMs": 3440
-            },
-            {
-              "w": "it",
-              "startMs": 3493,
-              "endMs": 3600
-            },
-            {
-              "w": "breaks,",
-              "startMs": 3657,
-              "endMs": 4160
-            },
-            {
-              "w": "and",
-              "startMs": 4180,
-              "endMs": 4240
-            },
-            {
-              "w": "you",
-              "startMs": 4280,
-              "endMs": 4400
-            },
-            {
-              "w": "fix",
-              "startMs": 4440,
-              "endMs": 4560
-            },
-            {
-              "w": "it.",
-              "startMs": 4613,
-              "endMs": 5120
-            },
-            {
-              "w": "Again",
-              "startMs": 5213,
-              "endMs": 5680
-            },
-            {
-              "w": "and",
-              "startMs": 5780,
-              "endMs": 6080
-            },
-            {
-              "w": "again.",
-              "startMs": 6133,
-              "endMs": 6720
-            },
-            {
-              "w": "And",
-              "startMs": 6800,
-              "endMs": 7040
-            },
-            {
-              "w": "each",
-              "startMs": 7088,
-              "endMs": 7280
-            },
-            {
-              "w": "side",
-              "startMs": 7344,
-              "endMs": 7600
-            },
-            {
-              "w": "improves",
-              "startMs": 7662,
-              "endMs": 8160
-            },
-            {
-              "w": "in",
-              "startMs": 8187,
-              "endMs": 8240
-            },
-            {
-              "w": "its",
-              "startMs": 8280,
-              "endMs": 8400
-            },
-            {
-              "w": "own",
-              "startMs": 8440,
-              "endMs": 8560
-            },
-            {
-              "w": "way.",
-              "startMs": 8620,
-              "endMs": 9440
-            },
-            {
-              "w": "For",
-              "startMs": 9480,
-              "endMs": 9600
-            },
-            {
-              "w": "the",
-              "startMs": 9620,
-              "endMs": 9680
-            },
-            {
-              "w": "human",
-              "startMs": 9720,
-              "endMs": 9920
-            },
-            {
-              "w": "tasks,",
-              "startMs": 9987,
-              "endMs": 10720
-            },
-            {
-              "w": "upskilling",
-              "startMs": 10773,
-              "endMs": 11200
-            },
-            {
-              "w": "focused",
-              "startMs": 11250,
-              "endMs": 11600
-            },
-            {
-              "w": "on",
-              "startMs": 11653,
-              "endMs": 11760
-            },
-            {
-              "w": "what",
-              "startMs": 11792,
-              "endMs": 11920
-            },
-            {
-              "w": "people",
-              "startMs": 11977,
-              "endMs": 12320
-            },
-            {
-              "w": "do",
-              "startMs": 12427,
-              "endMs": 12640
-            },
-            {
-              "w": "best.",
-              "startMs": 12736,
-              "endMs": 13280
-            },
-            {
-              "w": "Framing,",
-              "startMs": 13408,
-              "endMs": 14400
-            },
-            {
-              "w": "judgment,",
-              "startMs": 14436,
-              "endMs": 14960
-            },
-            {
-              "w": "empathy,",
-              "startMs": 15010,
-              "endMs": 15520
-            },
-            {
-              "w": "persuasion,",
-              "startMs": 15564,
-              "endMs": 16320
-            },
-            {
-              "w": "and",
-              "startMs": 16360,
-              "endMs": 16480
-            },
-            {
-              "w": "checking",
-              "startMs": 16524,
-              "endMs": 16880
-            },
-            {
-              "w": "what",
-              "startMs": 16928,
-              "endMs": 17120
-            },
-            {
-              "w": "AI",
-              "startMs": 17200,
-              "endMs": 17360
-            },
-            {
-              "w": "produces.",
-              "startMs": 17422,
-              "endMs": 18000
-            },
-            {
-              "w": "For",
-              "startMs": 18180,
-              "endMs": 18720
-            },
-            {
-              "w": "the",
-              "startMs": 18740,
-              "endMs": 18800
-            },
-            {
-              "w": "agent",
-              "startMs": 18853,
-              "endMs": 19120
-            },
-            {
-              "w": "tasks,",
-              "startMs": 19187,
-              "endMs": 19760
-            },
-            {
-              "w": "engineering.",
-              "startMs": 19800,
-              "endMs": 20320
-            },
-            {
-              "w": "Better",
-              "startMs": 20423,
-              "endMs": 21040
-            },
-            {
-              "w": "harnesses,",
-              "startMs": 21080,
-              "endMs": 21760
-            },
-            {
-              "w": "guardrails,",
-              "startMs": 21813,
-              "endMs": 22480
-            },
-            {
-              "w": "evaluation",
-              "startMs": 22538,
-              "endMs": 23120
-            },
-            {
-              "w": "and",
-              "startMs": 23160,
-              "endMs": 23280
-            },
-            {
-              "w": "governance.",
-              "startMs": 23331,
-              "endMs": 23920
-            },
-            {
-              "w": "And",
-              "startMs": 24060,
-              "endMs": 24480
-            },
-            {
-              "w": "for",
-              "startMs": 24520,
-              "endMs": 24640
-            },
-            {
-              "w": "every",
-              "startMs": 24680,
-              "endMs": 24880
-            },
-            {
-              "w": "hand-off,",
-              "startMs": 24928,
-              "endMs": 25440
+              "w": "not",
+              "startMs": 1340,
+              "endMs": 1520
             },
             {
               "w": "a",
-              "startMs": 25560,
-              "endMs": 25680
+              "startMs": 1600,
+              "endMs": 1680
+            },
+            {
+              "w": "one-time",
+              "startMs": 1700,
+              "endMs": 2000
+            },
+            {
+              "w": "project.",
+              "startMs": 2060,
+              "endMs": 2560
+            },
+            {
+              "w": "You",
+              "startMs": 2660,
+              "endMs": 2960
+            },
+            {
+              "w": "run",
+              "startMs": 3000,
+              "endMs": 3120
+            },
+            {
+              "w": "the",
+              "startMs": 3140,
+              "endMs": 3200
+            },
+            {
+              "w": "flow,",
+              "startMs": 3248,
+              "endMs": 3760
+            },
+            {
+              "w": "you",
+              "startMs": 3800,
+              "endMs": 3920
+            },
+            {
+              "w": "see",
+              "startMs": 3940,
+              "endMs": 4000
+            },
+            {
+              "w": "where",
+              "startMs": 4027,
+              "endMs": 4160
+            },
+            {
+              "w": "it",
+              "startMs": 4187,
+              "endMs": 4240
+            },
+            {
+              "w": "breaks,",
+              "startMs": 4297,
+              "endMs": 4880
+            },
+            {
+              "w": "and",
+              "startMs": 4900,
+              "endMs": 4960
+            },
+            {
+              "w": "you",
+              "startMs": 4980,
+              "endMs": 5040
+            },
+            {
+              "w": "fix",
+              "startMs": 5100,
+              "endMs": 5280
+            },
+            {
+              "w": "it.",
+              "startMs": 5333,
+              "endMs": 5441
+            },
+            {
+              "w": "Again",
+              "startMs": 5573,
+              "endMs": 6240
+            },
+            {
+              "w": "and",
+              "startMs": 6360,
+              "endMs": 6720
+            },
+            {
+              "w": "again.",
+              "startMs": 6773,
+              "endMs": 7320
+            },
+            {
+              "w": "And",
+              "startMs": 7390,
+              "endMs": 7600
+            },
+            {
+              "w": "each",
+              "startMs": 7648,
+              "endMs": 7840
+            },
+            {
+              "w": "side",
+              "startMs": 7904,
+              "endMs": 8160
+            },
+            {
+              "w": "improves",
+              "startMs": 8213,
+              "endMs": 8640
+            },
+            {
+              "w": "in",
+              "startMs": 8693,
+              "endMs": 8800
+            },
+            {
+              "w": "its",
+              "startMs": 8840,
+              "endMs": 8960
+            },
+            {
+              "w": "own",
+              "startMs": 9020,
+              "endMs": 9200
+            },
+            {
+              "w": "way.",
+              "startMs": 9260,
+              "endMs": 9520
+            },
+            {
+              "w": "For",
+              "startMs": 9680,
+              "endMs": 10160
+            },
+            {
+              "w": "the",
+              "startMs": 10180,
+              "endMs": 10240
+            },
+            {
+              "w": "human",
+              "startMs": 10280,
+              "endMs": 10480
+            },
+            {
+              "w": "tasks,",
+              "startMs": 10560,
+              "endMs": 11120
+            },
+            {
+              "w": "upskilling",
+              "startMs": 11173,
+              "endMs": 11600
+            },
+            {
+              "w": "focused",
+              "startMs": 11650,
+              "endMs": 12000
+            },
+            {
+              "w": "on",
+              "startMs": 12027,
+              "endMs": 12080
+            },
+            {
+              "w": "what",
+              "startMs": 12112,
+              "endMs": 12240
+            },
+            {
+              "w": "people",
+              "startMs": 12286,
+              "endMs": 12560
+            },
+            {
+              "w": "do",
+              "startMs": 12640,
+              "endMs": 12800
+            },
+            {
+              "w": "best.",
+              "startMs": 12896,
+              "endMs": 13440
+            },
+            {
+              "w": "Framing,",
+              "startMs": 13536,
+              "endMs": 14480
+            },
+            {
+              "w": "judgment,",
+              "startMs": 14524,
+              "endMs": 15120
+            },
+            {
+              "w": "empathy,",
+              "startMs": 15170,
+              "endMs": 15840
+            },
+            {
+              "w": "persuasion,",
+              "startMs": 15898,
+              "endMs": 16800
+            },
+            {
+              "w": "and",
+              "startMs": 16820,
+              "endMs": 16880
+            },
+            {
+              "w": "checking",
+              "startMs": 16933,
+              "endMs": 17360
+            },
+            {
+              "w": "what",
+              "startMs": 17392,
+              "endMs": 17520
+            },
+            {
+              "w": "AI",
+              "startMs": 17600,
+              "endMs": 17760
+            },
+            {
+              "w": "produces.",
+              "startMs": 17831,
+              "endMs": 18560
+            },
+            {
+              "w": "For",
+              "startMs": 18660,
+              "endMs": 18960
+            },
+            {
+              "w": "the",
+              "startMs": 18980,
+              "endMs": 19040
+            },
+            {
+              "w": "agent",
+              "startMs": 19093,
+              "endMs": 19360
+            },
+            {
+              "w": "tasks,",
+              "startMs": 19440,
+              "endMs": 20240
+            },
+            {
+              "w": "engineering.",
+              "startMs": 20273,
+              "endMs": 20920
+            },
+            {
+              "w": "Better",
+              "startMs": 20960,
+              "endMs": 21200
+            },
+            {
+              "w": "harnesses,",
+              "startMs": 21240,
+              "endMs": 21840
+            },
+            {
+              "w": "guardrails,",
+              "startMs": 21920,
+              "endMs": 22880
+            },
+            {
+              "w": "evaluation",
+              "startMs": 22945,
+              "endMs": 23600
+            },
+            {
+              "w": "and",
+              "startMs": 23680,
+              "endMs": 23920
+            },
+            {
+              "w": "governance.",
+              "startMs": 23964,
+              "endMs": 24560
+            },
+            {
+              "w": "And",
+              "startMs": 24720,
+              "endMs": 25200
+            },
+            {
+              "w": "for",
+              "startMs": 25240,
+              "endMs": 25360
+            },
+            {
+              "w": "every",
+              "startMs": 25400,
+              "endMs": 25600
+            },
+            {
+              "w": "hand-off,",
+              "startMs": 25664,
+              "endMs": 26320
+            },
+            {
+              "w": "a",
+              "startMs": 26400,
+              "endMs": 26480
             },
             {
               "w": "clear",
-              "startMs": 25747,
-              "endMs": 26080
+              "startMs": 26533,
+              "endMs": 26800
             },
             {
               "w": "owner.",
-              "startMs": 26147,
-              "endMs": 26560
+              "startMs": 26880,
+              "endMs": 27440
             }
           ]
         }
@@ -4031,12 +4249,12 @@
         "variant": "night",
         "illustration": "ill-task-by-task-s09"
       },
-      "durationFrames": 827,
+      "durationFrames": 854,
       "state": "draft"
     },
     {
       "id": "s10",
-      "order": 10,
+      "order": 11,
       "style": "editorial_data",
       "onScreen": {
         "template": "personal_take",
@@ -4269,7 +4487,7 @@
     },
     {
       "id": "s11",
-      "order": 11,
+      "order": 12,
       "style": "editorial_data",
       "onScreen": {
         "template": "end_card",
@@ -4542,6 +4760,36 @@
       "provider": "elevenlabs",
       "usd": 0.00924,
       "at": "2026-11-22T18:45:23.746Z"
+    },
+    {
+      "taskId": "narrate-s01",
+      "provider": "elevenlabs",
+      "usd": 0.02448,
+      "at": "2026-11-22T20:30:38.952Z"
+    },
+    {
+      "taskId": "narrate-s01b",
+      "provider": "elevenlabs",
+      "usd": 0.02592,
+      "at": "2026-11-22T20:30:43.972Z"
+    },
+    {
+      "taskId": "narrate-s02",
+      "provider": "elevenlabs",
+      "usd": 0.04548,
+      "at": "2026-11-22T20:30:51.127Z"
+    },
+    {
+      "taskId": "narrate-s07b",
+      "provider": "elevenlabs",
+      "usd": 0.04476,
+      "at": "2026-11-22T20:30:57.673Z"
+    },
+    {
+      "taskId": "narrate-s09",
+      "provider": "elevenlabs",
+      "usd": 0.051359999999999996,
+      "at": "2026-11-22T20:31:07.060Z"
     }
   ],
   "moduleVersions": {
