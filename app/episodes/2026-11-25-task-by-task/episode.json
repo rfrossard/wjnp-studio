@@ -3113,34 +3113,39 @@
         "template": "stat",
         "claimId": "c-deloitte",
         "label": "(A$440,000) contract. Fake references reached the client.",
-        "context": "New problems live in the hand-offs"
+        "context": "A whole process, no expert hand-offs"
       },
       "narration": {
         "voiceId": "voice-mark",
-        "text": "Here's what that looks like in real life. In 2025, Deloitte delivered a report to the Australian government, a contract worth about 290,000 US dollars. It had references that didn't exist and a made-up court quote. The corrected version disclosed that generative AI had been used, and Deloitte agreed to refund part of the fee. The errors made it all the way to the client.",
+        "text": "Here's what it can look like when AI runs a whole process, instead of handing off to human experts along the way. In 2025, Deloitte delivered a report to the Australian government, a contract worth about 290,000 US dollars. It had references that didn't exist and a made-up court quote. The corrected version disclosed that generative AI had been used, and Deloitte agreed to refund part of the fee. It took an outside expert, a university researcher, to catch what the process missed.",
         "audio": {
-          "textSha256": "09440f62556092d171e63714e05ad01d3d1202e814ed07408005b37e1b99d033",
-          "path": "episodes/2026-11-25-task-by-task/cache/09440f62556092d171e63714e05ad01d3d1202e814ed07408005b37e1b99d033.mp3",
-          "durationMs": 20320,
+          "textSha256": "126c4ac6b2055072dfd8c7401b91771add11129f7d7f766c4714ddb6119883b2",
+          "path": "episodes/2026-11-25-task-by-task/cache/126c4ac6b2055072dfd8c7401b91771add11129f7d7f766c4714ddb6119883b2.mp3",
+          "durationMs": 27040,
           "words": [
             {
               "w": "Here's",
               "startMs": 0,
-              "endMs": 160
-            },
-            {
-              "w": "what",
-              "startMs": 176,
               "endMs": 240
             },
             {
-              "w": "that",
-              "startMs": 272,
+              "w": "what",
+              "startMs": 256,
+              "endMs": 320
+            },
+            {
+              "w": "it",
+              "startMs": 347,
               "endMs": 400
             },
             {
-              "w": "looks",
-              "startMs": 440,
+              "w": "can",
+              "startMs": 420,
+              "endMs": 480
+            },
+            {
+              "w": "look",
+              "startMs": 512,
               "endMs": 640
             },
             {
@@ -3149,304 +3154,389 @@
               "endMs": 880
             },
             {
-              "w": "in",
-              "startMs": 933,
-              "endMs": 1040
-            },
-            {
-              "w": "real",
-              "startMs": 1072,
-              "endMs": 1200
-            },
-            {
-              "w": "life.",
-              "startMs": 1264,
-              "endMs": 1600
-            },
-            {
-              "w": "In",
-              "startMs": 1787,
-              "endMs": 2160
-            },
-            {
-              "w": "2025,",
-              "startMs": 2240,
-              "endMs": 3120
-            },
-            {
-              "w": "Deloitte",
-              "startMs": 3160,
-              "endMs": 3440
-            },
-            {
-              "w": "delivered",
-              "startMs": 3472,
-              "endMs": 3760
-            },
-            {
-              "w": "a",
-              "startMs": 3800,
-              "endMs": 3840
-            },
-            {
-              "w": "report",
-              "startMs": 3897,
-              "endMs": 4240
-            },
-            {
-              "w": "to",
-              "startMs": 4267,
-              "endMs": 4320
-            },
-            {
-              "w": "the",
-              "startMs": 4340,
-              "endMs": 4400
-            },
-            {
-              "w": "Australian",
-              "startMs": 4444,
-              "endMs": 4880
-            },
-            {
-              "w": "government,",
-              "startMs": 4916,
-              "endMs": 5600
-            },
-            {
-              "w": "a",
-              "startMs": 5640,
-              "endMs": 5680
-            },
-            {
-              "w": "contract",
-              "startMs": 5733,
-              "endMs": 6160
-            },
-            {
-              "w": "worth",
-              "startMs": 6200,
-              "endMs": 6400
-            },
-            {
-              "w": "about",
-              "startMs": 6453,
-              "endMs": 6720
-            },
-            {
-              "w": "290,000",
-              "startMs": 7200,
-              "endMs": 8000
-            },
-            {
-              "w": "US",
-              "startMs": 8107,
-              "endMs": 8320
-            },
-            {
-              "w": "dollars.",
-              "startMs": 8370,
-              "endMs": 9040
-            },
-            {
-              "w": "It",
-              "startMs": 9147,
-              "endMs": 9360
-            },
-            {
-              "w": "had",
-              "startMs": 9400,
-              "endMs": 9520
-            },
-            {
-              "w": "references",
-              "startMs": 9564,
-              "endMs": 10000
-            },
-            {
-              "w": "that",
-              "startMs": 10032,
-              "endMs": 10160
-            },
-            {
-              "w": "didn't",
-              "startMs": 10192,
-              "endMs": 10400
-            },
-            {
-              "w": "exist",
-              "startMs": 10467,
-              "endMs": 10800
-            },
-            {
-              "w": "and",
-              "startMs": 10880,
-              "endMs": 11120
-            },
-            {
-              "w": "a",
-              "startMs": 11200,
-              "endMs": 11280
-            },
-            {
-              "w": "made-up",
-              "startMs": 11328,
-              "endMs": 11680
-            },
-            {
-              "w": "court",
-              "startMs": 11733,
-              "endMs": 12000
-            },
-            {
-              "w": "quote.",
-              "startMs": 12053,
-              "endMs": 12480
-            },
-            {
-              "w": "The",
-              "startMs": 12600,
-              "endMs": 12960
-            },
-            {
-              "w": "corrected",
-              "startMs": 12992,
-              "endMs": 13280
-            },
-            {
-              "w": "version",
-              "startMs": 13320,
-              "endMs": 13600
-            },
-            {
-              "w": "disclosed",
-              "startMs": 13648,
-              "endMs": 14080
-            },
-            {
-              "w": "that",
-              "startMs": 14112,
-              "endMs": 14240
-            },
-            {
-              "w": "generative",
-              "startMs": 14280,
-              "endMs": 14640
+              "w": "when",
+              "startMs": 896,
+              "endMs": 960
             },
             {
               "w": "AI",
-              "startMs": 14747,
-              "endMs": 14960
+              "startMs": 1093,
+              "endMs": 1360
             },
             {
-              "w": "had",
-              "startMs": 15000,
-              "endMs": 15120
+              "w": "runs",
+              "startMs": 1408,
+              "endMs": 1600
             },
             {
-              "w": "been",
-              "startMs": 15152,
-              "endMs": 15280
+              "w": "a",
+              "startMs": 1640,
+              "endMs": 1680
             },
             {
-              "w": "used,",
-              "startMs": 15344,
-              "endMs": 15840
+              "w": "whole",
+              "startMs": 1720,
+              "endMs": 1920
             },
             {
-              "w": "and",
-              "startMs": 15860,
-              "endMs": 15920
+              "w": "process,",
+              "startMs": 1990,
+              "endMs": 2560
             },
             {
-              "w": "Deloitte",
-              "startMs": 15960,
-              "endMs": 16240
-            },
-            {
-              "w": "agreed",
-              "startMs": 16297,
-              "endMs": 16640
-            },
-            {
-              "w": "to",
-              "startMs": 16667,
-              "endMs": 16720
-            },
-            {
-              "w": "refund",
-              "startMs": 16777,
-              "endMs": 17120
-            },
-            {
-              "w": "part",
-              "startMs": 17168,
-              "endMs": 17360
+              "w": "instead",
+              "startMs": 2600,
+              "endMs": 2880
             },
             {
               "w": "of",
-              "startMs": 17387,
-              "endMs": 17440
+              "startMs": 2933,
+              "endMs": 3040
             },
             {
-              "w": "the",
-              "startMs": 17460,
-              "endMs": 17520
+              "w": "handing",
+              "startMs": 3070,
+              "endMs": 3280
             },
             {
-              "w": "fee.",
-              "startMs": 17580,
-              "endMs": 18000
-            },
-            {
-              "w": "The",
-              "startMs": 18100,
-              "endMs": 18400
-            },
-            {
-              "w": "errors",
-              "startMs": 18457,
-              "endMs": 18800
-            },
-            {
-              "w": "made",
-              "startMs": 18832,
-              "endMs": 18960
-            },
-            {
-              "w": "it",
-              "startMs": 19013,
-              "endMs": 19120
-            },
-            {
-              "w": "all",
-              "startMs": 19160,
-              "endMs": 19280
-            },
-            {
-              "w": "the",
-              "startMs": 19300,
-              "endMs": 19360
-            },
-            {
-              "w": "way",
-              "startMs": 19400,
-              "endMs": 19520
+              "w": "off",
+              "startMs": 3320,
+              "endMs": 3440
             },
             {
               "w": "to",
-              "startMs": 19573,
-              "endMs": 19680
+              "startMs": 3467,
+              "endMs": 3520
+            },
+            {
+              "w": "human",
+              "startMs": 3560,
+              "endMs": 3760
+            },
+            {
+              "w": "experts",
+              "startMs": 3810,
+              "endMs": 4160
+            },
+            {
+              "w": "along",
+              "startMs": 4200,
+              "endMs": 4400
             },
             {
               "w": "the",
-              "startMs": 19700,
-              "endMs": 19760
+              "startMs": 4420,
+              "endMs": 4480
             },
             {
-              "w": "client.",
-              "startMs": 19806,
-              "endMs": 20320
+              "w": "way.",
+              "startMs": 4540,
+              "endMs": 5040
+            },
+            {
+              "w": "In",
+              "startMs": 5173,
+              "endMs": 5440
+            },
+            {
+              "w": "2025,",
+              "startMs": 5520,
+              "endMs": 6400
+            },
+            {
+              "w": "Deloitte",
+              "startMs": 6460,
+              "endMs": 6800
+            },
+            {
+              "w": "delivered",
+              "startMs": 6832,
+              "endMs": 7120
+            },
+            {
+              "w": "a",
+              "startMs": 7160,
+              "endMs": 7200
+            },
+            {
+              "w": "report",
+              "startMs": 7257,
+              "endMs": 7600
+            },
+            {
+              "w": "to",
+              "startMs": 7627,
+              "endMs": 7680
+            },
+            {
+              "w": "the",
+              "startMs": 7700,
+              "endMs": 7760
+            },
+            {
+              "w": "Australian",
+              "startMs": 7811,
+              "endMs": 8320
+            },
+            {
+              "w": "government,",
+              "startMs": 8356,
+              "endMs": 8960
+            },
+            {
+              "w": "a",
+              "startMs": 9000,
+              "endMs": 9040
+            },
+            {
+              "w": "contract",
+              "startMs": 9084,
+              "endMs": 9440
+            },
+            {
+              "w": "worth",
+              "startMs": 9480,
+              "endMs": 9680
+            },
+            {
+              "w": "about",
+              "startMs": 9733,
+              "endMs": 10000
+            },
+            {
+              "w": "290,000",
+              "startMs": 10080,
+              "endMs": 11520
+            },
+            {
+              "w": "US",
+              "startMs": 11600,
+              "endMs": 11760
+            },
+            {
+              "w": "dollars.",
+              "startMs": 11820,
+              "endMs": 12560
+            },
+            {
+              "w": "It",
+              "startMs": 12667,
+              "endMs": 12880
+            },
+            {
+              "w": "had",
+              "startMs": 12920,
+              "endMs": 13040
+            },
+            {
+              "w": "references",
+              "startMs": 13084,
+              "endMs": 13520
+            },
+            {
+              "w": "that",
+              "startMs": 13568,
+              "endMs": 13760
+            },
+            {
+              "w": "didn't",
+              "startMs": 13792,
+              "endMs": 14000
+            },
+            {
+              "w": "exist",
+              "startMs": 14067,
+              "endMs": 14400
+            },
+            {
+              "w": "and",
+              "startMs": 14500,
+              "endMs": 14800
+            },
+            {
+              "w": "a",
+              "startMs": 14840,
+              "endMs": 14880
+            },
+            {
+              "w": "made-up",
+              "startMs": 14944,
+              "endMs": 15360
+            },
+            {
+              "w": "court",
+              "startMs": 15400,
+              "endMs": 15600
+            },
+            {
+              "w": "quote.",
+              "startMs": 15653,
+              "endMs": 16160
+            },
+            {
+              "w": "The",
+              "startMs": 16300,
+              "endMs": 16720
+            },
+            {
+              "w": "corrected",
+              "startMs": 16760,
+              "endMs": 17120
+            },
+            {
+              "w": "version",
+              "startMs": 17160,
+              "endMs": 17440
+            },
+            {
+              "w": "disclosed",
+              "startMs": 17504,
+              "endMs": 18080
+            },
+            {
+              "w": "that",
+              "startMs": 18112,
+              "endMs": 18240
+            },
+            {
+              "w": "generative",
+              "startMs": 18280,
+              "endMs": 18720
+            },
+            {
+              "w": "AI",
+              "startMs": 18827,
+              "endMs": 19040
+            },
+            {
+              "w": "had",
+              "startMs": 19080,
+              "endMs": 19200
+            },
+            {
+              "w": "been",
+              "startMs": 19232,
+              "endMs": 19360
+            },
+            {
+              "w": "used,",
+              "startMs": 19424,
+              "endMs": 20000
+            },
+            {
+              "w": "and",
+              "startMs": 20020,
+              "endMs": 20080
+            },
+            {
+              "w": "Deloitte",
+              "startMs": 20120,
+              "endMs": 20560
+            },
+            {
+              "w": "agreed",
+              "startMs": 20583,
+              "endMs": 20720
+            },
+            {
+              "w": "to",
+              "startMs": 20773,
+              "endMs": 20880
+            },
+            {
+              "w": "refund",
+              "startMs": 20949,
+              "endMs": 21360
+            },
+            {
+              "w": "part",
+              "startMs": 21392,
+              "endMs": 21520
+            },
+            {
+              "w": "of",
+              "startMs": 21547,
+              "endMs": 21600
+            },
+            {
+              "w": "the",
+              "startMs": 21620,
+              "endMs": 21680
+            },
+            {
+              "w": "fee.",
+              "startMs": 21760,
+              "endMs": 22240
+            },
+            {
+              "w": "It",
+              "startMs": 22373,
+              "endMs": 22640
+            },
+            {
+              "w": "took",
+              "startMs": 22672,
+              "endMs": 22800
+            },
+            {
+              "w": "an",
+              "startMs": 22827,
+              "endMs": 22880
+            },
+            {
+              "w": "outside",
+              "startMs": 22940,
+              "endMs": 23360
+            },
+            {
+              "w": "expert,",
+              "startMs": 23417,
+              "endMs": 23920
+            },
+            {
+              "w": "a",
+              "startMs": 23960,
+              "endMs": 24000
+            },
+            {
+              "w": "university",
+              "startMs": 24051,
+              "endMs": 24560
+            },
+            {
+              "w": "researcher,",
+              "startMs": 24596,
+              "endMs": 25280
+            },
+            {
+              "w": "to",
+              "startMs": 25307,
+              "endMs": 25360
+            },
+            {
+              "w": "catch",
+              "startMs": 25413,
+              "endMs": 25680
+            },
+            {
+              "w": "what",
+              "startMs": 25696,
+              "endMs": 25760
+            },
+            {
+              "w": "the",
+              "startMs": 25780,
+              "endMs": 25840
+            },
+            {
+              "w": "process",
+              "startMs": 25900,
+              "endMs": 26320
+            },
+            {
+              "w": "missed.",
+              "startMs": 26377,
+              "endMs": 27040
             }
           ]
         }
@@ -3469,7 +3559,7 @@
           "credit": "Fortune · Oct 7, 2025"
         }
       ],
-      "durationFrames": 640,
+      "durationFrames": 842,
       "state": "draft"
     },
     {
@@ -4790,6 +4880,12 @@
       "provider": "elevenlabs",
       "usd": 0.051359999999999996,
       "at": "2026-11-22T20:31:07.060Z"
+    },
+    {
+      "taskId": "narrate-s07b",
+      "provider": "elevenlabs",
+      "usd": 0.058199999999999995,
+      "at": "2026-11-22T21:29:06.696Z"
     }
   ],
   "moduleVersions": {
